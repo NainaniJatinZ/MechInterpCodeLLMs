@@ -2,7 +2,8 @@ import random
 import fire
 import numpy as np
 from functools import partial
-from baukit import TraceDict
+from baukit.baukit import nethook
+from baukit.baukit.nethook import TraceDict
 from tqdm import tqdm
 
 import torch
@@ -151,7 +152,7 @@ def pp_main(
     n_pos_trans: int = 5,  # Goat / FLoat circuit: 20, Llama circuit: 5
     n_pos_detect: int = 10,  # Goat / FLoat circuit: 30, Llama circuit: 10
     n_struct_read: int = 5,  # Goat / FLoat circuit: 5, Llama circuit: 5
-    output_path: str = "./results/path_patching/",
+    output_path: str = "./results1/path_patching/",
     seed: int = 20,  # Goat circuit: 82, FLoat circuit: 85, Llama circuit: 20
     batch_size: int = 100,
 ):

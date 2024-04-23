@@ -11,7 +11,9 @@ from transformers import (
     LlamaForCausalLM,
     LlamaTokenizer,
 )
-from baukit import TraceDict, nethook
+# from baukit import TraceDict, nethook
+from baukit.baukit import nethook
+from baukit.baukit.nethook import TraceDict
 from einops import rearrange, einsum
 from peft import PeftModel
 from datasets import Dataset
