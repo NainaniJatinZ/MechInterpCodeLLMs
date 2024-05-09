@@ -1084,3 +1084,33 @@ class ActivationCache:
             return residual_stack, labels  # type: ignore # TODO: fix this properly
         else:
             return residual_stack
+
+    def concatenate(self, *caches: ActivationCache) -> ActivationCache:
+        """Concatenate multiple activation caches along the 0th dimension.
+
+        Args:
+            *caches:
+                Variable length list of ActivationCache objects to concatenate.
+
+        Returns:
+            A new ActivationCache with the concatenated values.
+        """
+        # Initialize the concatenated cache dictionary with the current cache
+        new_cache_dict = {
+            key: value.clone() for key, value in self.cache_dict.items()
+        }
+
+        for cache in caches:
+            # assert isinstance(cache, ActivationCache), "All inputs must be ActivationCache objects."
+            # Ensure the caches have the same keys
+            if set(new_cache_dict.keys()) != set(cache.cache_dict.keys()):
+                raise ValueError(
+                    "ActivationCache objects must have identical keys to be concatenated."
+                )
+
+            # Concatenate each corresponding tensor along the 0th dimension
+            for key in new_cache_dict.keys():
+                new_cache_dict[key] = torch.cat([new_cache_dict[key], cache.cache_dict[key]], dim=0)
+
+        # Create a new ActivationCache with the concatenated cache dictionary
+        return ActivationCache(new_cache_dict, self.model, has_batch_dim=True)
