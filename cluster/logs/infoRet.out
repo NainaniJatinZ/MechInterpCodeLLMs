@@ -1,0 +1,85 @@
+Activated virtual environment
+Changed the directory to: /home/jnainani_umass_edu/codellm/MechInterpCodeLLMs
+Number of GPUs: 1
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 0.00 MB  Reserved: 0.00 MB
+Loaded pretrained model CodeLlama-7b-hf into HookedTransformer
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 26348.48 MB  Reserved: 26370.00 MB
+Prompts: ["def K(a, b):\n    return a - b\ndef F(a, b):\n    return a * b\ndef G(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\n\nthe name of the function that uses the '-' operator is ", "def K(a, b):\n    return a - b\ndef F(a, b):\n    return a * b\ndef G(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\n\nthe name of the function that uses the '<' operator is ", "def K(a, b):\n    return a - b\ndef F(a, b):\n    return a * b\ndef G(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\n\nthe name of the function that uses the '*' operator is ", "def K(a, b):\n    return a - b\ndef F(a, b):\n    return a * b\ndef G(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\n\nthe name of the function that uses the '+' operator is "]
+Answers: [('K', 'I'), ('I', 'K'), ('F', 'G'), ('G', 'F')]
+Clean string 0 <s> def K(a, b):
+    return a - b
+def F(a, b):
+    return a * b
+def G(a, b):
+    return a + b
+def I(a, b):
+    return a < b
+
+the name of the function that uses the '-' operator is </s>
+Corrupted string 0 <s> def K(a, b):
+    return a - b
+def F(a, b):
+    return a * b
+def G(a, b):
+    return a + b
+def I(a, b):
+    return a < b
+
+the name of the function that uses the '<' operator is </s>
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 26348.49 MB  Reserved: 26370.00 MB
+Answer token indices tensor([[476, 306],
+        [306, 476],
+        [383, 402],
+        [402, 383]], device='cuda:0')
+Number of tokens in clean:  72
+Number of tokens in corrupted:  72
+answer shape:  torch.Size([4, 2])
+Clean token shape: 4 * 72
+Corrupted token shape: 4 * 72
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 26348.49 MB  Reserved: 26370.00 MB
+Function 'get_cache_fwd_and_bwd' executed in 1.9105 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+Function 'get_cache_fwd_and_bwd' executed in 1.4606 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+Function 'get_cache_fwd_and_bwd' executed in 1.6584 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+Function 'get_cache_fwd_and_bwd' executed in 1.4528 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+Function 'get_cache_fwd_and_bwd' executed in 1.4593 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+Function 'get_cache_fwd_and_bwd' executed in 1.4510 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+Function 'get_cache_fwd_and_bwd' executed in 1.7199 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+Function 'get_cache_fwd_and_bwd' executed in 1.4539 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+cache shape: , torch.Size([4, 72, 4096])
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+Function 'attr_patch_residual' executed in 0.0743 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+Function 'attr_patch_layer_out' executed in 0.0733 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+['L0H0', 'L0H1', 'L0H2', 'L0H3', 'L0H4']
+['L0H0+', 'L0H0-', 'L0H1+', 'L0H1-', 'L0H2+']
+['L0H0Q', 'L0H0K', 'L0H0V', 'L0H1Q', 'L0H1K']
+Function 'attr_patch_head_out' executed in 2.5811 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
+Function 'attr_patch_head_pattern' executed in 0.0246 seconds
+Primary device: cuda:0
+GPU 0: 81050.62 MB  Allocated: 52073.87 MB  Reserved: 52182.00 MB
