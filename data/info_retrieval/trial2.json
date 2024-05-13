@@ -1,0 +1,642 @@
+[
+    {
+        "prompt": "D = 'string' \nI = 'game' \nE = 'hat' \nG = 'train' \nThe name of the variable that contains 'string' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "D = 'string' \nI = 'game' \nE = 'hat' \nG = 'train' \nThe name of the variable that contains 'game' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "D = 'string' \nI = 'game' \nE = 'hat' \nG = 'train' \nThe name of the variable that contains 'hat' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "D = 'string' \nI = 'game' \nE = 'hat' \nG = 'train' \nThe name of the variable that contains 'train' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "B = 'glass' \nG = 'apple' \nE = 'rock' \nF = 'computer' \nThe name of the variable that contains 'glass' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "B = 'glass' \nG = 'apple' \nE = 'rock' \nF = 'computer' \nThe name of the variable that contains 'apple' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "B = 'glass' \nG = 'apple' \nE = 'rock' \nF = 'computer' \nThe name of the variable that contains 'rock' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "B = 'glass' \nG = 'apple' \nE = 'rock' \nF = 'computer' \nThe name of the variable that contains 'computer' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "K = 'stone' \nF = 'note' \nJ = 'newspaper' \nD = 'book' \nThe name of the variable that contains 'stone' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "K = 'stone' \nF = 'note' \nJ = 'newspaper' \nD = 'book' \nThe name of the variable that contains 'note' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "K = 'stone' \nF = 'note' \nJ = 'newspaper' \nD = 'book' \nThe name of the variable that contains 'newspaper' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "K = 'stone' \nF = 'note' \nJ = 'newspaper' \nD = 'book' \nThe name of the variable that contains 'book' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "K = 'dress' \nJ = 'paper' \nH = 'rock' \nC = 'crown' \nThe name of the variable that contains 'dress' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "K = 'dress' \nJ = 'paper' \nH = 'rock' \nC = 'crown' \nThe name of the variable that contains 'paper' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "K = 'dress' \nJ = 'paper' \nH = 'rock' \nC = 'crown' \nThe name of the variable that contains 'rock' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "K = 'dress' \nJ = 'paper' \nH = 'rock' \nC = 'crown' \nThe name of the variable that contains 'crown' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C = 'picture' \nD = 'brick' \nA = 'flower' \nF = 'branch' \nThe name of the variable that contains 'picture' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C = 'picture' \nD = 'brick' \nA = 'flower' \nF = 'branch' \nThe name of the variable that contains 'brick' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "C = 'picture' \nD = 'brick' \nA = 'flower' \nF = 'branch' \nThe name of the variable that contains 'flower' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "C = 'picture' \nD = 'brick' \nA = 'flower' \nF = 'branch' \nThe name of the variable that contains 'branch' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "E = 'gift' \nD = 'newspaper' \nK = 'paper' \nG = 'rock' \nThe name of the variable that contains 'gift' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E = 'gift' \nD = 'newspaper' \nK = 'paper' \nG = 'rock' \nThe name of the variable that contains 'newspaper' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "E = 'gift' \nD = 'newspaper' \nK = 'paper' \nG = 'rock' \nThe name of the variable that contains 'paper' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "E = 'gift' \nD = 'newspaper' \nK = 'paper' \nG = 'rock' \nThe name of the variable that contains 'rock' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "F = 'disk' \nI = 'gift' \nE = 'ball' \nB = 'cup' \nThe name of the variable that contains 'disk' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "F = 'disk' \nI = 'gift' \nE = 'ball' \nB = 'cup' \nThe name of the variable that contains 'gift' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "F = 'disk' \nI = 'gift' \nE = 'ball' \nB = 'cup' \nThe name of the variable that contains 'ball' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "F = 'disk' \nI = 'gift' \nE = 'ball' \nB = 'cup' \nThe name of the variable that contains 'cup' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "A = 'plate' \nJ = 'ticket' \nI = 'hat' \nG = 'leaf' \nThe name of the variable that contains 'plate' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = 'plate' \nJ = 'ticket' \nI = 'hat' \nG = 'leaf' \nThe name of the variable that contains 'ticket' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "A = 'plate' \nJ = 'ticket' \nI = 'hat' \nG = 'leaf' \nThe name of the variable that contains 'hat' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "A = 'plate' \nJ = 'ticket' \nI = 'hat' \nG = 'leaf' \nThe name of the variable that contains 'leaf' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "C = 'leaf' \nE = 'apple' \nB = 'stone' \nD = 'phone' \nThe name of the variable that contains 'leaf' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C = 'leaf' \nE = 'apple' \nB = 'stone' \nD = 'phone' \nThe name of the variable that contains 'apple' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "C = 'leaf' \nE = 'apple' \nB = 'stone' \nD = 'phone' \nThe name of the variable that contains 'stone' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "C = 'leaf' \nE = 'apple' \nB = 'stone' \nD = 'phone' \nThe name of the variable that contains 'phone' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "I = 'drink' \nA = 'fig' \nD = 'hat' \nE = 'engine' \nThe name of the variable that contains 'drink' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I = 'drink' \nA = 'fig' \nD = 'hat' \nE = 'engine' \nThe name of the variable that contains 'fig' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "I = 'drink' \nA = 'fig' \nD = 'hat' \nE = 'engine' \nThe name of the variable that contains 'hat' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "I = 'drink' \nA = 'fig' \nD = 'hat' \nE = 'engine' \nThe name of the variable that contains 'engine' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "J = 'watch' \nD = 'rock' \nB = 'fish' \nE = 'apple' \nThe name of the variable that contains 'watch' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "J = 'watch' \nD = 'rock' \nB = 'fish' \nE = 'apple' \nThe name of the variable that contains 'rock' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "J = 'watch' \nD = 'rock' \nB = 'fish' \nE = 'apple' \nThe name of the variable that contains 'fish' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "J = 'watch' \nD = 'rock' \nB = 'fish' \nE = 'apple' \nThe name of the variable that contains 'apple' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "H = 'phone' \nG = 'drink' \nE = 'note' \nB = 'machine' \nThe name of the variable that contains 'phone' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H = 'phone' \nG = 'drink' \nE = 'note' \nB = 'machine' \nThe name of the variable that contains 'drink' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "H = 'phone' \nG = 'drink' \nE = 'note' \nB = 'machine' \nThe name of the variable that contains 'note' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "H = 'phone' \nG = 'drink' \nE = 'note' \nB = 'machine' \nThe name of the variable that contains 'machine' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "A = 'ring' \nC = 'drink' \nD = 'tie' \nF = 'plant' \nThe name of the variable that contains 'ring' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = 'ring' \nC = 'drink' \nD = 'tie' \nF = 'plant' \nThe name of the variable that contains 'drink' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "A = 'ring' \nC = 'drink' \nD = 'tie' \nF = 'plant' \nThe name of the variable that contains 'tie' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "A = 'ring' \nC = 'drink' \nD = 'tie' \nF = 'plant' \nThe name of the variable that contains 'plant' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "E = 'coffee' \nK = 'letter' \nF = 'apple' \nC = 'plate' \nThe name of the variable that contains 'coffee' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E = 'coffee' \nK = 'letter' \nF = 'apple' \nC = 'plate' \nThe name of the variable that contains 'letter' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "E = 'coffee' \nK = 'letter' \nF = 'apple' \nC = 'plate' \nThe name of the variable that contains 'apple' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "E = 'coffee' \nK = 'letter' \nF = 'apple' \nC = 'plate' \nThe name of the variable that contains 'plate' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "B = 'coat' \nF = 'bag' \nI = 'magazine' \nC = 'chemical' \nThe name of the variable that contains 'coat' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "B = 'coat' \nF = 'bag' \nI = 'magazine' \nC = 'chemical' \nThe name of the variable that contains 'bag' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "B = 'coat' \nF = 'bag' \nI = 'magazine' \nC = 'chemical' \nThe name of the variable that contains 'magazine' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "B = 'coat' \nF = 'bag' \nI = 'magazine' \nC = 'chemical' \nThe name of the variable that contains 'chemical' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "A = 'document' \nH = 'fish' \nD = 'bill' \nI = 'leaf' \nThe name of the variable that contains 'document' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = 'document' \nH = 'fish' \nD = 'bill' \nI = 'leaf' \nThe name of the variable that contains 'fish' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "A = 'document' \nH = 'fish' \nD = 'bill' \nI = 'leaf' \nThe name of the variable that contains 'bill' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "A = 'document' \nH = 'fish' \nD = 'bill' \nI = 'leaf' \nThe name of the variable that contains 'leaf' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "E = 'boat' \nB = 'wheel' \nA = 'television' \nH = 'paper' \nThe name of the variable that contains 'boat' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E = 'boat' \nB = 'wheel' \nA = 'television' \nH = 'paper' \nThe name of the variable that contains 'wheel' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "E = 'boat' \nB = 'wheel' \nA = 'television' \nH = 'paper' \nThe name of the variable that contains 'television' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "E = 'boat' \nB = 'wheel' \nA = 'television' \nH = 'paper' \nThe name of the variable that contains 'paper' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "I = 'boot' \nG = 'drink' \nA = 'file' \nF = 'ring' \nThe name of the variable that contains 'boot' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I = 'boot' \nG = 'drink' \nA = 'file' \nF = 'ring' \nThe name of the variable that contains 'drink' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "I = 'boot' \nG = 'drink' \nA = 'file' \nF = 'ring' \nThe name of the variable that contains 'file' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "I = 'boot' \nG = 'drink' \nA = 'file' \nF = 'ring' \nThe name of the variable that contains 'ring' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "F = 'ice' \nA = 'magnet' \nC = 'cross' \nD = 'plate' \nThe name of the variable that contains 'ice' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "F = 'ice' \nA = 'magnet' \nC = 'cross' \nD = 'plate' \nThe name of the variable that contains 'magnet' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "F = 'ice' \nA = 'magnet' \nC = 'cross' \nD = 'plate' \nThe name of the variable that contains 'cross' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "F = 'ice' \nA = 'magnet' \nC = 'cross' \nD = 'plate' \nThe name of the variable that contains 'plate' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "D = 'chemical' \nA = 'creature' \nH = 'crown' \nF = 'ticket' \nThe name of the variable that contains 'chemical' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "D = 'chemical' \nA = 'creature' \nH = 'crown' \nF = 'ticket' \nThe name of the variable that contains 'creature' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "D = 'chemical' \nA = 'creature' \nH = 'crown' \nF = 'ticket' \nThe name of the variable that contains 'crown' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "D = 'chemical' \nA = 'creature' \nH = 'crown' \nF = 'ticket' \nThe name of the variable that contains 'ticket' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "K = 'fish' \nF = 'cup' \nE = 'file' \nG = 'game' \nThe name of the variable that contains 'fish' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "K = 'fish' \nF = 'cup' \nE = 'file' \nG = 'game' \nThe name of the variable that contains 'cup' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "K = 'fish' \nF = 'cup' \nE = 'file' \nG = 'game' \nThe name of the variable that contains 'file' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "K = 'fish' \nF = 'cup' \nE = 'file' \nG = 'game' \nThe name of the variable that contains 'game' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "D = 'magnet' \nJ = 'tie' \nI = 'disk' \nH = 'magazine' \nThe name of the variable that contains 'magnet' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "D = 'magnet' \nJ = 'tie' \nI = 'disk' \nH = 'magazine' \nThe name of the variable that contains 'tie' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "D = 'magnet' \nJ = 'tie' \nI = 'disk' \nH = 'magazine' \nThe name of the variable that contains 'disk' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "D = 'magnet' \nJ = 'tie' \nI = 'disk' \nH = 'magazine' \nThe name of the variable that contains 'magazine' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "C = 'pot' \nI = 'dress' \nA = 'block' \nF = 'cup' \nThe name of the variable that contains 'pot' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C = 'pot' \nI = 'dress' \nA = 'block' \nF = 'cup' \nThe name of the variable that contains 'dress' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "C = 'pot' \nI = 'dress' \nA = 'block' \nF = 'cup' \nThe name of the variable that contains 'block' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "C = 'pot' \nI = 'dress' \nA = 'block' \nF = 'cup' \nThe name of the variable that contains 'cup' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "K = 'plant' \nF = 'bill' \nH = 'egg' \nE = 'paper' \nThe name of the variable that contains 'plant' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "K = 'plant' \nF = 'bill' \nH = 'egg' \nE = 'paper' \nThe name of the variable that contains 'bill' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "K = 'plant' \nF = 'bill' \nH = 'egg' \nE = 'paper' \nThe name of the variable that contains 'egg' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "K = 'plant' \nF = 'bill' \nH = 'egg' \nE = 'paper' \nThe name of the variable that contains 'paper' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "A = 'key' \nG = 'note' \nD = 'boat' \nC = 'watch' \nThe name of the variable that contains 'key' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = 'key' \nG = 'note' \nD = 'boat' \nC = 'watch' \nThe name of the variable that contains 'note' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "A = 'key' \nG = 'note' \nD = 'boat' \nC = 'watch' \nThe name of the variable that contains 'boat' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "A = 'key' \nG = 'note' \nD = 'boat' \nC = 'watch' \nThe name of the variable that contains 'watch' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "K = 'meat' \nD = 'leaf' \nG = 'map' \nC = 'bill' \nThe name of the variable that contains 'meat' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "K = 'meat' \nD = 'leaf' \nG = 'map' \nC = 'bill' \nThe name of the variable that contains 'leaf' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "K = 'meat' \nD = 'leaf' \nG = 'map' \nC = 'bill' \nThe name of the variable that contains 'map' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "K = 'meat' \nD = 'leaf' \nG = 'map' \nC = 'bill' \nThe name of the variable that contains 'bill' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C = 'ring' \nH = 'hat' \nE = 'cross' \nI = 'file' \nThe name of the variable that contains 'ring' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C = 'ring' \nH = 'hat' \nE = 'cross' \nI = 'file' \nThe name of the variable that contains 'hat' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "C = 'ring' \nH = 'hat' \nE = 'cross' \nI = 'file' \nThe name of the variable that contains 'cross' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "C = 'ring' \nH = 'hat' \nE = 'cross' \nI = 'file' \nThe name of the variable that contains 'file' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "C = 'bell' \nD = 'milk' \nF = 'ring' \nI = 'chemical' \nThe name of the variable that contains 'bell' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C = 'bell' \nD = 'milk' \nF = 'ring' \nI = 'chemical' \nThe name of the variable that contains 'milk' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "C = 'bell' \nD = 'milk' \nF = 'ring' \nI = 'chemical' \nThe name of the variable that contains 'ring' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "C = 'bell' \nD = 'milk' \nF = 'ring' \nI = 'chemical' \nThe name of the variable that contains 'chemical' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I = 'egg' \nD = 'television' \nF = 'wheel' \nK = 'bag' \nThe name of the variable that contains 'egg' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I = 'egg' \nD = 'television' \nF = 'wheel' \nK = 'bag' \nThe name of the variable that contains 'television' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "I = 'egg' \nD = 'television' \nF = 'wheel' \nK = 'bag' \nThe name of the variable that contains 'wheel' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "I = 'egg' \nD = 'television' \nF = 'wheel' \nK = 'bag' \nThe name of the variable that contains 'bag' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "H = 'block' \nE = 'branch' \nA = 'mirror' \nI = 'leaf' \nThe name of the variable that contains 'block' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H = 'block' \nE = 'branch' \nA = 'mirror' \nI = 'leaf' \nThe name of the variable that contains 'branch' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "H = 'block' \nE = 'branch' \nA = 'mirror' \nI = 'leaf' \nThe name of the variable that contains 'mirror' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "H = 'block' \nE = 'branch' \nA = 'mirror' \nI = 'leaf' \nThe name of the variable that contains 'leaf' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "J = 'bomb' \nE = 'car' \nA = 'leaf' \nF = 'coffee' \nThe name of the variable that contains 'bomb' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "J = 'bomb' \nE = 'car' \nA = 'leaf' \nF = 'coffee' \nThe name of the variable that contains 'car' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "J = 'bomb' \nE = 'car' \nA = 'leaf' \nF = 'coffee' \nThe name of the variable that contains 'leaf' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "J = 'bomb' \nE = 'car' \nA = 'leaf' \nF = 'coffee' \nThe name of the variable that contains 'coffee' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "B = 'key' \nA = 'flower' \nG = 'tea' \nK = 'bus' \nThe name of the variable that contains 'key' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "B = 'key' \nA = 'flower' \nG = 'tea' \nK = 'bus' \nThe name of the variable that contains 'flower' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "B = 'key' \nA = 'flower' \nG = 'tea' \nK = 'bus' \nThe name of the variable that contains 'tea' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "B = 'key' \nA = 'flower' \nG = 'tea' \nK = 'bus' \nThe name of the variable that contains 'bus' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "H = 'brain' \nI = 'letter' \nA = 'book' \nB = 'bag' \nThe name of the variable that contains 'brain' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H = 'brain' \nI = 'letter' \nA = 'book' \nB = 'bag' \nThe name of the variable that contains 'letter' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "H = 'brain' \nI = 'letter' \nA = 'book' \nB = 'bag' \nThe name of the variable that contains 'book' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "H = 'brain' \nI = 'letter' \nA = 'book' \nB = 'bag' \nThe name of the variable that contains 'bag' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "B = 'newspaper' \nH = 'television' \nK = 'shell' \nG = 'string' \nThe name of the variable that contains 'newspaper' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "B = 'newspaper' \nH = 'television' \nK = 'shell' \nG = 'string' \nThe name of the variable that contains 'television' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "B = 'newspaper' \nH = 'television' \nK = 'shell' \nG = 'string' \nThe name of the variable that contains 'shell' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "B = 'newspaper' \nH = 'television' \nK = 'shell' \nG = 'string' \nThe name of the variable that contains 'string' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "F = 'map' \nH = 'bag' \nD = 'brain' \nC = 'watch' \nThe name of the variable that contains 'map' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "F = 'map' \nH = 'bag' \nD = 'brain' \nC = 'watch' \nThe name of the variable that contains 'bag' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "F = 'map' \nH = 'bag' \nD = 'brain' \nC = 'watch' \nThe name of the variable that contains 'brain' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "F = 'map' \nH = 'bag' \nD = 'brain' \nC = 'watch' \nThe name of the variable that contains 'watch' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "K = 'boat' \nG = 'bomb' \nJ = 'pipe' \nA = 'machine' \nThe name of the variable that contains 'boat' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "K = 'boat' \nG = 'bomb' \nJ = 'pipe' \nA = 'machine' \nThe name of the variable that contains 'bomb' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "K = 'boat' \nG = 'bomb' \nJ = 'pipe' \nA = 'machine' \nThe name of the variable that contains 'pipe' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "K = 'boat' \nG = 'bomb' \nJ = 'pipe' \nA = 'machine' \nThe name of the variable that contains 'machine' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "F = 'plant' \nE = 'camera' \nC = 'ball' \nB = 'milk' \nThe name of the variable that contains 'plant' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "F = 'plant' \nE = 'camera' \nC = 'ball' \nB = 'milk' \nThe name of the variable that contains 'camera' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "F = 'plant' \nE = 'camera' \nC = 'ball' \nB = 'milk' \nThe name of the variable that contains 'ball' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "F = 'plant' \nE = 'camera' \nC = 'ball' \nB = 'milk' \nThe name of the variable that contains 'milk' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "E = 'camera' \nD = 'radio' \nC = 'bell' \nG = 'drug' \nThe name of the variable that contains 'camera' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E = 'camera' \nD = 'radio' \nC = 'bell' \nG = 'drug' \nThe name of the variable that contains 'radio' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "E = 'camera' \nD = 'radio' \nC = 'bell' \nG = 'drug' \nThe name of the variable that contains 'bell' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "E = 'camera' \nD = 'radio' \nC = 'bell' \nG = 'drug' \nThe name of the variable that contains 'drug' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "I = 'tie' \nE = 'note' \nB = 'rock' \nG = 'bomb' \nThe name of the variable that contains 'tie' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I = 'tie' \nE = 'note' \nB = 'rock' \nG = 'bomb' \nThe name of the variable that contains 'note' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "I = 'tie' \nE = 'note' \nB = 'rock' \nG = 'bomb' \nThe name of the variable that contains 'rock' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "I = 'tie' \nE = 'note' \nB = 'rock' \nG = 'bomb' \nThe name of the variable that contains 'bomb' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "C = 'paper' \nH = 'fig' \nA = 'television' \nI = 'bell' \nThe name of the variable that contains 'paper' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C = 'paper' \nH = 'fig' \nA = 'television' \nI = 'bell' \nThe name of the variable that contains 'fig' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "C = 'paper' \nH = 'fig' \nA = 'television' \nI = 'bell' \nThe name of the variable that contains 'television' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "C = 'paper' \nH = 'fig' \nA = 'television' \nI = 'bell' \nThe name of the variable that contains 'bell' is ",
+        "output": "I"
+    }
+]

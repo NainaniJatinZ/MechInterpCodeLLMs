@@ -1,0 +1,802 @@
+[
+    {
+        "prompt": "C= * \nD= % \nF= ** \nJ= + \nG= - \nThe name of the variable that contains the '*' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C= * \nD= % \nF= ** \nJ= + \nG= - \nThe name of the variable that contains the '%' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "C= * \nD= % \nF= ** \nJ= + \nG= - \nThe name of the variable that contains the '**' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "C= * \nD= % \nF= ** \nJ= + \nG= - \nThe name of the variable that contains the '+' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "C= * \nD= % \nF= ** \nJ= + \nG= - \nThe name of the variable that contains the '-' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "I= + \nJ= - \nE= % \nB= * \nK= ** \nThe name of the variable that contains the '+' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I= + \nJ= - \nE= % \nB= * \nK= ** \nThe name of the variable that contains the '-' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "I= + \nJ= - \nE= % \nB= * \nK= ** \nThe name of the variable that contains the '%' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "I= + \nJ= - \nE= % \nB= * \nK= ** \nThe name of the variable that contains the '*' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "I= + \nJ= - \nE= % \nB= * \nK= ** \nThe name of the variable that contains the '**' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "E= - \nC= + \nA= * \nF= % \nB= ** \nThe name of the variable that contains the '-' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E= - \nC= + \nA= * \nF= % \nB= ** \nThe name of the variable that contains the '+' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "E= - \nC= + \nA= * \nF= % \nB= ** \nThe name of the variable that contains the '*' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "E= - \nC= + \nA= * \nF= % \nB= ** \nThe name of the variable that contains the '%' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "E= - \nC= + \nA= * \nF= % \nB= ** \nThe name of the variable that contains the '**' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "C= + \nJ= % \nI= ** \nD= * \nA= - \nThe name of the variable that contains the '+' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C= + \nJ= % \nI= ** \nD= * \nA= - \nThe name of the variable that contains the '%' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "C= + \nJ= % \nI= ** \nD= * \nA= - \nThe name of the variable that contains the '**' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "C= + \nJ= % \nI= ** \nD= * \nA= - \nThe name of the variable that contains the '*' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "C= + \nJ= % \nI= ** \nD= * \nA= - \nThe name of the variable that contains the '-' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "E= * \nD= ** \nF= - \nB= % \nH= + \nThe name of the variable that contains the '*' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E= * \nD= ** \nF= - \nB= % \nH= + \nThe name of the variable that contains the '**' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "E= * \nD= ** \nF= - \nB= % \nH= + \nThe name of the variable that contains the '-' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "E= * \nD= ** \nF= - \nB= % \nH= + \nThe name of the variable that contains the '%' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "E= * \nD= ** \nF= - \nB= % \nH= + \nThe name of the variable that contains the '+' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "E= % \nK= * \nH= ** \nF= + \nJ= - \nThe name of the variable that contains the '%' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E= % \nK= * \nH= ** \nF= + \nJ= - \nThe name of the variable that contains the '*' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "E= % \nK= * \nH= ** \nF= + \nJ= - \nThe name of the variable that contains the '**' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "E= % \nK= * \nH= ** \nF= + \nJ= - \nThe name of the variable that contains the '+' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "E= % \nK= * \nH= ** \nF= + \nJ= - \nThe name of the variable that contains the '-' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "E= - \nG= ** \nJ= % \nA= + \nD= * \nThe name of the variable that contains the '-' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E= - \nG= ** \nJ= % \nA= + \nD= * \nThe name of the variable that contains the '**' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "E= - \nG= ** \nJ= % \nA= + \nD= * \nThe name of the variable that contains the '%' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "E= - \nG= ** \nJ= % \nA= + \nD= * \nThe name of the variable that contains the '+' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "E= - \nG= ** \nJ= % \nA= + \nD= * \nThe name of the variable that contains the '*' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "H= % \nK= ** \nG= * \nI= + \nF= - \nThe name of the variable that contains the '%' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H= % \nK= ** \nG= * \nI= + \nF= - \nThe name of the variable that contains the '**' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "H= % \nK= ** \nG= * \nI= + \nF= - \nThe name of the variable that contains the '*' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "H= % \nK= ** \nG= * \nI= + \nF= - \nThe name of the variable that contains the '+' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "H= % \nK= ** \nG= * \nI= + \nF= - \nThe name of the variable that contains the '-' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "B= % \nI= ** \nC= - \nA= * \nK= + \nThe name of the variable that contains the '%' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "B= % \nI= ** \nC= - \nA= * \nK= + \nThe name of the variable that contains the '**' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "B= % \nI= ** \nC= - \nA= * \nK= + \nThe name of the variable that contains the '-' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "B= % \nI= ** \nC= - \nA= * \nK= + \nThe name of the variable that contains the '*' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "B= % \nI= ** \nC= - \nA= * \nK= + \nThe name of the variable that contains the '+' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "H= + \nG= ** \nK= - \nA= * \nE= % \nThe name of the variable that contains the '+' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H= + \nG= ** \nK= - \nA= * \nE= % \nThe name of the variable that contains the '**' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "H= + \nG= ** \nK= - \nA= * \nE= % \nThe name of the variable that contains the '-' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "H= + \nG= ** \nK= - \nA= * \nE= % \nThe name of the variable that contains the '*' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "H= + \nG= ** \nK= - \nA= * \nE= % \nThe name of the variable that contains the '%' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "A= * \nD= % \nI= ** \nB= + \nF= - \nThe name of the variable that contains the '*' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A= * \nD= % \nI= ** \nB= + \nF= - \nThe name of the variable that contains the '%' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "A= * \nD= % \nI= ** \nB= + \nF= - \nThe name of the variable that contains the '**' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "A= * \nD= % \nI= ** \nB= + \nF= - \nThe name of the variable that contains the '+' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "A= * \nD= % \nI= ** \nB= + \nF= - \nThe name of the variable that contains the '-' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "A= % \nH= - \nF= ** \nG= + \nK= * \nThe name of the variable that contains the '%' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A= % \nH= - \nF= ** \nG= + \nK= * \nThe name of the variable that contains the '-' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "A= % \nH= - \nF= ** \nG= + \nK= * \nThe name of the variable that contains the '**' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "A= % \nH= - \nF= ** \nG= + \nK= * \nThe name of the variable that contains the '+' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "A= % \nH= - \nF= ** \nG= + \nK= * \nThe name of the variable that contains the '*' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "D= ** \nB= * \nI= + \nG= % \nC= - \nThe name of the variable that contains the '**' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "D= ** \nB= * \nI= + \nG= % \nC= - \nThe name of the variable that contains the '*' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "D= ** \nB= * \nI= + \nG= % \nC= - \nThe name of the variable that contains the '+' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "D= ** \nB= * \nI= + \nG= % \nC= - \nThe name of the variable that contains the '%' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "D= ** \nB= * \nI= + \nG= % \nC= - \nThe name of the variable that contains the '-' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "K= * \nB= % \nI= ** \nD= - \nJ= + \nThe name of the variable that contains the '*' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "K= * \nB= % \nI= ** \nD= - \nJ= + \nThe name of the variable that contains the '%' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "K= * \nB= % \nI= ** \nD= - \nJ= + \nThe name of the variable that contains the '**' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "K= * \nB= % \nI= ** \nD= - \nJ= + \nThe name of the variable that contains the '-' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "K= * \nB= % \nI= ** \nD= - \nJ= + \nThe name of the variable that contains the '+' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "F= * \nG= % \nJ= ** \nD= - \nA= + \nThe name of the variable that contains the '*' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "F= * \nG= % \nJ= ** \nD= - \nA= + \nThe name of the variable that contains the '%' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "F= * \nG= % \nJ= ** \nD= - \nA= + \nThe name of the variable that contains the '**' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "F= * \nG= % \nJ= ** \nD= - \nA= + \nThe name of the variable that contains the '-' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "F= * \nG= % \nJ= ** \nD= - \nA= + \nThe name of the variable that contains the '+' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "G= + \nE= % \nC= - \nB= * \nD= ** \nThe name of the variable that contains the '+' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "G= + \nE= % \nC= - \nB= * \nD= ** \nThe name of the variable that contains the '%' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "G= + \nE= % \nC= - \nB= * \nD= ** \nThe name of the variable that contains the '-' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "G= + \nE= % \nC= - \nB= * \nD= ** \nThe name of the variable that contains the '*' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "G= + \nE= % \nC= - \nB= * \nD= ** \nThe name of the variable that contains the '**' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "B= % \nK= ** \nC= * \nG= - \nF= + \nThe name of the variable that contains the '%' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "B= % \nK= ** \nC= * \nG= - \nF= + \nThe name of the variable that contains the '**' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "B= % \nK= ** \nC= * \nG= - \nF= + \nThe name of the variable that contains the '*' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "B= % \nK= ** \nC= * \nG= - \nF= + \nThe name of the variable that contains the '-' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "B= % \nK= ** \nC= * \nG= - \nF= + \nThe name of the variable that contains the '+' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "G= ** \nK= - \nE= * \nB= % \nD= + \nThe name of the variable that contains the '**' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "G= ** \nK= - \nE= * \nB= % \nD= + \nThe name of the variable that contains the '-' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "G= ** \nK= - \nE= * \nB= % \nD= + \nThe name of the variable that contains the '*' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "G= ** \nK= - \nE= * \nB= % \nD= + \nThe name of the variable that contains the '%' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "G= ** \nK= - \nE= * \nB= % \nD= + \nThe name of the variable that contains the '+' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "A= % \nB= * \nJ= ** \nH= + \nE= - \nThe name of the variable that contains the '%' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A= % \nB= * \nJ= ** \nH= + \nE= - \nThe name of the variable that contains the '*' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "A= % \nB= * \nJ= ** \nH= + \nE= - \nThe name of the variable that contains the '**' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "A= % \nB= * \nJ= ** \nH= + \nE= - \nThe name of the variable that contains the '+' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "A= % \nB= * \nJ= ** \nH= + \nE= - \nThe name of the variable that contains the '-' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "A= ** \nC= - \nI= % \nB= * \nF= + \nThe name of the variable that contains the '**' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A= ** \nC= - \nI= % \nB= * \nF= + \nThe name of the variable that contains the '-' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "A= ** \nC= - \nI= % \nB= * \nF= + \nThe name of the variable that contains the '%' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "A= ** \nC= - \nI= % \nB= * \nF= + \nThe name of the variable that contains the '*' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "A= ** \nC= - \nI= % \nB= * \nF= + \nThe name of the variable that contains the '+' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "C= - \nD= % \nG= * \nB= + \nJ= ** \nThe name of the variable that contains the '-' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C= - \nD= % \nG= * \nB= + \nJ= ** \nThe name of the variable that contains the '%' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "C= - \nD= % \nG= * \nB= + \nJ= ** \nThe name of the variable that contains the '*' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "C= - \nD= % \nG= * \nB= + \nJ= ** \nThe name of the variable that contains the '+' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "C= - \nD= % \nG= * \nB= + \nJ= ** \nThe name of the variable that contains the '**' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "H= ** \nE= - \nA= * \nK= + \nJ= % \nThe name of the variable that contains the '**' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H= ** \nE= - \nA= * \nK= + \nJ= % \nThe name of the variable that contains the '-' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "H= ** \nE= - \nA= * \nK= + \nJ= % \nThe name of the variable that contains the '*' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "H= ** \nE= - \nA= * \nK= + \nJ= % \nThe name of the variable that contains the '+' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "H= ** \nE= - \nA= * \nK= + \nJ= % \nThe name of the variable that contains the '%' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "E= ** \nJ= + \nB= - \nC= * \nG= % \nThe name of the variable that contains the '**' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E= ** \nJ= + \nB= - \nC= * \nG= % \nThe name of the variable that contains the '+' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "E= ** \nJ= + \nB= - \nC= * \nG= % \nThe name of the variable that contains the '-' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "E= ** \nJ= + \nB= - \nC= * \nG= % \nThe name of the variable that contains the '*' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "E= ** \nJ= + \nB= - \nC= * \nG= % \nThe name of the variable that contains the '%' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "E= * \nD= - \nJ= % \nH= ** \nB= + \nThe name of the variable that contains the '*' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E= * \nD= - \nJ= % \nH= ** \nB= + \nThe name of the variable that contains the '-' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "E= * \nD= - \nJ= % \nH= ** \nB= + \nThe name of the variable that contains the '%' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "E= * \nD= - \nJ= % \nH= ** \nB= + \nThe name of the variable that contains the '**' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "E= * \nD= - \nJ= % \nH= ** \nB= + \nThe name of the variable that contains the '+' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "F= * \nC= + \nI= - \nA= % \nH= ** \nThe name of the variable that contains the '*' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "F= * \nC= + \nI= - \nA= % \nH= ** \nThe name of the variable that contains the '+' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "F= * \nC= + \nI= - \nA= % \nH= ** \nThe name of the variable that contains the '-' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "F= * \nC= + \nI= - \nA= % \nH= ** \nThe name of the variable that contains the '%' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "F= * \nC= + \nI= - \nA= % \nH= ** \nThe name of the variable that contains the '**' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "J= ** \nI= % \nD= + \nC= - \nE= * \nThe name of the variable that contains the '**' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "J= ** \nI= % \nD= + \nC= - \nE= * \nThe name of the variable that contains the '%' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "J= ** \nI= % \nD= + \nC= - \nE= * \nThe name of the variable that contains the '+' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "J= ** \nI= % \nD= + \nC= - \nE= * \nThe name of the variable that contains the '-' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "J= ** \nI= % \nD= + \nC= - \nE= * \nThe name of the variable that contains the '*' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "B= * \nA= ** \nG= + \nJ= % \nI= - \nThe name of the variable that contains the '*' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "B= * \nA= ** \nG= + \nJ= % \nI= - \nThe name of the variable that contains the '**' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "B= * \nA= ** \nG= + \nJ= % \nI= - \nThe name of the variable that contains the '+' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "B= * \nA= ** \nG= + \nJ= % \nI= - \nThe name of the variable that contains the '%' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "B= * \nA= ** \nG= + \nJ= % \nI= - \nThe name of the variable that contains the '-' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "A= - \nJ= ** \nD= + \nH= % \nC= * \nThe name of the variable that contains the '-' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A= - \nJ= ** \nD= + \nH= % \nC= * \nThe name of the variable that contains the '**' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "A= - \nJ= ** \nD= + \nH= % \nC= * \nThe name of the variable that contains the '+' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "A= - \nJ= ** \nD= + \nH= % \nC= * \nThe name of the variable that contains the '%' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "A= - \nJ= ** \nD= + \nH= % \nC= * \nThe name of the variable that contains the '*' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "H= * \nB= - \nJ= % \nI= ** \nD= + \nThe name of the variable that contains the '*' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H= * \nB= - \nJ= % \nI= ** \nD= + \nThe name of the variable that contains the '-' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "H= * \nB= - \nJ= % \nI= ** \nD= + \nThe name of the variable that contains the '%' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "H= * \nB= - \nJ= % \nI= ** \nD= + \nThe name of the variable that contains the '**' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "H= * \nB= - \nJ= % \nI= ** \nD= + \nThe name of the variable that contains the '+' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "D= - \nH= * \nJ= % \nB= ** \nA= + \nThe name of the variable that contains the '-' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "D= - \nH= * \nJ= % \nB= ** \nA= + \nThe name of the variable that contains the '*' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "D= - \nH= * \nJ= % \nB= ** \nA= + \nThe name of the variable that contains the '%' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "D= - \nH= * \nJ= % \nB= ** \nA= + \nThe name of the variable that contains the '**' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "D= - \nH= * \nJ= % \nB= ** \nA= + \nThe name of the variable that contains the '+' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "K= % \nI= ** \nG= + \nA= * \nD= - \nThe name of the variable that contains the '%' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "K= % \nI= ** \nG= + \nA= * \nD= - \nThe name of the variable that contains the '**' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "K= % \nI= ** \nG= + \nA= * \nD= - \nThe name of the variable that contains the '+' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "K= % \nI= ** \nG= + \nA= * \nD= - \nThe name of the variable that contains the '*' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "K= % \nI= ** \nG= + \nA= * \nD= - \nThe name of the variable that contains the '-' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "I= % \nB= ** \nF= + \nJ= - \nC= * \nThe name of the variable that contains the '%' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I= % \nB= ** \nF= + \nJ= - \nC= * \nThe name of the variable that contains the '**' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "I= % \nB= ** \nF= + \nJ= - \nC= * \nThe name of the variable that contains the '+' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "I= % \nB= ** \nF= + \nJ= - \nC= * \nThe name of the variable that contains the '-' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "I= % \nB= ** \nF= + \nJ= - \nC= * \nThe name of the variable that contains the '*' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "E= + \nA= * \nC= - \nG= ** \nD= % \nThe name of the variable that contains the '+' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E= + \nA= * \nC= - \nG= ** \nD= % \nThe name of the variable that contains the '*' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "E= + \nA= * \nC= - \nG= ** \nD= % \nThe name of the variable that contains the '-' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "E= + \nA= * \nC= - \nG= ** \nD= % \nThe name of the variable that contains the '**' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "E= + \nA= * \nC= - \nG= ** \nD= % \nThe name of the variable that contains the '%' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "B= % \nH= * \nG= + \nJ= ** \nI= - \nThe name of the variable that contains the '%' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "B= % \nH= * \nG= + \nJ= ** \nI= - \nThe name of the variable that contains the '*' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "B= % \nH= * \nG= + \nJ= ** \nI= - \nThe name of the variable that contains the '+' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "B= % \nH= * \nG= + \nJ= ** \nI= - \nThe name of the variable that contains the '**' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "B= % \nH= * \nG= + \nJ= ** \nI= - \nThe name of the variable that contains the '-' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "B= * \nE= + \nA= % \nC= - \nF= ** \nThe name of the variable that contains the '*' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "B= * \nE= + \nA= % \nC= - \nF= ** \nThe name of the variable that contains the '+' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "B= * \nE= + \nA= % \nC= - \nF= ** \nThe name of the variable that contains the '%' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "B= * \nE= + \nA= % \nC= - \nF= ** \nThe name of the variable that contains the '-' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "B= * \nE= + \nA= % \nC= - \nF= ** \nThe name of the variable that contains the '**' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "E= - \nI= ** \nH= + \nJ= * \nF= % \nThe name of the variable that contains the '-' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E= - \nI= ** \nH= + \nJ= * \nF= % \nThe name of the variable that contains the '**' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "E= - \nI= ** \nH= + \nJ= * \nF= % \nThe name of the variable that contains the '+' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "E= - \nI= ** \nH= + \nJ= * \nF= % \nThe name of the variable that contains the '*' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "E= - \nI= ** \nH= + \nJ= * \nF= % \nThe name of the variable that contains the '%' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "G= + \nK= * \nD= - \nJ= ** \nH= % \nThe name of the variable that contains the '+' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "G= + \nK= * \nD= - \nJ= ** \nH= % \nThe name of the variable that contains the '*' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "G= + \nK= * \nD= - \nJ= ** \nH= % \nThe name of the variable that contains the '-' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "G= + \nK= * \nD= - \nJ= ** \nH= % \nThe name of the variable that contains the '**' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "G= + \nK= * \nD= - \nJ= ** \nH= % \nThe name of the variable that contains the '%' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "D= * \nK= - \nJ= + \nI= % \nC= ** \nThe name of the variable that contains the '*' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "D= * \nK= - \nJ= + \nI= % \nC= ** \nThe name of the variable that contains the '-' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "D= * \nK= - \nJ= + \nI= % \nC= ** \nThe name of the variable that contains the '+' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "D= * \nK= - \nJ= + \nI= % \nC= ** \nThe name of the variable that contains the '%' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "D= * \nK= - \nJ= + \nI= % \nC= ** \nThe name of the variable that contains the '**' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "E= - \nK= + \nD= ** \nI= * \nB= % \nThe name of the variable that contains the '-' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E= - \nK= + \nD= ** \nI= * \nB= % \nThe name of the variable that contains the '+' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "E= - \nK= + \nD= ** \nI= * \nB= % \nThe name of the variable that contains the '**' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "E= - \nK= + \nD= ** \nI= * \nB= % \nThe name of the variable that contains the '*' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "E= - \nK= + \nD= ** \nI= * \nB= % \nThe name of the variable that contains the '%' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "J= * \nA= % \nH= + \nF= ** \nK= - \nThe name of the variable that contains the '*' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "J= * \nA= % \nH= + \nF= ** \nK= - \nThe name of the variable that contains the '%' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "J= * \nA= % \nH= + \nF= ** \nK= - \nThe name of the variable that contains the '+' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "J= * \nA= % \nH= + \nF= ** \nK= - \nThe name of the variable that contains the '**' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "J= * \nA= % \nH= + \nF= ** \nK= - \nThe name of the variable that contains the '-' operator is ",
+        "output": "K"
+    }
+]
