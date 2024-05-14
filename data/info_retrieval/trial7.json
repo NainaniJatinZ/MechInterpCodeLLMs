@@ -1,0 +1,642 @@
+[
+    {
+        "prompt": "F = ['wheel'];D = ['camera'];E = ['hat'];B = ['ice'];The name of the variable that contains 'wheel' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "F = ['wheel'];D = ['camera'];E = ['hat'];B = ['ice'];The name of the variable that contains 'camera' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "F = ['wheel'];D = ['camera'];E = ['hat'];B = ['ice'];The name of the variable that contains 'hat' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "F = ['wheel'];D = ['camera'];E = ['hat'];B = ['ice'];The name of the variable that contains 'ice' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "D = ['phone'];H = ['egg'];J = ['letter'];E = ['note'];The name of the variable that contains 'phone' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "D = ['phone'];H = ['egg'];J = ['letter'];E = ['note'];The name of the variable that contains 'egg' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "D = ['phone'];H = ['egg'];J = ['letter'];E = ['note'];The name of the variable that contains 'letter' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "D = ['phone'];H = ['egg'];J = ['letter'];E = ['note'];The name of the variable that contains 'note' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "A = ['map'];K = ['boot'];C = ['disk'];D = ['car'];The name of the variable that contains 'map' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = ['map'];K = ['boot'];C = ['disk'];D = ['car'];The name of the variable that contains 'boot' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "A = ['map'];K = ['boot'];C = ['disk'];D = ['car'];The name of the variable that contains 'disk' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "A = ['map'];K = ['boot'];C = ['disk'];D = ['car'];The name of the variable that contains 'car' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "E = ['letter'];J = ['ticket'];H = ['brick'];A = ['boat'];The name of the variable that contains 'letter' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E = ['letter'];J = ['ticket'];H = ['brick'];A = ['boat'];The name of the variable that contains 'ticket' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "E = ['letter'];J = ['ticket'];H = ['brick'];A = ['boat'];The name of the variable that contains 'brick' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "E = ['letter'];J = ['ticket'];H = ['brick'];A = ['boat'];The name of the variable that contains 'boat' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = ['rock'];J = ['meat'];G = ['tea'];C = ['machine'];The name of the variable that contains 'rock' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = ['rock'];J = ['meat'];G = ['tea'];C = ['machine'];The name of the variable that contains 'meat' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "A = ['rock'];J = ['meat'];G = ['tea'];C = ['machine'];The name of the variable that contains 'tea' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "A = ['rock'];J = ['meat'];G = ['tea'];C = ['machine'];The name of the variable that contains 'machine' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "H = ['plate'];A = ['seed'];G = ['leaf'];K = ['chemical'];The name of the variable that contains 'plate' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H = ['plate'];A = ['seed'];G = ['leaf'];K = ['chemical'];The name of the variable that contains 'seed' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "H = ['plate'];A = ['seed'];G = ['leaf'];K = ['chemical'];The name of the variable that contains 'leaf' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "H = ['plate'];A = ['seed'];G = ['leaf'];K = ['chemical'];The name of the variable that contains 'chemical' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "I = ['seed'];H = ['fig'];F = ['newspaper'];J = ['shell'];The name of the variable that contains 'seed' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I = ['seed'];H = ['fig'];F = ['newspaper'];J = ['shell'];The name of the variable that contains 'fig' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "I = ['seed'];H = ['fig'];F = ['newspaper'];J = ['shell'];The name of the variable that contains 'newspaper' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "I = ['seed'];H = ['fig'];F = ['newspaper'];J = ['shell'];The name of the variable that contains 'shell' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "H = ['note'];E = ['cross'];A = ['coffee'];I = ['radio'];The name of the variable that contains 'note' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H = ['note'];E = ['cross'];A = ['coffee'];I = ['radio'];The name of the variable that contains 'cross' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "H = ['note'];E = ['cross'];A = ['coffee'];I = ['radio'];The name of the variable that contains 'coffee' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "H = ['note'];E = ['cross'];A = ['coffee'];I = ['radio'];The name of the variable that contains 'radio' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "A = ['file'];E = ['egg'];I = ['tie'];B = ['card'];The name of the variable that contains 'file' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = ['file'];E = ['egg'];I = ['tie'];B = ['card'];The name of the variable that contains 'egg' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "A = ['file'];E = ['egg'];I = ['tie'];B = ['card'];The name of the variable that contains 'tie' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "A = ['file'];E = ['egg'];I = ['tie'];B = ['card'];The name of the variable that contains 'card' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "H = ['ring'];B = ['leaf'];F = ['guitar'];D = ['crown'];The name of the variable that contains 'ring' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H = ['ring'];B = ['leaf'];F = ['guitar'];D = ['crown'];The name of the variable that contains 'leaf' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "H = ['ring'];B = ['leaf'];F = ['guitar'];D = ['crown'];The name of the variable that contains 'guitar' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "H = ['ring'];B = ['leaf'];F = ['guitar'];D = ['crown'];The name of the variable that contains 'crown' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "E = ['ticket'];J = ['picture'];G = ['hat'];B = ['cross'];The name of the variable that contains 'ticket' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E = ['ticket'];J = ['picture'];G = ['hat'];B = ['cross'];The name of the variable that contains 'picture' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "E = ['ticket'];J = ['picture'];G = ['hat'];B = ['cross'];The name of the variable that contains 'hat' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "E = ['ticket'];J = ['picture'];G = ['hat'];B = ['cross'];The name of the variable that contains 'cross' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "D = ['pipe'];G = ['engine'];A = ['painting'];C = ['brain'];The name of the variable that contains 'pipe' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "D = ['pipe'];G = ['engine'];A = ['painting'];C = ['brain'];The name of the variable that contains 'engine' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "D = ['pipe'];G = ['engine'];A = ['painting'];C = ['brain'];The name of the variable that contains 'painting' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "D = ['pipe'];G = ['engine'];A = ['painting'];C = ['brain'];The name of the variable that contains 'brain' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "F = ['magnet'];E = ['train'];D = ['bread'];C = ['television'];The name of the variable that contains 'magnet' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "F = ['magnet'];E = ['train'];D = ['bread'];C = ['television'];The name of the variable that contains 'train' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "F = ['magnet'];E = ['train'];D = ['bread'];C = ['television'];The name of the variable that contains 'bread' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "F = ['magnet'];E = ['train'];D = ['bread'];C = ['television'];The name of the variable that contains 'television' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "E = ['ball'];J = ['brain'];B = ['radio'];F = ['seed'];The name of the variable that contains 'ball' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E = ['ball'];J = ['brain'];B = ['radio'];F = ['seed'];The name of the variable that contains 'brain' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "E = ['ball'];J = ['brain'];B = ['radio'];F = ['seed'];The name of the variable that contains 'radio' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "E = ['ball'];J = ['brain'];B = ['radio'];F = ['seed'];The name of the variable that contains 'seed' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "C = ['seed'];E = ['chemical'];G = ['fish'];F = ['string'];The name of the variable that contains 'seed' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "C = ['seed'];E = ['chemical'];G = ['fish'];F = ['string'];The name of the variable that contains 'chemical' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "C = ['seed'];E = ['chemical'];G = ['fish'];F = ['string'];The name of the variable that contains 'fish' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "C = ['seed'];E = ['chemical'];G = ['fish'];F = ['string'];The name of the variable that contains 'string' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "H = ['letter'];K = ['chemical'];F = ['magnet'];J = ['rock'];The name of the variable that contains 'letter' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H = ['letter'];K = ['chemical'];F = ['magnet'];J = ['rock'];The name of the variable that contains 'chemical' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "H = ['letter'];K = ['chemical'];F = ['magnet'];J = ['rock'];The name of the variable that contains 'magnet' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "H = ['letter'];K = ['chemical'];F = ['magnet'];J = ['rock'];The name of the variable that contains 'rock' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "K = ['ring'];A = ['paper'];H = ['wire'];E = ['plane'];The name of the variable that contains 'ring' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "K = ['ring'];A = ['paper'];H = ['wire'];E = ['plane'];The name of the variable that contains 'paper' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "K = ['ring'];A = ['paper'];H = ['wire'];E = ['plane'];The name of the variable that contains 'wire' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "K = ['ring'];A = ['paper'];H = ['wire'];E = ['plane'];The name of the variable that contains 'plane' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "G = ['hat'];H = ['tea'];A = ['bus'];K = ['picture'];The name of the variable that contains 'hat' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "G = ['hat'];H = ['tea'];A = ['bus'];K = ['picture'];The name of the variable that contains 'tea' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "G = ['hat'];H = ['tea'];A = ['bus'];K = ['picture'];The name of the variable that contains 'bus' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "G = ['hat'];H = ['tea'];A = ['bus'];K = ['picture'];The name of the variable that contains 'picture' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "H = ['fish'];J = ['leaf'];K = ['dress'];G = ['map'];The name of the variable that contains 'fish' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H = ['fish'];J = ['leaf'];K = ['dress'];G = ['map'];The name of the variable that contains 'leaf' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "H = ['fish'];J = ['leaf'];K = ['dress'];G = ['map'];The name of the variable that contains 'dress' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "H = ['fish'];J = ['leaf'];K = ['dress'];G = ['map'];The name of the variable that contains 'map' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "K = ['bill'];C = ['magazine'];H = ['brain'];J = ['shell'];The name of the variable that contains 'bill' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "K = ['bill'];C = ['magazine'];H = ['brain'];J = ['shell'];The name of the variable that contains 'magazine' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "K = ['bill'];C = ['magazine'];H = ['brain'];J = ['shell'];The name of the variable that contains 'brain' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "K = ['bill'];C = ['magazine'];H = ['brain'];J = ['shell'];The name of the variable that contains 'shell' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "J = ['leaf'];C = ['shell'];A = ['clock'];G = ['newspaper'];The name of the variable that contains 'leaf' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "J = ['leaf'];C = ['shell'];A = ['clock'];G = ['newspaper'];The name of the variable that contains 'shell' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "J = ['leaf'];C = ['shell'];A = ['clock'];G = ['newspaper'];The name of the variable that contains 'clock' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "J = ['leaf'];C = ['shell'];A = ['clock'];G = ['newspaper'];The name of the variable that contains 'newspaper' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "I = ['machine'];H = ['clock'];E = ['creature'];G = ['painting'];The name of the variable that contains 'machine' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I = ['machine'];H = ['clock'];E = ['creature'];G = ['painting'];The name of the variable that contains 'clock' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "I = ['machine'];H = ['clock'];E = ['creature'];G = ['painting'];The name of the variable that contains 'creature' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "I = ['machine'];H = ['clock'];E = ['creature'];G = ['painting'];The name of the variable that contains 'painting' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "I = ['radio'];K = ['document'];E = ['crown'];F = ['suit'];The name of the variable that contains 'radio' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I = ['radio'];K = ['document'];E = ['crown'];F = ['suit'];The name of the variable that contains 'document' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "I = ['radio'];K = ['document'];E = ['crown'];F = ['suit'];The name of the variable that contains 'crown' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "I = ['radio'];K = ['document'];E = ['crown'];F = ['suit'];The name of the variable that contains 'suit' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "J = ['plant'];F = ['bread'];E = ['rock'];H = ['sheet'];The name of the variable that contains 'plant' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "J = ['plant'];F = ['bread'];E = ['rock'];H = ['sheet'];The name of the variable that contains 'bread' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "J = ['plant'];F = ['bread'];E = ['rock'];H = ['sheet'];The name of the variable that contains 'rock' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "J = ['plant'];F = ['bread'];E = ['rock'];H = ['sheet'];The name of the variable that contains 'sheet' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "I = ['picture'];E = ['tie'];B = ['pot'];D = ['ball'];The name of the variable that contains 'picture' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I = ['picture'];E = ['tie'];B = ['pot'];D = ['ball'];The name of the variable that contains 'tie' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "I = ['picture'];E = ['tie'];B = ['pot'];D = ['ball'];The name of the variable that contains 'pot' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "I = ['picture'];E = ['tie'];B = ['pot'];D = ['ball'];The name of the variable that contains 'ball' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "I = ['milk'];F = ['television'];J = ['flower'];D = ['gift'];The name of the variable that contains 'milk' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "I = ['milk'];F = ['television'];J = ['flower'];D = ['gift'];The name of the variable that contains 'television' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "I = ['milk'];F = ['television'];J = ['flower'];D = ['gift'];The name of the variable that contains 'flower' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "I = ['milk'];F = ['television'];J = ['flower'];D = ['gift'];The name of the variable that contains 'gift' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "A = ['wheel'];D = ['stone'];F = ['card'];J = ['drug'];The name of the variable that contains 'wheel' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = ['wheel'];D = ['stone'];F = ['card'];J = ['drug'];The name of the variable that contains 'stone' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "A = ['wheel'];D = ['stone'];F = ['card'];J = ['drug'];The name of the variable that contains 'card' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "A = ['wheel'];D = ['stone'];F = ['card'];J = ['drug'];The name of the variable that contains 'drug' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "H = ['dress'];K = ['disk'];C = ['file'];G = ['brick'];The name of the variable that contains 'dress' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H = ['dress'];K = ['disk'];C = ['file'];G = ['brick'];The name of the variable that contains 'disk' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "H = ['dress'];K = ['disk'];C = ['file'];G = ['brick'];The name of the variable that contains 'file' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "H = ['dress'];K = ['disk'];C = ['file'];G = ['brick'];The name of the variable that contains 'brick' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "H = ['plane'];B = ['suit'];F = ['boat'];D = ['cross'];The name of the variable that contains 'plane' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H = ['plane'];B = ['suit'];F = ['boat'];D = ['cross'];The name of the variable that contains 'suit' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "H = ['plane'];B = ['suit'];F = ['boat'];D = ['cross'];The name of the variable that contains 'boat' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "H = ['plane'];B = ['suit'];F = ['boat'];D = ['cross'];The name of the variable that contains 'cross' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "H = ['bell'];D = ['boat'];K = ['car'];E = ['pot'];The name of the variable that contains 'bell' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "H = ['bell'];D = ['boat'];K = ['car'];E = ['pot'];The name of the variable that contains 'boat' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "H = ['bell'];D = ['boat'];K = ['car'];E = ['pot'];The name of the variable that contains 'car' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "H = ['bell'];D = ['boat'];K = ['car'];E = ['pot'];The name of the variable that contains 'pot' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "A = ['gift'];C = ['guitar'];D = ['plant'];E = ['bomb'];The name of the variable that contains 'gift' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = ['gift'];C = ['guitar'];D = ['plant'];E = ['bomb'];The name of the variable that contains 'guitar' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "A = ['gift'];C = ['guitar'];D = ['plant'];E = ['bomb'];The name of the variable that contains 'plant' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "A = ['gift'];C = ['guitar'];D = ['plant'];E = ['bomb'];The name of the variable that contains 'bomb' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "D = ['fish'];B = ['gift'];F = ['book'];C = ['crown'];The name of the variable that contains 'fish' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "D = ['fish'];B = ['gift'];F = ['book'];C = ['crown'];The name of the variable that contains 'gift' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "D = ['fish'];B = ['gift'];F = ['book'];C = ['crown'];The name of the variable that contains 'book' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "D = ['fish'];B = ['gift'];F = ['book'];C = ['crown'];The name of the variable that contains 'crown' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "J = ['watch'];C = ['bread'];E = ['magnet'];I = ['magazine'];The name of the variable that contains 'watch' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "J = ['watch'];C = ['bread'];E = ['magnet'];I = ['magazine'];The name of the variable that contains 'bread' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "J = ['watch'];C = ['bread'];E = ['magnet'];I = ['magazine'];The name of the variable that contains 'magnet' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "J = ['watch'];C = ['bread'];E = ['magnet'];I = ['magazine'];The name of the variable that contains 'magazine' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "G = ['magnet'];I = ['machine'];A = ['ball'];J = ['chemical'];The name of the variable that contains 'magnet' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "G = ['magnet'];I = ['machine'];A = ['ball'];J = ['chemical'];The name of the variable that contains 'machine' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "G = ['magnet'];I = ['machine'];A = ['ball'];J = ['chemical'];The name of the variable that contains 'ball' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "G = ['magnet'];I = ['machine'];A = ['ball'];J = ['chemical'];The name of the variable that contains 'chemical' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "E = ['radio'];F = ['tie'];J = ['brain'];B = ['ball'];The name of the variable that contains 'radio' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E = ['radio'];F = ['tie'];J = ['brain'];B = ['ball'];The name of the variable that contains 'tie' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "E = ['radio'];F = ['tie'];J = ['brain'];B = ['ball'];The name of the variable that contains 'brain' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "E = ['radio'];F = ['tie'];J = ['brain'];B = ['ball'];The name of the variable that contains 'ball' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "A = ['chemical'];E = ['engine'];J = ['cup'];I = ['bag'];The name of the variable that contains 'chemical' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = ['chemical'];E = ['engine'];J = ['cup'];I = ['bag'];The name of the variable that contains 'engine' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "A = ['chemical'];E = ['engine'];J = ['cup'];I = ['bag'];The name of the variable that contains 'cup' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "A = ['chemical'];E = ['engine'];J = ['cup'];I = ['bag'];The name of the variable that contains 'bag' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "E = ['pipe'];I = ['fig'];C = ['file'];D = ['drink'];The name of the variable that contains 'pipe' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E = ['pipe'];I = ['fig'];C = ['file'];D = ['drink'];The name of the variable that contains 'fig' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "E = ['pipe'];I = ['fig'];C = ['file'];D = ['drink'];The name of the variable that contains 'file' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "E = ['pipe'];I = ['fig'];C = ['file'];D = ['drink'];The name of the variable that contains 'drink' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "A = ['disk'];G = ['drug'];F = ['shell'];E = ['card'];The name of the variable that contains 'disk' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = ['disk'];G = ['drug'];F = ['shell'];E = ['card'];The name of the variable that contains 'drug' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "A = ['disk'];G = ['drug'];F = ['shell'];E = ['card'];The name of the variable that contains 'shell' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "A = ['disk'];G = ['drug'];F = ['shell'];E = ['card'];The name of the variable that contains 'card' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "A = ['shell'];H = ['boat'];J = ['document'];D = ['magnet'];The name of the variable that contains 'shell' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "A = ['shell'];H = ['boat'];J = ['document'];D = ['magnet'];The name of the variable that contains 'boat' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "A = ['shell'];H = ['boat'];J = ['document'];D = ['magnet'];The name of the variable that contains 'document' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "A = ['shell'];H = ['boat'];J = ['document'];D = ['magnet'];The name of the variable that contains 'magnet' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "E = ['creature'];C = ['newspaper'];K = ['pot'];I = ['plate'];The name of the variable that contains 'creature' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "E = ['creature'];C = ['newspaper'];K = ['pot'];I = ['plate'];The name of the variable that contains 'newspaper' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "E = ['creature'];C = ['newspaper'];K = ['pot'];I = ['plate'];The name of the variable that contains 'pot' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "E = ['creature'];C = ['newspaper'];K = ['pot'];I = ['plate'];The name of the variable that contains 'plate' is ",
+        "output": "I"
+    }
+]

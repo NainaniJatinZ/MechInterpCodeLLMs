@@ -1,0 +1,642 @@
+[
+    {
+        "prompt": "Dictionary = {B:'machine',K:'fan',D:'card',I:'chemical',} The name of the key that has the value 'machine' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {B:'machine',K:'fan',D:'card',I:'chemical',} The name of the key that has the value 'fan' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {B:'machine',K:'fan',D:'card',I:'chemical',} The name of the key that has the value 'card' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {B:'machine',K:'fan',D:'card',I:'chemical',} The name of the key that has the value 'chemical' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {B:'block',K:'train',G:'cup',J:'leaf',} The name of the key that has the value 'block' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {B:'block',K:'train',G:'cup',J:'leaf',} The name of the key that has the value 'train' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {B:'block',K:'train',G:'cup',J:'leaf',} The name of the key that has the value 'cup' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {B:'block',K:'train',G:'cup',J:'leaf',} The name of the key that has the value 'leaf' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {A:'magazine',H:'boat',B:'bell',J:'file',} The name of the key that has the value 'magazine' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {A:'magazine',H:'boat',B:'bell',J:'file',} The name of the key that has the value 'boat' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "Dictionary = {A:'magazine',H:'boat',B:'bell',J:'file',} The name of the key that has the value 'bell' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {A:'magazine',H:'boat',B:'bell',J:'file',} The name of the key that has the value 'file' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {H:'machine',A:'milk',F:'note',B:'newspaper',} The name of the key that has the value 'machine' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "Dictionary = {H:'machine',A:'milk',F:'note',B:'newspaper',} The name of the key that has the value 'milk' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {H:'machine',A:'milk',F:'note',B:'newspaper',} The name of the key that has the value 'note' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "Dictionary = {H:'machine',A:'milk',F:'note',B:'newspaper',} The name of the key that has the value 'newspaper' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {B:'bus',C:'cup',F:'computer',I:'medicine',} The name of the key that has the value 'bus' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {B:'bus',C:'cup',F:'computer',I:'medicine',} The name of the key that has the value 'cup' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {B:'bus',C:'cup',F:'computer',I:'medicine',} The name of the key that has the value 'computer' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "Dictionary = {B:'bus',C:'cup',F:'computer',I:'medicine',} The name of the key that has the value 'medicine' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {A:'chemical',C:'suit',E:'ring',H:'plant',} The name of the key that has the value 'chemical' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {A:'chemical',C:'suit',E:'ring',H:'plant',} The name of the key that has the value 'suit' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {A:'chemical',C:'suit',E:'ring',H:'plant',} The name of the key that has the value 'ring' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "Dictionary = {A:'chemical',C:'suit',E:'ring',H:'plant',} The name of the key that has the value 'plant' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "Dictionary = {C:'bell',G:'milk',J:'wheel',F:'pipe',} The name of the key that has the value 'bell' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {C:'bell',G:'milk',J:'wheel',F:'pipe',} The name of the key that has the value 'milk' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {C:'bell',G:'milk',J:'wheel',F:'pipe',} The name of the key that has the value 'wheel' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {C:'bell',G:'milk',J:'wheel',F:'pipe',} The name of the key that has the value 'pipe' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "Dictionary = {E:'string',C:'wire',D:'chemical',K:'magnet',} The name of the key that has the value 'string' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "Dictionary = {E:'string',C:'wire',D:'chemical',K:'magnet',} The name of the key that has the value 'wire' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {E:'string',C:'wire',D:'chemical',K:'magnet',} The name of the key that has the value 'chemical' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {E:'string',C:'wire',D:'chemical',K:'magnet',} The name of the key that has the value 'magnet' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {A:'boat',I:'drink',C:'boot',K:'flower',} The name of the key that has the value 'boat' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {A:'boat',I:'drink',C:'boot',K:'flower',} The name of the key that has the value 'drink' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {A:'boat',I:'drink',C:'boot',K:'flower',} The name of the key that has the value 'boot' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {A:'boat',I:'drink',C:'boot',K:'flower',} The name of the key that has the value 'flower' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {G:'coat',K:'tie',J:'book',D:'cup',} The name of the key that has the value 'coat' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {G:'coat',K:'tie',J:'book',D:'cup',} The name of the key that has the value 'tie' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {G:'coat',K:'tie',J:'book',D:'cup',} The name of the key that has the value 'book' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {G:'coat',K:'tie',J:'book',D:'cup',} The name of the key that has the value 'cup' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {I:'drink',K:'tea',J:'suit',G:'disk',} The name of the key that has the value 'drink' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {I:'drink',K:'tea',J:'suit',G:'disk',} The name of the key that has the value 'tea' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {I:'drink',K:'tea',J:'suit',G:'disk',} The name of the key that has the value 'suit' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {I:'drink',K:'tea',J:'suit',G:'disk',} The name of the key that has the value 'disk' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {A:'fig',J:'clock',G:'bread',C:'mirror',} The name of the key that has the value 'fig' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {A:'fig',J:'clock',G:'bread',C:'mirror',} The name of the key that has the value 'clock' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {A:'fig',J:'clock',G:'bread',C:'mirror',} The name of the key that has the value 'bread' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {A:'fig',J:'clock',G:'bread',C:'mirror',} The name of the key that has the value 'mirror' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {G:'painting',C:'boat',A:'crown',D:'picture',} The name of the key that has the value 'painting' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {G:'painting',C:'boat',A:'crown',D:'picture',} The name of the key that has the value 'boat' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {G:'painting',C:'boat',A:'crown',D:'picture',} The name of the key that has the value 'crown' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {G:'painting',C:'boat',A:'crown',D:'picture',} The name of the key that has the value 'picture' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {C:'bus',I:'drink',D:'plane',A:'magnet',} The name of the key that has the value 'bus' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {C:'bus',I:'drink',D:'plane',A:'magnet',} The name of the key that has the value 'drink' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {C:'bus',I:'drink',D:'plane',A:'magnet',} The name of the key that has the value 'plane' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {C:'bus',I:'drink',D:'plane',A:'magnet',} The name of the key that has the value 'magnet' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {K:'note',D:'egg',E:'rock',I:'cup',} The name of the key that has the value 'note' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {K:'note',D:'egg',E:'rock',I:'cup',} The name of the key that has the value 'egg' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {K:'note',D:'egg',E:'rock',I:'cup',} The name of the key that has the value 'rock' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "Dictionary = {K:'note',D:'egg',E:'rock',I:'cup',} The name of the key that has the value 'cup' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {H:'plant',I:'map',J:'letter',B:'bell',} The name of the key that has the value 'plant' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "Dictionary = {H:'plant',I:'map',J:'letter',B:'bell',} The name of the key that has the value 'map' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {H:'plant',I:'map',J:'letter',B:'bell',} The name of the key that has the value 'letter' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {H:'plant',I:'map',J:'letter',B:'bell',} The name of the key that has the value 'bell' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {A:'plate',K:'dress',C:'milk',D:'ball',} The name of the key that has the value 'plate' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {A:'plate',K:'dress',C:'milk',D:'ball',} The name of the key that has the value 'dress' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {A:'plate',K:'dress',C:'milk',D:'ball',} The name of the key that has the value 'milk' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {A:'plate',K:'dress',C:'milk',D:'ball',} The name of the key that has the value 'ball' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {D:'glass',A:'file',E:'car',J:'wire',} The name of the key that has the value 'glass' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {D:'glass',A:'file',E:'car',J:'wire',} The name of the key that has the value 'file' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {D:'glass',A:'file',E:'car',J:'wire',} The name of the key that has the value 'car' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "Dictionary = {D:'glass',A:'file',E:'car',J:'wire',} The name of the key that has the value 'wire' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {C:'bill',E:'note',F:'branch',K:'shell',} The name of the key that has the value 'bill' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {C:'bill',E:'note',F:'branch',K:'shell',} The name of the key that has the value 'note' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "Dictionary = {C:'bill',E:'note',F:'branch',K:'shell',} The name of the key that has the value 'branch' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "Dictionary = {C:'bill',E:'note',F:'branch',K:'shell',} The name of the key that has the value 'shell' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {B:'cup',H:'creature',C:'brain',I:'egg',} The name of the key that has the value 'cup' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {B:'cup',H:'creature',C:'brain',I:'egg',} The name of the key that has the value 'creature' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "Dictionary = {B:'cup',H:'creature',C:'brain',I:'egg',} The name of the key that has the value 'brain' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {B:'cup',H:'creature',C:'brain',I:'egg',} The name of the key that has the value 'egg' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {I:'magnet',D:'medicine',A:'dress',K:'wheel',} The name of the key that has the value 'magnet' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {I:'magnet',D:'medicine',A:'dress',K:'wheel',} The name of the key that has the value 'medicine' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {I:'magnet',D:'medicine',A:'dress',K:'wheel',} The name of the key that has the value 'dress' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {I:'magnet',D:'medicine',A:'dress',K:'wheel',} The name of the key that has the value 'wheel' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {J:'bread',B:'brain',C:'boat',G:'milk',} The name of the key that has the value 'bread' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {J:'bread',B:'brain',C:'boat',G:'milk',} The name of the key that has the value 'brain' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {J:'bread',B:'brain',C:'boat',G:'milk',} The name of the key that has the value 'boat' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {J:'bread',B:'brain',C:'boat',G:'milk',} The name of the key that has the value 'milk' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {D:'fig',I:'plant',J:'magnet',F:'drug',} The name of the key that has the value 'fig' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {D:'fig',I:'plant',J:'magnet',F:'drug',} The name of the key that has the value 'plant' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {D:'fig',I:'plant',J:'magnet',F:'drug',} The name of the key that has the value 'magnet' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {D:'fig',I:'plant',J:'magnet',F:'drug',} The name of the key that has the value 'drug' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "Dictionary = {J:'fish',I:'boot',B:'pot',H:'string',} The name of the key that has the value 'fish' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {J:'fish',I:'boot',B:'pot',H:'string',} The name of the key that has the value 'boot' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {J:'fish',I:'boot',B:'pot',H:'string',} The name of the key that has the value 'pot' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {J:'fish',I:'boot',B:'pot',H:'string',} The name of the key that has the value 'string' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "Dictionary = {E:'creature',K:'wheel',I:'wire',G:'mirror',} The name of the key that has the value 'creature' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "Dictionary = {E:'creature',K:'wheel',I:'wire',G:'mirror',} The name of the key that has the value 'wheel' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {E:'creature',K:'wheel',I:'wire',G:'mirror',} The name of the key that has the value 'wire' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {E:'creature',K:'wheel',I:'wire',G:'mirror',} The name of the key that has the value 'mirror' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {E:'bread',I:'egg',A:'bill',F:'rock',} The name of the key that has the value 'bread' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "Dictionary = {E:'bread',I:'egg',A:'bill',F:'rock',} The name of the key that has the value 'egg' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {E:'bread',I:'egg',A:'bill',F:'rock',} The name of the key that has the value 'bill' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {E:'bread',I:'egg',A:'bill',F:'rock',} The name of the key that has the value 'rock' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "Dictionary = {A:'coat',C:'fish',I:'newspaper',E:'fan',} The name of the key that has the value 'coat' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {A:'coat',C:'fish',I:'newspaper',E:'fan',} The name of the key that has the value 'fish' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {A:'coat',C:'fish',I:'newspaper',E:'fan',} The name of the key that has the value 'newspaper' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {A:'coat',C:'fish',I:'newspaper',E:'fan',} The name of the key that has the value 'fan' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "Dictionary = {E:'fish',C:'wire',K:'block',J:'camera',} The name of the key that has the value 'fish' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "Dictionary = {E:'fish',C:'wire',K:'block',J:'camera',} The name of the key that has the value 'wire' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {E:'fish',C:'wire',K:'block',J:'camera',} The name of the key that has the value 'block' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {E:'fish',C:'wire',K:'block',J:'camera',} The name of the key that has the value 'camera' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {B:'cup',I:'engine',J:'pot',H:'leaf',} The name of the key that has the value 'cup' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {B:'cup',I:'engine',J:'pot',H:'leaf',} The name of the key that has the value 'engine' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {B:'cup',I:'engine',J:'pot',H:'leaf',} The name of the key that has the value 'pot' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {B:'cup',I:'engine',J:'pot',H:'leaf',} The name of the key that has the value 'leaf' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "Dictionary = {D:'cross',K:'branch',I:'dress',A:'drug',} The name of the key that has the value 'cross' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {D:'cross',K:'branch',I:'dress',A:'drug',} The name of the key that has the value 'branch' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {D:'cross',K:'branch',I:'dress',A:'drug',} The name of the key that has the value 'dress' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {D:'cross',K:'branch',I:'dress',A:'drug',} The name of the key that has the value 'drug' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {G:'creature',K:'bell',A:'leaf',I:'brain',} The name of the key that has the value 'creature' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {G:'creature',K:'bell',A:'leaf',I:'brain',} The name of the key that has the value 'bell' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {G:'creature',K:'bell',A:'leaf',I:'brain',} The name of the key that has the value 'leaf' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {G:'creature',K:'bell',A:'leaf',I:'brain',} The name of the key that has the value 'brain' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {G:'branch',A:'pot',F:'rose',J:'cup',} The name of the key that has the value 'branch' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {G:'branch',A:'pot',F:'rose',J:'cup',} The name of the key that has the value 'pot' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {G:'branch',A:'pot',F:'rose',J:'cup',} The name of the key that has the value 'rose' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "Dictionary = {G:'branch',A:'pot',F:'rose',J:'cup',} The name of the key that has the value 'cup' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {F:'card',E:'bill',G:'glass',D:'branch',} The name of the key that has the value 'card' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "Dictionary = {F:'card',E:'bill',G:'glass',D:'branch',} The name of the key that has the value 'bill' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "Dictionary = {F:'card',E:'bill',G:'glass',D:'branch',} The name of the key that has the value 'glass' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {F:'card',E:'bill',G:'glass',D:'branch',} The name of the key that has the value 'branch' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {F:'sheet',J:'hat',A:'game',K:'guitar',} The name of the key that has the value 'sheet' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "Dictionary = {F:'sheet',J:'hat',A:'game',K:'guitar',} The name of the key that has the value 'hat' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {F:'sheet',J:'hat',A:'game',K:'guitar',} The name of the key that has the value 'game' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {F:'sheet',J:'hat',A:'game',K:'guitar',} The name of the key that has the value 'guitar' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {A:'shell',C:'key',D:'tie',J:'drink',} The name of the key that has the value 'shell' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {A:'shell',C:'key',D:'tie',J:'drink',} The name of the key that has the value 'key' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {A:'shell',C:'key',D:'tie',J:'drink',} The name of the key that has the value 'tie' is ",
+        "output": "D"
+    },
+    {
+        "prompt": "Dictionary = {A:'shell',C:'key',D:'tie',J:'drink',} The name of the key that has the value 'drink' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {I:'book',F:'block',E:'letter',K:'wheel',} The name of the key that has the value 'book' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {I:'book',F:'block',E:'letter',K:'wheel',} The name of the key that has the value 'block' is ",
+        "output": "F"
+    },
+    {
+        "prompt": "Dictionary = {I:'book',F:'block',E:'letter',K:'wheel',} The name of the key that has the value 'letter' is ",
+        "output": "E"
+    },
+    {
+        "prompt": "Dictionary = {I:'book',F:'block',E:'letter',K:'wheel',} The name of the key that has the value 'wheel' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {I:'drink',H:'bus',B:'key',C:'plane',} The name of the key that has the value 'drink' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {I:'drink',H:'bus',B:'key',C:'plane',} The name of the key that has the value 'bus' is ",
+        "output": "H"
+    },
+    {
+        "prompt": "Dictionary = {I:'drink',H:'bus',B:'key',C:'plane',} The name of the key that has the value 'key' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {I:'drink',H:'bus',B:'key',C:'plane',} The name of the key that has the value 'plane' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {I:'bread',K:'pot',A:'coat',C:'milk',} The name of the key that has the value 'bread' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {I:'bread',K:'pot',A:'coat',C:'milk',} The name of the key that has the value 'pot' is ",
+        "output": "K"
+    },
+    {
+        "prompt": "Dictionary = {I:'bread',K:'pot',A:'coat',C:'milk',} The name of the key that has the value 'coat' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {I:'bread',K:'pot',A:'coat',C:'milk',} The name of the key that has the value 'milk' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {C:'bag',J:'dress',I:'file',B:'boot',} The name of the key that has the value 'bag' is ",
+        "output": "C"
+    },
+    {
+        "prompt": "Dictionary = {C:'bag',J:'dress',I:'file',B:'boot',} The name of the key that has the value 'dress' is ",
+        "output": "J"
+    },
+    {
+        "prompt": "Dictionary = {C:'bag',J:'dress',I:'file',B:'boot',} The name of the key that has the value 'file' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {C:'bag',J:'dress',I:'file',B:'boot',} The name of the key that has the value 'boot' is ",
+        "output": "B"
+    },
+    {
+        "prompt": "Dictionary = {A:'rose',I:'dress',G:'bread',F:'boot',} The name of the key that has the value 'rose' is ",
+        "output": "A"
+    },
+    {
+        "prompt": "Dictionary = {A:'rose',I:'dress',G:'bread',F:'boot',} The name of the key that has the value 'dress' is ",
+        "output": "I"
+    },
+    {
+        "prompt": "Dictionary = {A:'rose',I:'dress',G:'bread',F:'boot',} The name of the key that has the value 'bread' is ",
+        "output": "G"
+    },
+    {
+        "prompt": "Dictionary = {A:'rose',I:'dress',G:'bread',F:'boot',} The name of the key that has the value 'boot' is ",
+        "output": "F"
+    }
+]

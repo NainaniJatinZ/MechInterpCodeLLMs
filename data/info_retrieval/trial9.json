@@ -1,0 +1,642 @@
+[
+    {
+        "prompt": "def J(a, b):\n    return a - b\ndef H(a, b):\n    return a + b\ndef D(a, b):\n    return a >= b\ndef F(a, b):\n    return a == b\nthe name of the function that uses the '-' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def J(a, b):\n    return a - b\ndef H(a, b):\n    return a + b\ndef D(a, b):\n    return a >= b\ndef F(a, b):\n    return a == b\nthe name of the function that uses the '+' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def J(a, b):\n    return a - b\ndef H(a, b):\n    return a + b\ndef D(a, b):\n    return a >= b\ndef F(a, b):\n    return a == b\nthe name of the function that uses the '>=' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def J(a, b):\n    return a - b\ndef H(a, b):\n    return a + b\ndef D(a, b):\n    return a >= b\ndef F(a, b):\n    return a == b\nthe name of the function that uses the '==' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a <= b\ndef F(a, b):\n    return a - b\ndef J(a, b):\n    return a + b\ndef D(a, b):\n    return a * b\nthe name of the function that uses the '<=' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a <= b\ndef F(a, b):\n    return a - b\ndef J(a, b):\n    return a + b\ndef D(a, b):\n    return a * b\nthe name of the function that uses the '-' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a <= b\ndef F(a, b):\n    return a - b\ndef J(a, b):\n    return a + b\ndef D(a, b):\n    return a * b\nthe name of the function that uses the '+' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a <= b\ndef F(a, b):\n    return a - b\ndef J(a, b):\n    return a + b\ndef D(a, b):\n    return a * b\nthe name of the function that uses the '*' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a - b\ndef C(a, b):\n    return a <= b\ndef I(a, b):\n    return a ** b\ndef J(a, b):\n    return a > b\nthe name of the function that uses the '-' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a - b\ndef C(a, b):\n    return a <= b\ndef I(a, b):\n    return a ** b\ndef J(a, b):\n    return a > b\nthe name of the function that uses the '<=' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a - b\ndef C(a, b):\n    return a <= b\ndef I(a, b):\n    return a ** b\ndef J(a, b):\n    return a > b\nthe name of the function that uses the '**' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a - b\ndef C(a, b):\n    return a <= b\ndef I(a, b):\n    return a ** b\ndef J(a, b):\n    return a > b\nthe name of the function that uses the '>' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a * b\ndef F(a, b):\n    return a + b\ndef B(a, b):\n    return a >= b\ndef K(a, b):\n    return a - b\nthe name of the function that uses the '*' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a * b\ndef F(a, b):\n    return a + b\ndef B(a, b):\n    return a >= b\ndef K(a, b):\n    return a - b\nthe name of the function that uses the '+' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a * b\ndef F(a, b):\n    return a + b\ndef B(a, b):\n    return a >= b\ndef K(a, b):\n    return a - b\nthe name of the function that uses the '>=' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a * b\ndef F(a, b):\n    return a + b\ndef B(a, b):\n    return a >= b\ndef K(a, b):\n    return a - b\nthe name of the function that uses the '-' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a < b\ndef I(a, b):\n    return a * b\ndef F(a, b):\n    return a % b\ndef C(a, b):\n    return a >= b\nthe name of the function that uses the '<' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a < b\ndef I(a, b):\n    return a * b\ndef F(a, b):\n    return a % b\ndef C(a, b):\n    return a >= b\nthe name of the function that uses the '*' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a < b\ndef I(a, b):\n    return a * b\ndef F(a, b):\n    return a % b\ndef C(a, b):\n    return a >= b\nthe name of the function that uses the '%' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a < b\ndef I(a, b):\n    return a * b\ndef F(a, b):\n    return a % b\ndef C(a, b):\n    return a >= b\nthe name of the function that uses the '>=' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a - b\ndef G(a, b):\n    return a == b\ndef B(a, b):\n    return a ** b\ndef E(a, b):\n    return a < b\nthe name of the function that uses the '-' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a - b\ndef G(a, b):\n    return a == b\ndef B(a, b):\n    return a ** b\ndef E(a, b):\n    return a < b\nthe name of the function that uses the '==' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a - b\ndef G(a, b):\n    return a == b\ndef B(a, b):\n    return a ** b\ndef E(a, b):\n    return a < b\nthe name of the function that uses the '**' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a - b\ndef G(a, b):\n    return a == b\ndef B(a, b):\n    return a ** b\ndef E(a, b):\n    return a < b\nthe name of the function that uses the '<' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a % b\ndef G(a, b):\n    return a > b\ndef F(a, b):\n    return a * b\ndef D(a, b):\n    return a >= b\nthe name of the function that uses the '%' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a % b\ndef G(a, b):\n    return a > b\ndef F(a, b):\n    return a * b\ndef D(a, b):\n    return a >= b\nthe name of the function that uses the '>' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a % b\ndef G(a, b):\n    return a > b\ndef F(a, b):\n    return a * b\ndef D(a, b):\n    return a >= b\nthe name of the function that uses the '*' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a % b\ndef G(a, b):\n    return a > b\ndef F(a, b):\n    return a * b\ndef D(a, b):\n    return a >= b\nthe name of the function that uses the '>=' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a <= b\ndef I(a, b):\n    return a * b\ndef B(a, b):\n    return a % b\ndef J(a, b):\n    return a == b\nthe name of the function that uses the '<=' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a <= b\ndef I(a, b):\n    return a * b\ndef B(a, b):\n    return a % b\ndef J(a, b):\n    return a == b\nthe name of the function that uses the '*' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a <= b\ndef I(a, b):\n    return a * b\ndef B(a, b):\n    return a % b\ndef J(a, b):\n    return a == b\nthe name of the function that uses the '%' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a <= b\ndef I(a, b):\n    return a * b\ndef B(a, b):\n    return a % b\ndef J(a, b):\n    return a == b\nthe name of the function that uses the '==' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a < b\ndef C(a, b):\n    return a % b\ndef E(a, b):\n    return a > b\ndef F(a, b):\n    return a * b\nthe name of the function that uses the '<' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a < b\ndef C(a, b):\n    return a % b\ndef E(a, b):\n    return a > b\ndef F(a, b):\n    return a * b\nthe name of the function that uses the '%' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a < b\ndef C(a, b):\n    return a % b\ndef E(a, b):\n    return a > b\ndef F(a, b):\n    return a * b\nthe name of the function that uses the '>' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a < b\ndef C(a, b):\n    return a % b\ndef E(a, b):\n    return a > b\ndef F(a, b):\n    return a * b\nthe name of the function that uses the '*' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a - b\ndef K(a, b):\n    return a <= b\ndef I(a, b):\n    return a + b\ndef C(a, b):\n    return a ** b\nthe name of the function that uses the '-' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a - b\ndef K(a, b):\n    return a <= b\ndef I(a, b):\n    return a + b\ndef C(a, b):\n    return a ** b\nthe name of the function that uses the '<=' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a - b\ndef K(a, b):\n    return a <= b\ndef I(a, b):\n    return a + b\ndef C(a, b):\n    return a ** b\nthe name of the function that uses the '+' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a - b\ndef K(a, b):\n    return a <= b\ndef I(a, b):\n    return a + b\ndef C(a, b):\n    return a ** b\nthe name of the function that uses the '**' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a < b\ndef E(a, b):\n    return a ** b\ndef I(a, b):\n    return a <= b\ndef H(a, b):\n    return a * b\nthe name of the function that uses the '<' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a < b\ndef E(a, b):\n    return a ** b\ndef I(a, b):\n    return a <= b\ndef H(a, b):\n    return a * b\nthe name of the function that uses the '**' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a < b\ndef E(a, b):\n    return a ** b\ndef I(a, b):\n    return a <= b\ndef H(a, b):\n    return a * b\nthe name of the function that uses the '<=' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a < b\ndef E(a, b):\n    return a ** b\ndef I(a, b):\n    return a <= b\ndef H(a, b):\n    return a * b\nthe name of the function that uses the '*' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a - b\ndef J(a, b):\n    return a <= b\ndef I(a, b):\n    return a ** b\ndef D(a, b):\n    return a < b\nthe name of the function that uses the '-' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a - b\ndef J(a, b):\n    return a <= b\ndef I(a, b):\n    return a ** b\ndef D(a, b):\n    return a < b\nthe name of the function that uses the '<=' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a - b\ndef J(a, b):\n    return a <= b\ndef I(a, b):\n    return a ** b\ndef D(a, b):\n    return a < b\nthe name of the function that uses the '**' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a - b\ndef J(a, b):\n    return a <= b\ndef I(a, b):\n    return a ** b\ndef D(a, b):\n    return a < b\nthe name of the function that uses the '<' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a <= b\ndef A(a, b):\n    return a % b\ndef F(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\nthe name of the function that uses the '<=' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a <= b\ndef A(a, b):\n    return a % b\ndef F(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\nthe name of the function that uses the '%' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a <= b\ndef A(a, b):\n    return a % b\ndef F(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\nthe name of the function that uses the '+' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a <= b\ndef A(a, b):\n    return a % b\ndef F(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\nthe name of the function that uses the '<' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def J(a, b):\n    return a - b\ndef G(a, b):\n    return a * b\ndef C(a, b):\n    return a >= b\ndef A(a, b):\n    return a <= b\nthe name of the function that uses the '-' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def J(a, b):\n    return a - b\ndef G(a, b):\n    return a * b\ndef C(a, b):\n    return a >= b\ndef A(a, b):\n    return a <= b\nthe name of the function that uses the '*' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def J(a, b):\n    return a - b\ndef G(a, b):\n    return a * b\ndef C(a, b):\n    return a >= b\ndef A(a, b):\n    return a <= b\nthe name of the function that uses the '>=' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def J(a, b):\n    return a - b\ndef G(a, b):\n    return a * b\ndef C(a, b):\n    return a >= b\ndef A(a, b):\n    return a <= b\nthe name of the function that uses the '<=' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a <= b\ndef E(a, b):\n    return a + b\ndef C(a, b):\n    return a > b\ndef J(a, b):\n    return a ** b\nthe name of the function that uses the '<=' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a <= b\ndef E(a, b):\n    return a + b\ndef C(a, b):\n    return a > b\ndef J(a, b):\n    return a ** b\nthe name of the function that uses the '+' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a <= b\ndef E(a, b):\n    return a + b\ndef C(a, b):\n    return a > b\ndef J(a, b):\n    return a ** b\nthe name of the function that uses the '>' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a <= b\ndef E(a, b):\n    return a + b\ndef C(a, b):\n    return a > b\ndef J(a, b):\n    return a ** b\nthe name of the function that uses the '**' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a + b\ndef D(a, b):\n    return a < b\ndef F(a, b):\n    return a > b\ndef E(a, b):\n    return a * b\nthe name of the function that uses the '+' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a + b\ndef D(a, b):\n    return a < b\ndef F(a, b):\n    return a > b\ndef E(a, b):\n    return a * b\nthe name of the function that uses the '<' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a + b\ndef D(a, b):\n    return a < b\ndef F(a, b):\n    return a > b\ndef E(a, b):\n    return a * b\nthe name of the function that uses the '>' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a + b\ndef D(a, b):\n    return a < b\ndef F(a, b):\n    return a > b\ndef E(a, b):\n    return a * b\nthe name of the function that uses the '*' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a <= b\ndef A(a, b):\n    return a * b\ndef J(a, b):\n    return a + b\ndef I(a, b):\n    return a - b\nthe name of the function that uses the '<=' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a <= b\ndef A(a, b):\n    return a * b\ndef J(a, b):\n    return a + b\ndef I(a, b):\n    return a - b\nthe name of the function that uses the '*' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a <= b\ndef A(a, b):\n    return a * b\ndef J(a, b):\n    return a + b\ndef I(a, b):\n    return a - b\nthe name of the function that uses the '+' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a <= b\ndef A(a, b):\n    return a * b\ndef J(a, b):\n    return a + b\ndef I(a, b):\n    return a - b\nthe name of the function that uses the '-' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a < b\ndef D(a, b):\n    return a >= b\ndef F(a, b):\n    return a <= b\ndef B(a, b):\n    return a + b\nthe name of the function that uses the '<' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a < b\ndef D(a, b):\n    return a >= b\ndef F(a, b):\n    return a <= b\ndef B(a, b):\n    return a + b\nthe name of the function that uses the '>=' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a < b\ndef D(a, b):\n    return a >= b\ndef F(a, b):\n    return a <= b\ndef B(a, b):\n    return a + b\nthe name of the function that uses the '<=' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a < b\ndef D(a, b):\n    return a >= b\ndef F(a, b):\n    return a <= b\ndef B(a, b):\n    return a + b\nthe name of the function that uses the '+' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "def B(a, b):\n    return a >= b\ndef D(a, b):\n    return a == b\ndef H(a, b):\n    return a < b\ndef F(a, b):\n    return a % b\nthe name of the function that uses the '>=' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "def B(a, b):\n    return a >= b\ndef D(a, b):\n    return a == b\ndef H(a, b):\n    return a < b\ndef F(a, b):\n    return a % b\nthe name of the function that uses the '==' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def B(a, b):\n    return a >= b\ndef D(a, b):\n    return a == b\ndef H(a, b):\n    return a < b\ndef F(a, b):\n    return a % b\nthe name of the function that uses the '<' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def B(a, b):\n    return a >= b\ndef D(a, b):\n    return a == b\ndef H(a, b):\n    return a < b\ndef F(a, b):\n    return a % b\nthe name of the function that uses the '%' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a ** b\ndef I(a, b):\n    return a == b\ndef A(a, b):\n    return a - b\ndef K(a, b):\n    return a % b\nthe name of the function that uses the '**' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a ** b\ndef I(a, b):\n    return a == b\ndef A(a, b):\n    return a - b\ndef K(a, b):\n    return a % b\nthe name of the function that uses the '==' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a ** b\ndef I(a, b):\n    return a == b\ndef A(a, b):\n    return a - b\ndef K(a, b):\n    return a % b\nthe name of the function that uses the '-' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a ** b\ndef I(a, b):\n    return a == b\ndef A(a, b):\n    return a - b\ndef K(a, b):\n    return a % b\nthe name of the function that uses the '%' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def I(a, b):\n    return a <= b\ndef G(a, b):\n    return a - b\ndef A(a, b):\n    return a > b\ndef K(a, b):\n    return a >= b\nthe name of the function that uses the '<=' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def I(a, b):\n    return a <= b\ndef G(a, b):\n    return a - b\ndef A(a, b):\n    return a > b\ndef K(a, b):\n    return a >= b\nthe name of the function that uses the '-' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def I(a, b):\n    return a <= b\ndef G(a, b):\n    return a - b\ndef A(a, b):\n    return a > b\ndef K(a, b):\n    return a >= b\nthe name of the function that uses the '>' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def I(a, b):\n    return a <= b\ndef G(a, b):\n    return a - b\ndef A(a, b):\n    return a > b\ndef K(a, b):\n    return a >= b\nthe name of the function that uses the '>=' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a % b\ndef B(a, b):\n    return a > b\ndef C(a, b):\n    return a + b\ndef G(a, b):\n    return a - b\nthe name of the function that uses the '%' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a % b\ndef B(a, b):\n    return a > b\ndef C(a, b):\n    return a + b\ndef G(a, b):\n    return a - b\nthe name of the function that uses the '>' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a % b\ndef B(a, b):\n    return a > b\ndef C(a, b):\n    return a + b\ndef G(a, b):\n    return a - b\nthe name of the function that uses the '+' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a % b\ndef B(a, b):\n    return a > b\ndef C(a, b):\n    return a + b\ndef G(a, b):\n    return a - b\nthe name of the function that uses the '-' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a ** b\ndef G(a, b):\n    return a > b\ndef K(a, b):\n    return a - b\ndef F(a, b):\n    return a + b\nthe name of the function that uses the '**' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a ** b\ndef G(a, b):\n    return a > b\ndef K(a, b):\n    return a - b\ndef F(a, b):\n    return a + b\nthe name of the function that uses the '>' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a ** b\ndef G(a, b):\n    return a > b\ndef K(a, b):\n    return a - b\ndef F(a, b):\n    return a + b\nthe name of the function that uses the '-' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a ** b\ndef G(a, b):\n    return a > b\ndef K(a, b):\n    return a - b\ndef F(a, b):\n    return a + b\nthe name of the function that uses the '+' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a * b\ndef B(a, b):\n    return a + b\ndef J(a, b):\n    return a <= b\ndef E(a, b):\n    return a % b\nthe name of the function that uses the '*' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a * b\ndef B(a, b):\n    return a + b\ndef J(a, b):\n    return a <= b\ndef E(a, b):\n    return a % b\nthe name of the function that uses the '+' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a * b\ndef B(a, b):\n    return a + b\ndef J(a, b):\n    return a <= b\ndef E(a, b):\n    return a % b\nthe name of the function that uses the '<=' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def C(a, b):\n    return a * b\ndef B(a, b):\n    return a + b\ndef J(a, b):\n    return a <= b\ndef E(a, b):\n    return a % b\nthe name of the function that uses the '%' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a * b\ndef H(a, b):\n    return a >= b\ndef K(a, b):\n    return a > b\ndef C(a, b):\n    return a < b\nthe name of the function that uses the '*' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a * b\ndef H(a, b):\n    return a >= b\ndef K(a, b):\n    return a > b\ndef C(a, b):\n    return a < b\nthe name of the function that uses the '>=' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a * b\ndef H(a, b):\n    return a >= b\ndef K(a, b):\n    return a > b\ndef C(a, b):\n    return a < b\nthe name of the function that uses the '>' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a * b\ndef H(a, b):\n    return a >= b\ndef K(a, b):\n    return a > b\ndef C(a, b):\n    return a < b\nthe name of the function that uses the '<' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def B(a, b):\n    return a % b\ndef E(a, b):\n    return a + b\ndef K(a, b):\n    return a < b\ndef F(a, b):\n    return a <= b\nthe name of the function that uses the '%' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "def B(a, b):\n    return a % b\ndef E(a, b):\n    return a + b\ndef K(a, b):\n    return a < b\ndef F(a, b):\n    return a <= b\nthe name of the function that uses the '+' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def B(a, b):\n    return a % b\ndef E(a, b):\n    return a + b\ndef K(a, b):\n    return a < b\ndef F(a, b):\n    return a <= b\nthe name of the function that uses the '<' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def B(a, b):\n    return a % b\ndef E(a, b):\n    return a + b\ndef K(a, b):\n    return a < b\ndef F(a, b):\n    return a <= b\nthe name of the function that uses the '<=' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a % b\ndef G(a, b):\n    return a >= b\ndef C(a, b):\n    return a * b\ndef A(a, b):\n    return a ** b\nthe name of the function that uses the '%' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a % b\ndef G(a, b):\n    return a >= b\ndef C(a, b):\n    return a * b\ndef A(a, b):\n    return a ** b\nthe name of the function that uses the '>=' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a % b\ndef G(a, b):\n    return a >= b\ndef C(a, b):\n    return a * b\ndef A(a, b):\n    return a ** b\nthe name of the function that uses the '*' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def H(a, b):\n    return a % b\ndef G(a, b):\n    return a >= b\ndef C(a, b):\n    return a * b\ndef A(a, b):\n    return a ** b\nthe name of the function that uses the '**' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a ** b\ndef E(a, b):\n    return a == b\ndef C(a, b):\n    return a >= b\ndef I(a, b):\n    return a % b\nthe name of the function that uses the '**' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a ** b\ndef E(a, b):\n    return a == b\ndef C(a, b):\n    return a >= b\ndef I(a, b):\n    return a % b\nthe name of the function that uses the '==' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a ** b\ndef E(a, b):\n    return a == b\ndef C(a, b):\n    return a >= b\ndef I(a, b):\n    return a % b\nthe name of the function that uses the '>=' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def G(a, b):\n    return a ** b\ndef E(a, b):\n    return a == b\ndef C(a, b):\n    return a >= b\ndef I(a, b):\n    return a % b\nthe name of the function that uses the '%' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a == b\ndef F(a, b):\n    return a > b\ndef G(a, b):\n    return a % b\ndef H(a, b):\n    return a * b\nthe name of the function that uses the '==' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a == b\ndef F(a, b):\n    return a > b\ndef G(a, b):\n    return a % b\ndef H(a, b):\n    return a * b\nthe name of the function that uses the '>' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a == b\ndef F(a, b):\n    return a > b\ndef G(a, b):\n    return a % b\ndef H(a, b):\n    return a * b\nthe name of the function that uses the '%' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a == b\ndef F(a, b):\n    return a > b\ndef G(a, b):\n    return a % b\ndef H(a, b):\n    return a * b\nthe name of the function that uses the '*' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a % b\ndef J(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\ndef F(a, b):\n    return a * b\nthe name of the function that uses the '%' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a % b\ndef J(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\ndef F(a, b):\n    return a * b\nthe name of the function that uses the '+' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a % b\ndef J(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\ndef F(a, b):\n    return a * b\nthe name of the function that uses the '<' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a % b\ndef J(a, b):\n    return a + b\ndef I(a, b):\n    return a < b\ndef F(a, b):\n    return a * b\nthe name of the function that uses the '*' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a * b\ndef I(a, b):\n    return a >= b\ndef F(a, b):\n    return a - b\ndef G(a, b):\n    return a == b\nthe name of the function that uses the '*' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a * b\ndef I(a, b):\n    return a >= b\ndef F(a, b):\n    return a - b\ndef G(a, b):\n    return a == b\nthe name of the function that uses the '>=' operator is ",
+        "output": "I"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a * b\ndef I(a, b):\n    return a >= b\ndef F(a, b):\n    return a - b\ndef G(a, b):\n    return a == b\nthe name of the function that uses the '-' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a * b\ndef I(a, b):\n    return a >= b\ndef F(a, b):\n    return a - b\ndef G(a, b):\n    return a == b\nthe name of the function that uses the '==' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a <= b\ndef K(a, b):\n    return a < b\ndef D(a, b):\n    return a == b\ndef H(a, b):\n    return a % b\nthe name of the function that uses the '<=' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a <= b\ndef K(a, b):\n    return a < b\ndef D(a, b):\n    return a == b\ndef H(a, b):\n    return a % b\nthe name of the function that uses the '<' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a <= b\ndef K(a, b):\n    return a < b\ndef D(a, b):\n    return a == b\ndef H(a, b):\n    return a % b\nthe name of the function that uses the '==' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a <= b\ndef K(a, b):\n    return a < b\ndef D(a, b):\n    return a == b\ndef H(a, b):\n    return a % b\nthe name of the function that uses the '%' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a + b\ndef J(a, b):\n    return a * b\ndef H(a, b):\n    return a % b\ndef G(a, b):\n    return a > b\nthe name of the function that uses the '+' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a + b\ndef J(a, b):\n    return a * b\ndef H(a, b):\n    return a % b\ndef G(a, b):\n    return a > b\nthe name of the function that uses the '*' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a + b\ndef J(a, b):\n    return a * b\ndef H(a, b):\n    return a % b\ndef G(a, b):\n    return a > b\nthe name of the function that uses the '%' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a + b\ndef J(a, b):\n    return a * b\ndef H(a, b):\n    return a % b\ndef G(a, b):\n    return a > b\nthe name of the function that uses the '>' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a < b\ndef J(a, b):\n    return a * b\ndef H(a, b):\n    return a == b\ndef C(a, b):\n    return a <= b\nthe name of the function that uses the '<' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a < b\ndef J(a, b):\n    return a * b\ndef H(a, b):\n    return a == b\ndef C(a, b):\n    return a <= b\nthe name of the function that uses the '*' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a < b\ndef J(a, b):\n    return a * b\ndef H(a, b):\n    return a == b\ndef C(a, b):\n    return a <= b\nthe name of the function that uses the '==' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def D(a, b):\n    return a < b\ndef J(a, b):\n    return a * b\ndef H(a, b):\n    return a == b\ndef C(a, b):\n    return a <= b\nthe name of the function that uses the '<=' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a == b\ndef C(a, b):\n    return a ** b\ndef F(a, b):\n    return a <= b\ndef J(a, b):\n    return a % b\nthe name of the function that uses the '==' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a == b\ndef C(a, b):\n    return a ** b\ndef F(a, b):\n    return a <= b\ndef J(a, b):\n    return a % b\nthe name of the function that uses the '**' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a == b\ndef C(a, b):\n    return a ** b\ndef F(a, b):\n    return a <= b\ndef J(a, b):\n    return a % b\nthe name of the function that uses the '<=' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def A(a, b):\n    return a == b\ndef C(a, b):\n    return a ** b\ndef F(a, b):\n    return a <= b\ndef J(a, b):\n    return a % b\nthe name of the function that uses the '%' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a < b\ndef F(a, b):\n    return a >= b\ndef H(a, b):\n    return a * b\ndef A(a, b):\n    return a <= b\nthe name of the function that uses the '<' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a < b\ndef F(a, b):\n    return a >= b\ndef H(a, b):\n    return a * b\ndef A(a, b):\n    return a <= b\nthe name of the function that uses the '>=' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a < b\ndef F(a, b):\n    return a >= b\ndef H(a, b):\n    return a * b\ndef A(a, b):\n    return a <= b\nthe name of the function that uses the '*' operator is ",
+        "output": "H"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a < b\ndef F(a, b):\n    return a >= b\ndef H(a, b):\n    return a * b\ndef A(a, b):\n    return a <= b\nthe name of the function that uses the '<=' operator is ",
+        "output": "A"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a == b\ndef B(a, b):\n    return a * b\ndef E(a, b):\n    return a + b\ndef J(a, b):\n    return a ** b\nthe name of the function that uses the '==' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a == b\ndef B(a, b):\n    return a * b\ndef E(a, b):\n    return a + b\ndef J(a, b):\n    return a ** b\nthe name of the function that uses the '*' operator is ",
+        "output": "B"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a == b\ndef B(a, b):\n    return a * b\ndef E(a, b):\n    return a + b\ndef J(a, b):\n    return a ** b\nthe name of the function that uses the '+' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a == b\ndef B(a, b):\n    return a * b\ndef E(a, b):\n    return a + b\ndef J(a, b):\n    return a ** b\nthe name of the function that uses the '**' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a + b\ndef E(a, b):\n    return a > b\ndef C(a, b):\n    return a - b\ndef D(a, b):\n    return a >= b\nthe name of the function that uses the '+' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a + b\ndef E(a, b):\n    return a > b\ndef C(a, b):\n    return a - b\ndef D(a, b):\n    return a >= b\nthe name of the function that uses the '>' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a + b\ndef E(a, b):\n    return a > b\ndef C(a, b):\n    return a - b\ndef D(a, b):\n    return a >= b\nthe name of the function that uses the '-' operator is ",
+        "output": "C"
+    },
+    {
+        "prompt": "def K(a, b):\n    return a + b\ndef E(a, b):\n    return a > b\ndef C(a, b):\n    return a - b\ndef D(a, b):\n    return a >= b\nthe name of the function that uses the '>=' operator is ",
+        "output": "D"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a * b\ndef G(a, b):\n    return a - b\ndef K(a, b):\n    return a < b\ndef J(a, b):\n    return a + b\nthe name of the function that uses the '*' operator is ",
+        "output": "E"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a * b\ndef G(a, b):\n    return a - b\ndef K(a, b):\n    return a < b\ndef J(a, b):\n    return a + b\nthe name of the function that uses the '-' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a * b\ndef G(a, b):\n    return a - b\ndef K(a, b):\n    return a < b\ndef J(a, b):\n    return a + b\nthe name of the function that uses the '<' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def E(a, b):\n    return a * b\ndef G(a, b):\n    return a - b\ndef K(a, b):\n    return a < b\ndef J(a, b):\n    return a + b\nthe name of the function that uses the '+' operator is ",
+        "output": "J"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a + b\ndef G(a, b):\n    return a - b\ndef K(a, b):\n    return a == b\ndef C(a, b):\n    return a % b\nthe name of the function that uses the '+' operator is ",
+        "output": "F"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a + b\ndef G(a, b):\n    return a - b\ndef K(a, b):\n    return a == b\ndef C(a, b):\n    return a % b\nthe name of the function that uses the '-' operator is ",
+        "output": "G"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a + b\ndef G(a, b):\n    return a - b\ndef K(a, b):\n    return a == b\ndef C(a, b):\n    return a % b\nthe name of the function that uses the '==' operator is ",
+        "output": "K"
+    },
+    {
+        "prompt": "def F(a, b):\n    return a + b\ndef G(a, b):\n    return a - b\ndef K(a, b):\n    return a == b\ndef C(a, b):\n    return a % b\nthe name of the function that uses the '%' operator is ",
+        "output": "C"
+    }
+]

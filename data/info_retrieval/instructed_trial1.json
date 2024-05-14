@@ -1,0 +1,642 @@
+[
+    {
+        "prompt": " E = 'watch'  F = 'ball'  C = 'egg'  I = 'glass' Question: What is the name of the variable containing 'watch'? Answer: ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'watch'  F = 'ball'  C = 'egg'  I = 'glass' Question: What is the name of the variable containing 'ball'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " E = 'watch'  F = 'ball'  C = 'egg'  I = 'glass' Question: What is the name of the variable containing 'egg'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " E = 'watch'  F = 'ball'  C = 'egg'  I = 'glass' Question: What is the name of the variable containing 'glass'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'crown'  I = 'stone'  K = 'sheet'  H = 'suit' Question: What is the name of the variable containing 'crown'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'crown'  I = 'stone'  K = 'sheet'  H = 'suit' Question: What is the name of the variable containing 'stone'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'crown'  I = 'stone'  K = 'sheet'  H = 'suit' Question: What is the name of the variable containing 'sheet'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " J = 'crown'  I = 'stone'  K = 'sheet'  H = 'suit' Question: What is the name of the variable containing 'suit'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'apple'  C = 'camera'  J = 'note'  B = 'bread' Question: What is the name of the variable containing 'apple'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'apple'  C = 'camera'  J = 'note'  B = 'bread' Question: What is the name of the variable containing 'camera'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " H = 'apple'  C = 'camera'  J = 'note'  B = 'bread' Question: What is the name of the variable containing 'note'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " H = 'apple'  C = 'camera'  J = 'note'  B = 'bread' Question: What is the name of the variable containing 'bread'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " G = 'ice'  C = 'painting'  D = 'mirror'  B = 'letter' Question: What is the name of the variable containing 'ice'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'ice'  C = 'painting'  D = 'mirror'  B = 'letter' Question: What is the name of the variable containing 'painting'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " G = 'ice'  C = 'painting'  D = 'mirror'  B = 'letter' Question: What is the name of the variable containing 'mirror'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " G = 'ice'  C = 'painting'  D = 'mirror'  B = 'letter' Question: What is the name of the variable containing 'letter'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " D = 'brain'  J = 'card'  C = 'mirror'  A = 'disk' Question: What is the name of the variable containing 'brain'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'brain'  J = 'card'  C = 'mirror'  A = 'disk' Question: What is the name of the variable containing 'card'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'brain'  J = 'card'  C = 'mirror'  A = 'disk' Question: What is the name of the variable containing 'mirror'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " D = 'brain'  J = 'card'  C = 'mirror'  A = 'disk' Question: What is the name of the variable containing 'disk'? Answer: ",
+        "output": "A"
+    },
+    {
+        "prompt": " F = 'computer'  H = 'bread'  K = 'wire'  C = 'ring' Question: What is the name of the variable containing 'computer'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'computer'  H = 'bread'  K = 'wire'  C = 'ring' Question: What is the name of the variable containing 'bread'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " F = 'computer'  H = 'bread'  K = 'wire'  C = 'ring' Question: What is the name of the variable containing 'wire'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " F = 'computer'  H = 'bread'  K = 'wire'  C = 'ring' Question: What is the name of the variable containing 'ring'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " J = 'creature'  I = 'coffee'  B = 'engine'  E = 'glass' Question: What is the name of the variable containing 'creature'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'creature'  I = 'coffee'  B = 'engine'  E = 'glass' Question: What is the name of the variable containing 'coffee'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'creature'  I = 'coffee'  B = 'engine'  E = 'glass' Question: What is the name of the variable containing 'engine'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " J = 'creature'  I = 'coffee'  B = 'engine'  E = 'glass' Question: What is the name of the variable containing 'glass'? Answer: ",
+        "output": "E"
+    },
+    {
+        "prompt": " H = 'chemical'  A = 'cup'  K = 'clock'  D = 'crown' Question: What is the name of the variable containing 'chemical'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'chemical'  A = 'cup'  K = 'clock'  D = 'crown' Question: What is the name of the variable containing 'cup'? Answer: ",
+        "output": "A"
+    },
+    {
+        "prompt": " H = 'chemical'  A = 'cup'  K = 'clock'  D = 'crown' Question: What is the name of the variable containing 'clock'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " H = 'chemical'  A = 'cup'  K = 'clock'  D = 'crown' Question: What is the name of the variable containing 'crown'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " K = 'wheel'  I = 'coat'  E = 'car'  B = 'brain' Question: What is the name of the variable containing 'wheel'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'wheel'  I = 'coat'  E = 'car'  B = 'brain' Question: What is the name of the variable containing 'coat'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " K = 'wheel'  I = 'coat'  E = 'car'  B = 'brain' Question: What is the name of the variable containing 'car'? Answer: ",
+        "output": "E"
+    },
+    {
+        "prompt": " K = 'wheel'  I = 'coat'  E = 'car'  B = 'brain' Question: What is the name of the variable containing 'brain'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " C = 'rose'  H = 'letter'  F = 'meat'  A = 'fish' Question: What is the name of the variable containing 'rose'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'rose'  H = 'letter'  F = 'meat'  A = 'fish' Question: What is the name of the variable containing 'letter'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " C = 'rose'  H = 'letter'  F = 'meat'  A = 'fish' Question: What is the name of the variable containing 'meat'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " C = 'rose'  H = 'letter'  F = 'meat'  A = 'fish' Question: What is the name of the variable containing 'fish'? Answer: ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'meat'  K = 'boat'  J = 'pipe'  H = 'drink' Question: What is the name of the variable containing 'meat'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'meat'  K = 'boat'  J = 'pipe'  H = 'drink' Question: What is the name of the variable containing 'boat'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " D = 'meat'  K = 'boat'  J = 'pipe'  H = 'drink' Question: What is the name of the variable containing 'pipe'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'meat'  K = 'boat'  J = 'pipe'  H = 'drink' Question: What is the name of the variable containing 'drink'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'dress'  B = 'tie'  I = 'magnet'  A = 'book' Question: What is the name of the variable containing 'dress'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'dress'  B = 'tie'  I = 'magnet'  A = 'book' Question: What is the name of the variable containing 'tie'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " J = 'dress'  B = 'tie'  I = 'magnet'  A = 'book' Question: What is the name of the variable containing 'magnet'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'dress'  B = 'tie'  I = 'magnet'  A = 'book' Question: What is the name of the variable containing 'book'? Answer: ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'drug'  J = 'camera'  A = 'ball'  I = 'machine' Question: What is the name of the variable containing 'drug'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'drug'  J = 'camera'  A = 'ball'  I = 'machine' Question: What is the name of the variable containing 'camera'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'drug'  J = 'camera'  A = 'ball'  I = 'machine' Question: What is the name of the variable containing 'ball'? Answer: ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'drug'  J = 'camera'  A = 'ball'  I = 'machine' Question: What is the name of the variable containing 'machine'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " G = 'rock'  K = 'drug'  F = 'car'  J = 'dress' Question: What is the name of the variable containing 'rock'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'rock'  K = 'drug'  F = 'car'  J = 'dress' Question: What is the name of the variable containing 'drug'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " G = 'rock'  K = 'drug'  F = 'car'  J = 'dress' Question: What is the name of the variable containing 'car'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " G = 'rock'  K = 'drug'  F = 'car'  J = 'dress' Question: What is the name of the variable containing 'dress'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'file'  F = 'suit'  A = 'magazine'  G = 'rock' Question: What is the name of the variable containing 'file'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'file'  F = 'suit'  A = 'magazine'  G = 'rock' Question: What is the name of the variable containing 'suit'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " D = 'file'  F = 'suit'  A = 'magazine'  G = 'rock' Question: What is the name of the variable containing 'magazine'? Answer: ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'file'  F = 'suit'  A = 'magazine'  G = 'rock' Question: What is the name of the variable containing 'rock'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " K = 'fan'  D = 'guitar'  B = 'boat'  C = 'stone' Question: What is the name of the variable containing 'fan'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'fan'  D = 'guitar'  B = 'boat'  C = 'stone' Question: What is the name of the variable containing 'guitar'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " K = 'fan'  D = 'guitar'  B = 'boat'  C = 'stone' Question: What is the name of the variable containing 'boat'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " K = 'fan'  D = 'guitar'  B = 'boat'  C = 'stone' Question: What is the name of the variable containing 'stone'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " H = 'gift'  J = 'bread'  F = 'key'  K = 'map' Question: What is the name of the variable containing 'gift'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'gift'  J = 'bread'  F = 'key'  K = 'map' Question: What is the name of the variable containing 'bread'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " H = 'gift'  J = 'bread'  F = 'key'  K = 'map' Question: What is the name of the variable containing 'key'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " H = 'gift'  J = 'bread'  F = 'key'  K = 'map' Question: What is the name of the variable containing 'map'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " I = 'rock'  E = 'tie'  J = 'plate'  C = 'fish' Question: What is the name of the variable containing 'rock'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'rock'  E = 'tie'  J = 'plate'  C = 'fish' Question: What is the name of the variable containing 'tie'? Answer: ",
+        "output": "E"
+    },
+    {
+        "prompt": " I = 'rock'  E = 'tie'  J = 'plate'  C = 'fish' Question: What is the name of the variable containing 'plate'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " I = 'rock'  E = 'tie'  J = 'plate'  C = 'fish' Question: What is the name of the variable containing 'fish'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " F = 'pot'  G = 'television'  H = 'stone'  C = 'wire' Question: What is the name of the variable containing 'pot'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'pot'  G = 'television'  H = 'stone'  C = 'wire' Question: What is the name of the variable containing 'television'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " F = 'pot'  G = 'television'  H = 'stone'  C = 'wire' Question: What is the name of the variable containing 'stone'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " F = 'pot'  G = 'television'  H = 'stone'  C = 'wire' Question: What is the name of the variable containing 'wire'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " B = 'machine'  F = 'gift'  K = 'cup'  I = 'creature' Question: What is the name of the variable containing 'machine'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'machine'  F = 'gift'  K = 'cup'  I = 'creature' Question: What is the name of the variable containing 'gift'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " B = 'machine'  F = 'gift'  K = 'cup'  I = 'creature' Question: What is the name of the variable containing 'cup'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " B = 'machine'  F = 'gift'  K = 'cup'  I = 'creature' Question: What is the name of the variable containing 'creature'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'game'  H = 'car'  E = 'cross'  F = 'meat' Question: What is the name of the variable containing 'game'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'game'  H = 'car'  E = 'cross'  F = 'meat' Question: What is the name of the variable containing 'car'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'game'  H = 'car'  E = 'cross'  F = 'meat' Question: What is the name of the variable containing 'cross'? Answer: ",
+        "output": "E"
+    },
+    {
+        "prompt": " J = 'game'  H = 'car'  E = 'cross'  F = 'meat' Question: What is the name of the variable containing 'meat'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " B = 'train'  G = 'watch'  A = 'tie'  C = 'book' Question: What is the name of the variable containing 'train'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'train'  G = 'watch'  A = 'tie'  C = 'book' Question: What is the name of the variable containing 'watch'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " B = 'train'  G = 'watch'  A = 'tie'  C = 'book' Question: What is the name of the variable containing 'tie'? Answer: ",
+        "output": "A"
+    },
+    {
+        "prompt": " B = 'train'  G = 'watch'  A = 'tie'  C = 'book' Question: What is the name of the variable containing 'book'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " B = 'dress'  K = 'card'  J = 'drink'  G = 'sheet' Question: What is the name of the variable containing 'dress'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'dress'  K = 'card'  J = 'drink'  G = 'sheet' Question: What is the name of the variable containing 'card'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " B = 'dress'  K = 'card'  J = 'drink'  G = 'sheet' Question: What is the name of the variable containing 'drink'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " B = 'dress'  K = 'card'  J = 'drink'  G = 'sheet' Question: What is the name of the variable containing 'sheet'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " F = 'stone'  I = 'dress'  C = 'brain'  E = 'meat' Question: What is the name of the variable containing 'stone'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'stone'  I = 'dress'  C = 'brain'  E = 'meat' Question: What is the name of the variable containing 'dress'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " F = 'stone'  I = 'dress'  C = 'brain'  E = 'meat' Question: What is the name of the variable containing 'brain'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " F = 'stone'  I = 'dress'  C = 'brain'  E = 'meat' Question: What is the name of the variable containing 'meat'? Answer: ",
+        "output": "E"
+    },
+    {
+        "prompt": " K = 'bell'  E = 'drug'  F = 'egg'  C = 'computer' Question: What is the name of the variable containing 'bell'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'bell'  E = 'drug'  F = 'egg'  C = 'computer' Question: What is the name of the variable containing 'drug'? Answer: ",
+        "output": "E"
+    },
+    {
+        "prompt": " K = 'bell'  E = 'drug'  F = 'egg'  C = 'computer' Question: What is the name of the variable containing 'egg'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " K = 'bell'  E = 'drug'  F = 'egg'  C = 'computer' Question: What is the name of the variable containing 'computer'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " J = 'sheet'  D = 'fish'  G = 'cross'  C = 'magazine' Question: What is the name of the variable containing 'sheet'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'sheet'  D = 'fish'  G = 'cross'  C = 'magazine' Question: What is the name of the variable containing 'fish'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " J = 'sheet'  D = 'fish'  G = 'cross'  C = 'magazine' Question: What is the name of the variable containing 'cross'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " J = 'sheet'  D = 'fish'  G = 'cross'  C = 'magazine' Question: What is the name of the variable containing 'magazine'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " D = 'wheel'  I = 'glass'  J = 'block'  C = 'camera' Question: What is the name of the variable containing 'wheel'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'wheel'  I = 'glass'  J = 'block'  C = 'camera' Question: What is the name of the variable containing 'glass'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " D = 'wheel'  I = 'glass'  J = 'block'  C = 'camera' Question: What is the name of the variable containing 'block'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'wheel'  I = 'glass'  J = 'block'  C = 'camera' Question: What is the name of the variable containing 'camera'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " J = 'wire'  I = 'ticket'  H = 'painting'  A = 'milk' Question: What is the name of the variable containing 'wire'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'wire'  I = 'ticket'  H = 'painting'  A = 'milk' Question: What is the name of the variable containing 'ticket'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'wire'  I = 'ticket'  H = 'painting'  A = 'milk' Question: What is the name of the variable containing 'painting'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'wire'  I = 'ticket'  H = 'painting'  A = 'milk' Question: What is the name of the variable containing 'milk'? Answer: ",
+        "output": "A"
+    },
+    {
+        "prompt": " G = 'creature'  D = 'bag'  J = 'guitar'  I = 'tie' Question: What is the name of the variable containing 'creature'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'creature'  D = 'bag'  J = 'guitar'  I = 'tie' Question: What is the name of the variable containing 'bag'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " G = 'creature'  D = 'bag'  J = 'guitar'  I = 'tie' Question: What is the name of the variable containing 'guitar'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " G = 'creature'  D = 'bag'  J = 'guitar'  I = 'tie' Question: What is the name of the variable containing 'tie'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " B = 'fan'  K = 'wire'  G = 'cross'  H = 'pipe' Question: What is the name of the variable containing 'fan'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'fan'  K = 'wire'  G = 'cross'  H = 'pipe' Question: What is the name of the variable containing 'wire'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " B = 'fan'  K = 'wire'  G = 'cross'  H = 'pipe' Question: What is the name of the variable containing 'cross'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " B = 'fan'  K = 'wire'  G = 'cross'  H = 'pipe' Question: What is the name of the variable containing 'pipe'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " C = 'bomb'  G = 'apple'  J = 'phone'  K = 'game' Question: What is the name of the variable containing 'bomb'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'bomb'  G = 'apple'  J = 'phone'  K = 'game' Question: What is the name of the variable containing 'apple'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " C = 'bomb'  G = 'apple'  J = 'phone'  K = 'game' Question: What is the name of the variable containing 'phone'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " C = 'bomb'  G = 'apple'  J = 'phone'  K = 'game' Question: What is the name of the variable containing 'game'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " C = 'file'  E = 'drug'  D = 'guitar'  J = 'block' Question: What is the name of the variable containing 'file'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'file'  E = 'drug'  D = 'guitar'  J = 'block' Question: What is the name of the variable containing 'drug'? Answer: ",
+        "output": "E"
+    },
+    {
+        "prompt": " C = 'file'  E = 'drug'  D = 'guitar'  J = 'block' Question: What is the name of the variable containing 'guitar'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " C = 'file'  E = 'drug'  D = 'guitar'  J = 'block' Question: What is the name of the variable containing 'block'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " E = 'shell'  A = 'apple'  B = 'seed'  G = 'game' Question: What is the name of the variable containing 'shell'? Answer: ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'shell'  A = 'apple'  B = 'seed'  G = 'game' Question: What is the name of the variable containing 'apple'? Answer: ",
+        "output": "A"
+    },
+    {
+        "prompt": " E = 'shell'  A = 'apple'  B = 'seed'  G = 'game' Question: What is the name of the variable containing 'seed'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " E = 'shell'  A = 'apple'  B = 'seed'  G = 'game' Question: What is the name of the variable containing 'game'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " F = 'card'  G = 'computer'  C = 'radio'  B = 'gift' Question: What is the name of the variable containing 'card'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'card'  G = 'computer'  C = 'radio'  B = 'gift' Question: What is the name of the variable containing 'computer'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " F = 'card'  G = 'computer'  C = 'radio'  B = 'gift' Question: What is the name of the variable containing 'radio'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " F = 'card'  G = 'computer'  C = 'radio'  B = 'gift' Question: What is the name of the variable containing 'gift'? Answer: ",
+        "output": "B"
+    },
+    {
+        "prompt": " D = 'crown'  C = 'newspaper'  J = 'plant'  G = 'leaf' Question: What is the name of the variable containing 'crown'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'crown'  C = 'newspaper'  J = 'plant'  G = 'leaf' Question: What is the name of the variable containing 'newspaper'? Answer: ",
+        "output": "C"
+    },
+    {
+        "prompt": " D = 'crown'  C = 'newspaper'  J = 'plant'  G = 'leaf' Question: What is the name of the variable containing 'plant'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'crown'  C = 'newspaper'  J = 'plant'  G = 'leaf' Question: What is the name of the variable containing 'leaf'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " J = 'watch'  E = 'tie'  H = 'milk'  I = 'picture' Question: What is the name of the variable containing 'watch'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'watch'  E = 'tie'  H = 'milk'  I = 'picture' Question: What is the name of the variable containing 'tie'? Answer: ",
+        "output": "E"
+    },
+    {
+        "prompt": " J = 'watch'  E = 'tie'  H = 'milk'  I = 'picture' Question: What is the name of the variable containing 'milk'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'watch'  E = 'tie'  H = 'milk'  I = 'picture' Question: What is the name of the variable containing 'picture'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " H = 'watch'  D = 'train'  E = 'egg'  G = 'book' Question: What is the name of the variable containing 'watch'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'watch'  D = 'train'  E = 'egg'  G = 'book' Question: What is the name of the variable containing 'train'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " H = 'watch'  D = 'train'  E = 'egg'  G = 'book' Question: What is the name of the variable containing 'egg'? Answer: ",
+        "output": "E"
+    },
+    {
+        "prompt": " H = 'watch'  D = 'train'  E = 'egg'  G = 'book' Question: What is the name of the variable containing 'book'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " J = 'hat'  G = 'game'  H = 'wire'  I = 'guitar' Question: What is the name of the variable containing 'hat'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'hat'  G = 'game'  H = 'wire'  I = 'guitar' Question: What is the name of the variable containing 'game'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " J = 'hat'  G = 'game'  H = 'wire'  I = 'guitar' Question: What is the name of the variable containing 'wire'? Answer: ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'hat'  G = 'game'  H = 'wire'  I = 'guitar' Question: What is the name of the variable containing 'guitar'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'shell'  F = 'coat'  K = 'note'  G = 'document' Question: What is the name of the variable containing 'shell'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'shell'  F = 'coat'  K = 'note'  G = 'document' Question: What is the name of the variable containing 'coat'? Answer: ",
+        "output": "F"
+    },
+    {
+        "prompt": " J = 'shell'  F = 'coat'  K = 'note'  G = 'document' Question: What is the name of the variable containing 'note'? Answer: ",
+        "output": "K"
+    },
+    {
+        "prompt": " J = 'shell'  F = 'coat'  K = 'note'  G = 'document' Question: What is the name of the variable containing 'document'? Answer: ",
+        "output": "G"
+    },
+    {
+        "prompt": " D = 'card'  J = 'game'  I = 'creature'  F = 'bomb' Question: What is the name of the variable containing 'card'? Answer: ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'card'  J = 'game'  I = 'creature'  F = 'bomb' Question: What is the name of the variable containing 'game'? Answer: ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'card'  J = 'game'  I = 'creature'  F = 'bomb' Question: What is the name of the variable containing 'creature'? Answer: ",
+        "output": "I"
+    },
+    {
+        "prompt": " D = 'card'  J = 'game'  I = 'creature'  F = 'bomb' Question: What is the name of the variable containing 'bomb'? Answer: ",
+        "output": "F"
+    }
+]
