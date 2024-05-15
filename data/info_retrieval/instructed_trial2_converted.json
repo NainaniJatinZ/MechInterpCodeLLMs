@@ -1,642 +1,642 @@
 [
     {
-        "prompt": "The card is in Box B. The plane is in Box J. The plant is in Box E. The ball is in Box F. The name of the Box that has the card is ",
+        "prompt": "The card is in Box B. The plane is in Box J. The plant is in Box E. The ball is in Box F. What is the letter of the Box that the card is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The card is in Box B. The plane is in Box J. The plant is in Box E. The ball is in Box F. The name of the Box that has the card is ",
+        "prompt": "The card is in Box B. The plane is in Box J. The plant is in Box E. The ball is in Box F. What is the letter of the Box that the plane is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The card is in Box B. The plane is in Box J. The plant is in Box E. The ball is in Box F. The name of the Box that has the card is ",
+        "prompt": "The card is in Box B. The plane is in Box J. The plant is in Box E. The ball is in Box F. What is the letter of the Box that the plant is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The card is in Box B. The plane is in Box J. The plant is in Box E. The ball is in Box F. The name of the Box that has the card is ",
+        "prompt": "The card is in Box B. The plane is in Box J. The plant is in Box E. The ball is in Box F. What is the letter of the Box that the ball is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The fig is in Box C. The plane is in Box E. The seed is in Box G. The boat is in Box F. The name of the Box that has the card is ",
+        "prompt": "The fig is in Box C. The plane is in Box E. The seed is in Box G. The boat is in Box F. What is the letter of the Box that the fig is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The fig is in Box C. The plane is in Box E. The seed is in Box G. The boat is in Box F. The name of the Box that has the card is ",
+        "prompt": "The fig is in Box C. The plane is in Box E. The seed is in Box G. The boat is in Box F. What is the letter of the Box that the plane is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The fig is in Box C. The plane is in Box E. The seed is in Box G. The boat is in Box F. The name of the Box that has the card is ",
+        "prompt": "The fig is in Box C. The plane is in Box E. The seed is in Box G. The boat is in Box F. What is the letter of the Box that the seed is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The fig is in Box C. The plane is in Box E. The seed is in Box G. The boat is in Box F. The name of the Box that has the card is ",
+        "prompt": "The fig is in Box C. The plane is in Box E. The seed is in Box G. The boat is in Box F. What is the letter of the Box that the boat is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The string is in Box K. The drink is in Box E. The block is in Box B. The sheet is in Box A. The name of the Box that has the card is ",
+        "prompt": "The string is in Box K. The drink is in Box E. The block is in Box B. The sheet is in Box A. What is the letter of the Box that the string is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The string is in Box K. The drink is in Box E. The block is in Box B. The sheet is in Box A. The name of the Box that has the card is ",
+        "prompt": "The string is in Box K. The drink is in Box E. The block is in Box B. The sheet is in Box A. What is the letter of the Box that the drink is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The string is in Box K. The drink is in Box E. The block is in Box B. The sheet is in Box A. The name of the Box that has the card is ",
+        "prompt": "The string is in Box K. The drink is in Box E. The block is in Box B. The sheet is in Box A. What is the letter of the Box that the block is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The string is in Box K. The drink is in Box E. The block is in Box B. The sheet is in Box A. The name of the Box that has the card is ",
+        "prompt": "The string is in Box K. The drink is in Box E. The block is in Box B. The sheet is in Box A. What is the letter of the Box that the sheet is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The rose is in Box G. The chemical is in Box F. The painting is in Box I. The key is in Box B. The name of the Box that has the card is ",
+        "prompt": "The rose is in Box G. The chemical is in Box F. The painting is in Box I. The key is in Box B. What is the letter of the Box that the rose is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The rose is in Box G. The chemical is in Box F. The painting is in Box I. The key is in Box B. The name of the Box that has the card is ",
+        "prompt": "The rose is in Box G. The chemical is in Box F. The painting is in Box I. The key is in Box B. What is the letter of the Box that the chemical is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The rose is in Box G. The chemical is in Box F. The painting is in Box I. The key is in Box B. The name of the Box that has the card is ",
+        "prompt": "The rose is in Box G. The chemical is in Box F. The painting is in Box I. The key is in Box B. What is the letter of the Box that the painting is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The rose is in Box G. The chemical is in Box F. The painting is in Box I. The key is in Box B. The name of the Box that has the card is ",
+        "prompt": "The rose is in Box G. The chemical is in Box F. The painting is in Box I. The key is in Box B. What is the letter of the Box that the key is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The hat is in Box K. The book is in Box G. The ticket is in Box F. The tie is in Box B. The name of the Box that has the card is ",
+        "prompt": "The hat is in Box K. The book is in Box G. The ticket is in Box F. The tie is in Box B. What is the letter of the Box that the hat is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The hat is in Box K. The book is in Box G. The ticket is in Box F. The tie is in Box B. The name of the Box that has the card is ",
+        "prompt": "The hat is in Box K. The book is in Box G. The ticket is in Box F. The tie is in Box B. What is the letter of the Box that the book is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The hat is in Box K. The book is in Box G. The ticket is in Box F. The tie is in Box B. The name of the Box that has the card is ",
+        "prompt": "The hat is in Box K. The book is in Box G. The ticket is in Box F. The tie is in Box B. What is the letter of the Box that the ticket is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The hat is in Box K. The book is in Box G. The ticket is in Box F. The tie is in Box B. The name of the Box that has the card is ",
+        "prompt": "The hat is in Box K. The book is in Box G. The ticket is in Box F. The tie is in Box B. What is the letter of the Box that the tie is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The picture is in Box F. The card is in Box C. The gift is in Box J. The ring is in Box A. The name of the Box that has the card is ",
+        "prompt": "The picture is in Box F. The card is in Box C. The gift is in Box J. The ring is in Box A. What is the letter of the Box that the picture is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The picture is in Box F. The card is in Box C. The gift is in Box J. The ring is in Box A. The name of the Box that has the card is ",
+        "prompt": "The picture is in Box F. The card is in Box C. The gift is in Box J. The ring is in Box A. What is the letter of the Box that the card is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The picture is in Box F. The card is in Box C. The gift is in Box J. The ring is in Box A. The name of the Box that has the card is ",
+        "prompt": "The picture is in Box F. The card is in Box C. The gift is in Box J. The ring is in Box A. What is the letter of the Box that the gift is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The picture is in Box F. The card is in Box C. The gift is in Box J. The ring is in Box A. The name of the Box that has the card is ",
+        "prompt": "The picture is in Box F. The card is in Box C. The gift is in Box J. The ring is in Box A. What is the letter of the Box that the ring is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The brain is in Box D. The shell is in Box J. The magazine is in Box I. The picture is in Box K. The name of the Box that has the card is ",
+        "prompt": "The brain is in Box D. The shell is in Box J. The magazine is in Box I. The picture is in Box K. What is the letter of the Box that the brain is in? Box ",
         "output": "D"
     },
     {
-        "prompt": "The brain is in Box D. The shell is in Box J. The magazine is in Box I. The picture is in Box K. The name of the Box that has the card is ",
+        "prompt": "The brain is in Box D. The shell is in Box J. The magazine is in Box I. The picture is in Box K. What is the letter of the Box that the shell is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The brain is in Box D. The shell is in Box J. The magazine is in Box I. The picture is in Box K. The name of the Box that has the card is ",
+        "prompt": "The brain is in Box D. The shell is in Box J. The magazine is in Box I. The picture is in Box K. What is the letter of the Box that the magazine is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The brain is in Box D. The shell is in Box J. The magazine is in Box I. The picture is in Box K. The name of the Box that has the card is ",
+        "prompt": "The brain is in Box D. The shell is in Box J. The magazine is in Box I. The picture is in Box K. What is the letter of the Box that the picture is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The book is in Box F. The fig is in Box G. The sheet is in Box A. The document is in Box J. The name of the Box that has the card is ",
+        "prompt": "The book is in Box F. The fig is in Box G. The sheet is in Box A. The document is in Box J. What is the letter of the Box that the book is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The book is in Box F. The fig is in Box G. The sheet is in Box A. The document is in Box J. The name of the Box that has the card is ",
+        "prompt": "The book is in Box F. The fig is in Box G. The sheet is in Box A. The document is in Box J. What is the letter of the Box that the fig is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The book is in Box F. The fig is in Box G. The sheet is in Box A. The document is in Box J. The name of the Box that has the card is ",
+        "prompt": "The book is in Box F. The fig is in Box G. The sheet is in Box A. The document is in Box J. What is the letter of the Box that the sheet is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The book is in Box F. The fig is in Box G. The sheet is in Box A. The document is in Box J. The name of the Box that has the card is ",
+        "prompt": "The book is in Box F. The fig is in Box G. The sheet is in Box A. The document is in Box J. What is the letter of the Box that the document is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The disk is in Box C. The cross is in Box H. The computer is in Box B. The brain is in Box A. The name of the Box that has the card is ",
+        "prompt": "The disk is in Box C. The cross is in Box H. The computer is in Box B. The brain is in Box A. What is the letter of the Box that the disk is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The disk is in Box C. The cross is in Box H. The computer is in Box B. The brain is in Box A. The name of the Box that has the card is ",
+        "prompt": "The disk is in Box C. The cross is in Box H. The computer is in Box B. The brain is in Box A. What is the letter of the Box that the cross is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The disk is in Box C. The cross is in Box H. The computer is in Box B. The brain is in Box A. The name of the Box that has the card is ",
+        "prompt": "The disk is in Box C. The cross is in Box H. The computer is in Box B. The brain is in Box A. What is the letter of the Box that the computer is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The disk is in Box C. The cross is in Box H. The computer is in Box B. The brain is in Box A. The name of the Box that has the card is ",
+        "prompt": "The disk is in Box C. The cross is in Box H. The computer is in Box B. The brain is in Box A. What is the letter of the Box that the brain is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The meat is in Box I. The drug is in Box J. The clock is in Box E. The branch is in Box B. The name of the Box that has the card is ",
+        "prompt": "The meat is in Box I. The drug is in Box J. The clock is in Box E. The branch is in Box B. What is the letter of the Box that the meat is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The meat is in Box I. The drug is in Box J. The clock is in Box E. The branch is in Box B. The name of the Box that has the card is ",
+        "prompt": "The meat is in Box I. The drug is in Box J. The clock is in Box E. The branch is in Box B. What is the letter of the Box that the drug is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The meat is in Box I. The drug is in Box J. The clock is in Box E. The branch is in Box B. The name of the Box that has the card is ",
+        "prompt": "The meat is in Box I. The drug is in Box J. The clock is in Box E. The branch is in Box B. What is the letter of the Box that the clock is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The meat is in Box I. The drug is in Box J. The clock is in Box E. The branch is in Box B. The name of the Box that has the card is ",
+        "prompt": "The meat is in Box I. The drug is in Box J. The clock is in Box E. The branch is in Box B. What is the letter of the Box that the branch is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The picture is in Box G. The drug is in Box I. The suit is in Box B. The wire is in Box J. The name of the Box that has the card is ",
+        "prompt": "The picture is in Box G. The drug is in Box I. The suit is in Box B. The wire is in Box J. What is the letter of the Box that the picture is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The picture is in Box G. The drug is in Box I. The suit is in Box B. The wire is in Box J. The name of the Box that has the card is ",
+        "prompt": "The picture is in Box G. The drug is in Box I. The suit is in Box B. The wire is in Box J. What is the letter of the Box that the drug is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The picture is in Box G. The drug is in Box I. The suit is in Box B. The wire is in Box J. The name of the Box that has the card is ",
+        "prompt": "The picture is in Box G. The drug is in Box I. The suit is in Box B. The wire is in Box J. What is the letter of the Box that the suit is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The picture is in Box G. The drug is in Box I. The suit is in Box B. The wire is in Box J. The name of the Box that has the card is ",
+        "prompt": "The picture is in Box G. The drug is in Box I. The suit is in Box B. The wire is in Box J. What is the letter of the Box that the wire is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The phone is in Box H. The guitar is in Box F. The boat is in Box E. The radio is in Box A. The name of the Box that has the card is ",
+        "prompt": "The phone is in Box H. The guitar is in Box F. The boat is in Box E. The radio is in Box A. What is the letter of the Box that the phone is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The phone is in Box H. The guitar is in Box F. The boat is in Box E. The radio is in Box A. The name of the Box that has the card is ",
+        "prompt": "The phone is in Box H. The guitar is in Box F. The boat is in Box E. The radio is in Box A. What is the letter of the Box that the guitar is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The phone is in Box H. The guitar is in Box F. The boat is in Box E. The radio is in Box A. The name of the Box that has the card is ",
+        "prompt": "The phone is in Box H. The guitar is in Box F. The boat is in Box E. The radio is in Box A. What is the letter of the Box that the boat is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The phone is in Box H. The guitar is in Box F. The boat is in Box E. The radio is in Box A. The name of the Box that has the card is ",
+        "prompt": "The phone is in Box H. The guitar is in Box F. The boat is in Box E. The radio is in Box A. What is the letter of the Box that the radio is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The ice is in Box I. The letter is in Box A. The suit is in Box F. The milk is in Box C. The name of the Box that has the card is ",
+        "prompt": "The ice is in Box I. The letter is in Box A. The suit is in Box F. The milk is in Box C. What is the letter of the Box that the ice is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The ice is in Box I. The letter is in Box A. The suit is in Box F. The milk is in Box C. The name of the Box that has the card is ",
+        "prompt": "The ice is in Box I. The letter is in Box A. The suit is in Box F. The milk is in Box C. What is the letter of the Box that the letter is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The ice is in Box I. The letter is in Box A. The suit is in Box F. The milk is in Box C. The name of the Box that has the card is ",
+        "prompt": "The ice is in Box I. The letter is in Box A. The suit is in Box F. The milk is in Box C. What is the letter of the Box that the suit is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The ice is in Box I. The letter is in Box A. The suit is in Box F. The milk is in Box C. The name of the Box that has the card is ",
+        "prompt": "The ice is in Box I. The letter is in Box A. The suit is in Box F. The milk is in Box C. What is the letter of the Box that the milk is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The brick is in Box G. The fish is in Box C. The fan is in Box J. The machine is in Box H. The name of the Box that has the card is ",
+        "prompt": "The brick is in Box G. The fish is in Box C. The fan is in Box J. The machine is in Box H. What is the letter of the Box that the brick is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The brick is in Box G. The fish is in Box C. The fan is in Box J. The machine is in Box H. The name of the Box that has the card is ",
+        "prompt": "The brick is in Box G. The fish is in Box C. The fan is in Box J. The machine is in Box H. What is the letter of the Box that the fish is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The brick is in Box G. The fish is in Box C. The fan is in Box J. The machine is in Box H. The name of the Box that has the card is ",
+        "prompt": "The brick is in Box G. The fish is in Box C. The fan is in Box J. The machine is in Box H. What is the letter of the Box that the fan is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The brick is in Box G. The fish is in Box C. The fan is in Box J. The machine is in Box H. The name of the Box that has the card is ",
+        "prompt": "The brick is in Box G. The fish is in Box C. The fan is in Box J. The machine is in Box H. What is the letter of the Box that the machine is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The rock is in Box G. The phone is in Box C. The ticket is in Box K. The crown is in Box I. The name of the Box that has the card is ",
+        "prompt": "The rock is in Box G. The phone is in Box C. The ticket is in Box K. The crown is in Box I. What is the letter of the Box that the rock is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The rock is in Box G. The phone is in Box C. The ticket is in Box K. The crown is in Box I. The name of the Box that has the card is ",
+        "prompt": "The rock is in Box G. The phone is in Box C. The ticket is in Box K. The crown is in Box I. What is the letter of the Box that the phone is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The rock is in Box G. The phone is in Box C. The ticket is in Box K. The crown is in Box I. The name of the Box that has the card is ",
+        "prompt": "The rock is in Box G. The phone is in Box C. The ticket is in Box K. The crown is in Box I. What is the letter of the Box that the ticket is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The rock is in Box G. The phone is in Box C. The ticket is in Box K. The crown is in Box I. The name of the Box that has the card is ",
+        "prompt": "The rock is in Box G. The phone is in Box C. The ticket is in Box K. The crown is in Box I. What is the letter of the Box that the crown is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The mirror is in Box K. The meat is in Box G. The ice is in Box C. The television is in Box F. The name of the Box that has the card is ",
+        "prompt": "The mirror is in Box K. The meat is in Box G. The ice is in Box C. The television is in Box F. What is the letter of the Box that the mirror is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The mirror is in Box K. The meat is in Box G. The ice is in Box C. The television is in Box F. The name of the Box that has the card is ",
+        "prompt": "The mirror is in Box K. The meat is in Box G. The ice is in Box C. The television is in Box F. What is the letter of the Box that the meat is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The mirror is in Box K. The meat is in Box G. The ice is in Box C. The television is in Box F. The name of the Box that has the card is ",
+        "prompt": "The mirror is in Box K. The meat is in Box G. The ice is in Box C. The television is in Box F. What is the letter of the Box that the ice is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The mirror is in Box K. The meat is in Box G. The ice is in Box C. The television is in Box F. The name of the Box that has the card is ",
+        "prompt": "The mirror is in Box K. The meat is in Box G. The ice is in Box C. The television is in Box F. What is the letter of the Box that the television is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The seed is in Box K. The creature is in Box F. The ring is in Box H. The car is in Box D. The name of the Box that has the card is ",
+        "prompt": "The seed is in Box K. The creature is in Box F. The ring is in Box H. The car is in Box D. What is the letter of the Box that the seed is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The seed is in Box K. The creature is in Box F. The ring is in Box H. The car is in Box D. The name of the Box that has the card is ",
+        "prompt": "The seed is in Box K. The creature is in Box F. The ring is in Box H. The car is in Box D. What is the letter of the Box that the creature is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The seed is in Box K. The creature is in Box F. The ring is in Box H. The car is in Box D. The name of the Box that has the card is ",
+        "prompt": "The seed is in Box K. The creature is in Box F. The ring is in Box H. The car is in Box D. What is the letter of the Box that the ring is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The seed is in Box K. The creature is in Box F. The ring is in Box H. The car is in Box D. The name of the Box that has the card is ",
+        "prompt": "The seed is in Box K. The creature is in Box F. The ring is in Box H. The car is in Box D. What is the letter of the Box that the car is in? Box ",
         "output": "D"
     },
     {
-        "prompt": "The plant is in Box J. The plate is in Box E. The drug is in Box G. The flower is in Box A. The name of the Box that has the card is ",
+        "prompt": "The plant is in Box J. The plate is in Box E. The drug is in Box G. The flower is in Box A. What is the letter of the Box that the plant is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The plant is in Box J. The plate is in Box E. The drug is in Box G. The flower is in Box A. The name of the Box that has the card is ",
+        "prompt": "The plant is in Box J. The plate is in Box E. The drug is in Box G. The flower is in Box A. What is the letter of the Box that the plate is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The plant is in Box J. The plate is in Box E. The drug is in Box G. The flower is in Box A. The name of the Box that has the card is ",
+        "prompt": "The plant is in Box J. The plate is in Box E. The drug is in Box G. The flower is in Box A. What is the letter of the Box that the drug is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The plant is in Box J. The plate is in Box E. The drug is in Box G. The flower is in Box A. The name of the Box that has the card is ",
+        "prompt": "The plant is in Box J. The plate is in Box E. The drug is in Box G. The flower is in Box A. What is the letter of the Box that the flower is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The medicine is in Box K. The magnet is in Box D. The engine is in Box C. The dress is in Box B. The name of the Box that has the card is ",
+        "prompt": "The medicine is in Box K. The magnet is in Box D. The engine is in Box C. The dress is in Box B. What is the letter of the Box that the medicine is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The medicine is in Box K. The magnet is in Box D. The engine is in Box C. The dress is in Box B. The name of the Box that has the card is ",
+        "prompt": "The medicine is in Box K. The magnet is in Box D. The engine is in Box C. The dress is in Box B. What is the letter of the Box that the magnet is in? Box ",
         "output": "D"
     },
     {
-        "prompt": "The medicine is in Box K. The magnet is in Box D. The engine is in Box C. The dress is in Box B. The name of the Box that has the card is ",
+        "prompt": "The medicine is in Box K. The magnet is in Box D. The engine is in Box C. The dress is in Box B. What is the letter of the Box that the engine is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The medicine is in Box K. The magnet is in Box D. The engine is in Box C. The dress is in Box B. The name of the Box that has the card is ",
+        "prompt": "The medicine is in Box K. The magnet is in Box D. The engine is in Box C. The dress is in Box B. What is the letter of the Box that the dress is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The suit is in Box B. The mirror is in Box F. The glass is in Box K. The egg is in Box A. The name of the Box that has the card is ",
+        "prompt": "The suit is in Box B. The mirror is in Box F. The glass is in Box K. The egg is in Box A. What is the letter of the Box that the suit is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The suit is in Box B. The mirror is in Box F. The glass is in Box K. The egg is in Box A. The name of the Box that has the card is ",
+        "prompt": "The suit is in Box B. The mirror is in Box F. The glass is in Box K. The egg is in Box A. What is the letter of the Box that the mirror is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The suit is in Box B. The mirror is in Box F. The glass is in Box K. The egg is in Box A. The name of the Box that has the card is ",
+        "prompt": "The suit is in Box B. The mirror is in Box F. The glass is in Box K. The egg is in Box A. What is the letter of the Box that the glass is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The suit is in Box B. The mirror is in Box F. The glass is in Box K. The egg is in Box A. The name of the Box that has the card is ",
+        "prompt": "The suit is in Box B. The mirror is in Box F. The glass is in Box K. The egg is in Box A. What is the letter of the Box that the egg is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The newspaper is in Box E. The hat is in Box F. The creature is in Box I. The coffee is in Box K. The name of the Box that has the card is ",
+        "prompt": "The newspaper is in Box E. The hat is in Box F. The creature is in Box I. The coffee is in Box K. What is the letter of the Box that the newspaper is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The newspaper is in Box E. The hat is in Box F. The creature is in Box I. The coffee is in Box K. The name of the Box that has the card is ",
+        "prompt": "The newspaper is in Box E. The hat is in Box F. The creature is in Box I. The coffee is in Box K. What is the letter of the Box that the hat is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The newspaper is in Box E. The hat is in Box F. The creature is in Box I. The coffee is in Box K. The name of the Box that has the card is ",
+        "prompt": "The newspaper is in Box E. The hat is in Box F. The creature is in Box I. The coffee is in Box K. What is the letter of the Box that the creature is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The newspaper is in Box E. The hat is in Box F. The creature is in Box I. The coffee is in Box K. The name of the Box that has the card is ",
+        "prompt": "The newspaper is in Box E. The hat is in Box F. The creature is in Box I. The coffee is in Box K. What is the letter of the Box that the coffee is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The brick is in Box K. The machine is in Box B. The letter is in Box A. The key is in Box C. The name of the Box that has the card is ",
+        "prompt": "The brick is in Box K. The machine is in Box B. The letter is in Box A. The key is in Box C. What is the letter of the Box that the brick is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The brick is in Box K. The machine is in Box B. The letter is in Box A. The key is in Box C. The name of the Box that has the card is ",
+        "prompt": "The brick is in Box K. The machine is in Box B. The letter is in Box A. The key is in Box C. What is the letter of the Box that the machine is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The brick is in Box K. The machine is in Box B. The letter is in Box A. The key is in Box C. The name of the Box that has the card is ",
+        "prompt": "The brick is in Box K. The machine is in Box B. The letter is in Box A. The key is in Box C. What is the letter of the Box that the letter is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The brick is in Box K. The machine is in Box B. The letter is in Box A. The key is in Box C. The name of the Box that has the card is ",
+        "prompt": "The brick is in Box K. The machine is in Box B. The letter is in Box A. The key is in Box C. What is the letter of the Box that the key is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The train is in Box J. The note is in Box F. The bag is in Box D. The tie is in Box A. The name of the Box that has the card is ",
+        "prompt": "The train is in Box J. The note is in Box F. The bag is in Box D. The tie is in Box A. What is the letter of the Box that the train is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The train is in Box J. The note is in Box F. The bag is in Box D. The tie is in Box A. The name of the Box that has the card is ",
+        "prompt": "The train is in Box J. The note is in Box F. The bag is in Box D. The tie is in Box A. What is the letter of the Box that the note is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The train is in Box J. The note is in Box F. The bag is in Box D. The tie is in Box A. The name of the Box that has the card is ",
+        "prompt": "The train is in Box J. The note is in Box F. The bag is in Box D. The tie is in Box A. What is the letter of the Box that the bag is in? Box ",
         "output": "D"
     },
     {
-        "prompt": "The train is in Box J. The note is in Box F. The bag is in Box D. The tie is in Box A. The name of the Box that has the card is ",
+        "prompt": "The train is in Box J. The note is in Box F. The bag is in Box D. The tie is in Box A. What is the letter of the Box that the tie is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The ring is in Box G. The apple is in Box F. The tie is in Box B. The egg is in Box C. The name of the Box that has the card is ",
+        "prompt": "The ring is in Box G. The apple is in Box F. The tie is in Box B. The egg is in Box C. What is the letter of the Box that the ring is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The ring is in Box G. The apple is in Box F. The tie is in Box B. The egg is in Box C. The name of the Box that has the card is ",
+        "prompt": "The ring is in Box G. The apple is in Box F. The tie is in Box B. The egg is in Box C. What is the letter of the Box that the apple is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The ring is in Box G. The apple is in Box F. The tie is in Box B. The egg is in Box C. The name of the Box that has the card is ",
+        "prompt": "The ring is in Box G. The apple is in Box F. The tie is in Box B. The egg is in Box C. What is the letter of the Box that the tie is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The ring is in Box G. The apple is in Box F. The tie is in Box B. The egg is in Box C. The name of the Box that has the card is ",
+        "prompt": "The ring is in Box G. The apple is in Box F. The tie is in Box B. The egg is in Box C. What is the letter of the Box that the egg is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The coffee is in Box A. The ball is in Box I. The stone is in Box K. The drug is in Box H. The name of the Box that has the card is ",
+        "prompt": "The coffee is in Box A. The ball is in Box I. The stone is in Box K. The drug is in Box H. What is the letter of the Box that the coffee is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The coffee is in Box A. The ball is in Box I. The stone is in Box K. The drug is in Box H. The name of the Box that has the card is ",
+        "prompt": "The coffee is in Box A. The ball is in Box I. The stone is in Box K. The drug is in Box H. What is the letter of the Box that the ball is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The coffee is in Box A. The ball is in Box I. The stone is in Box K. The drug is in Box H. The name of the Box that has the card is ",
+        "prompt": "The coffee is in Box A. The ball is in Box I. The stone is in Box K. The drug is in Box H. What is the letter of the Box that the stone is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The coffee is in Box A. The ball is in Box I. The stone is in Box K. The drug is in Box H. The name of the Box that has the card is ",
+        "prompt": "The coffee is in Box A. The ball is in Box I. The stone is in Box K. The drug is in Box H. What is the letter of the Box that the drug is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The pipe is in Box C. The bag is in Box F. The picture is in Box H. The cross is in Box B. The name of the Box that has the card is ",
+        "prompt": "The pipe is in Box C. The bag is in Box F. The picture is in Box H. The cross is in Box B. What is the letter of the Box that the pipe is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The pipe is in Box C. The bag is in Box F. The picture is in Box H. The cross is in Box B. The name of the Box that has the card is ",
+        "prompt": "The pipe is in Box C. The bag is in Box F. The picture is in Box H. The cross is in Box B. What is the letter of the Box that the bag is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The pipe is in Box C. The bag is in Box F. The picture is in Box H. The cross is in Box B. The name of the Box that has the card is ",
+        "prompt": "The pipe is in Box C. The bag is in Box F. The picture is in Box H. The cross is in Box B. What is the letter of the Box that the picture is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The pipe is in Box C. The bag is in Box F. The picture is in Box H. The cross is in Box B. The name of the Box that has the card is ",
+        "prompt": "The pipe is in Box C. The bag is in Box F. The picture is in Box H. The cross is in Box B. What is the letter of the Box that the cross is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The egg is in Box G. The document is in Box K. The book is in Box H. The car is in Box I. The name of the Box that has the card is ",
+        "prompt": "The egg is in Box G. The document is in Box K. The book is in Box H. The car is in Box I. What is the letter of the Box that the egg is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The egg is in Box G. The document is in Box K. The book is in Box H. The car is in Box I. The name of the Box that has the card is ",
+        "prompt": "The egg is in Box G. The document is in Box K. The book is in Box H. The car is in Box I. What is the letter of the Box that the document is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The egg is in Box G. The document is in Box K. The book is in Box H. The car is in Box I. The name of the Box that has the card is ",
+        "prompt": "The egg is in Box G. The document is in Box K. The book is in Box H. The car is in Box I. What is the letter of the Box that the book is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The egg is in Box G. The document is in Box K. The book is in Box H. The car is in Box I. The name of the Box that has the card is ",
+        "prompt": "The egg is in Box G. The document is in Box K. The book is in Box H. The car is in Box I. What is the letter of the Box that the car is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The bag is in Box D. The coat is in Box K. The ice is in Box B. The coffee is in Box A. The name of the Box that has the card is ",
+        "prompt": "The bag is in Box D. The coat is in Box K. The ice is in Box B. The coffee is in Box A. What is the letter of the Box that the bag is in? Box ",
         "output": "D"
     },
     {
-        "prompt": "The bag is in Box D. The coat is in Box K. The ice is in Box B. The coffee is in Box A. The name of the Box that has the card is ",
+        "prompt": "The bag is in Box D. The coat is in Box K. The ice is in Box B. The coffee is in Box A. What is the letter of the Box that the coat is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The bag is in Box D. The coat is in Box K. The ice is in Box B. The coffee is in Box A. The name of the Box that has the card is ",
+        "prompt": "The bag is in Box D. The coat is in Box K. The ice is in Box B. The coffee is in Box A. What is the letter of the Box that the ice is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The bag is in Box D. The coat is in Box K. The ice is in Box B. The coffee is in Box A. The name of the Box that has the card is ",
+        "prompt": "The bag is in Box D. The coat is in Box K. The ice is in Box B. The coffee is in Box A. What is the letter of the Box that the coffee is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The gift is in Box B. The document is in Box C. The coat is in Box E. The coffee is in Box I. The name of the Box that has the card is ",
+        "prompt": "The gift is in Box B. The document is in Box C. The coat is in Box E. The coffee is in Box I. What is the letter of the Box that the gift is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The gift is in Box B. The document is in Box C. The coat is in Box E. The coffee is in Box I. The name of the Box that has the card is ",
+        "prompt": "The gift is in Box B. The document is in Box C. The coat is in Box E. The coffee is in Box I. What is the letter of the Box that the document is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The gift is in Box B. The document is in Box C. The coat is in Box E. The coffee is in Box I. The name of the Box that has the card is ",
+        "prompt": "The gift is in Box B. The document is in Box C. The coat is in Box E. The coffee is in Box I. What is the letter of the Box that the coat is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The gift is in Box B. The document is in Box C. The coat is in Box E. The coffee is in Box I. The name of the Box that has the card is ",
+        "prompt": "The gift is in Box B. The document is in Box C. The coat is in Box E. The coffee is in Box I. What is the letter of the Box that the coffee is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The fan is in Box C. The string is in Box G. The ice is in Box E. The guitar is in Box J. The name of the Box that has the card is ",
+        "prompt": "The fan is in Box C. The string is in Box G. The ice is in Box E. The guitar is in Box J. What is the letter of the Box that the fan is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The fan is in Box C. The string is in Box G. The ice is in Box E. The guitar is in Box J. The name of the Box that has the card is ",
+        "prompt": "The fan is in Box C. The string is in Box G. The ice is in Box E. The guitar is in Box J. What is the letter of the Box that the string is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The fan is in Box C. The string is in Box G. The ice is in Box E. The guitar is in Box J. The name of the Box that has the card is ",
+        "prompt": "The fan is in Box C. The string is in Box G. The ice is in Box E. The guitar is in Box J. What is the letter of the Box that the ice is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The fan is in Box C. The string is in Box G. The ice is in Box E. The guitar is in Box J. The name of the Box that has the card is ",
+        "prompt": "The fan is in Box C. The string is in Box G. The ice is in Box E. The guitar is in Box J. What is the letter of the Box that the guitar is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The flower is in Box E. The branch is in Box J. The television is in Box K. The ball is in Box H. The name of the Box that has the card is ",
+        "prompt": "The flower is in Box E. The branch is in Box J. The television is in Box K. The ball is in Box H. What is the letter of the Box that the flower is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The flower is in Box E. The branch is in Box J. The television is in Box K. The ball is in Box H. The name of the Box that has the card is ",
+        "prompt": "The flower is in Box E. The branch is in Box J. The television is in Box K. The ball is in Box H. What is the letter of the Box that the branch is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The flower is in Box E. The branch is in Box J. The television is in Box K. The ball is in Box H. The name of the Box that has the card is ",
+        "prompt": "The flower is in Box E. The branch is in Box J. The television is in Box K. The ball is in Box H. What is the letter of the Box that the television is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The flower is in Box E. The branch is in Box J. The television is in Box K. The ball is in Box H. The name of the Box that has the card is ",
+        "prompt": "The flower is in Box E. The branch is in Box J. The television is in Box K. The ball is in Box H. What is the letter of the Box that the ball is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The pot is in Box C. The book is in Box A. The ticket is in Box E. The drink is in Box G. The name of the Box that has the card is ",
+        "prompt": "The pot is in Box C. The book is in Box A. The ticket is in Box E. The drink is in Box G. What is the letter of the Box that the pot is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The pot is in Box C. The book is in Box A. The ticket is in Box E. The drink is in Box G. The name of the Box that has the card is ",
+        "prompt": "The pot is in Box C. The book is in Box A. The ticket is in Box E. The drink is in Box G. What is the letter of the Box that the book is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The pot is in Box C. The book is in Box A. The ticket is in Box E. The drink is in Box G. The name of the Box that has the card is ",
+        "prompt": "The pot is in Box C. The book is in Box A. The ticket is in Box E. The drink is in Box G. What is the letter of the Box that the ticket is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The pot is in Box C. The book is in Box A. The ticket is in Box E. The drink is in Box G. The name of the Box that has the card is ",
+        "prompt": "The pot is in Box C. The book is in Box A. The ticket is in Box E. The drink is in Box G. What is the letter of the Box that the drink is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The note is in Box E. The bus is in Box J. The phone is in Box H. The branch is in Box K. The name of the Box that has the card is ",
+        "prompt": "The note is in Box E. The bus is in Box J. The phone is in Box H. The branch is in Box K. What is the letter of the Box that the note is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The note is in Box E. The bus is in Box J. The phone is in Box H. The branch is in Box K. The name of the Box that has the card is ",
+        "prompt": "The note is in Box E. The bus is in Box J. The phone is in Box H. The branch is in Box K. What is the letter of the Box that the bus is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The note is in Box E. The bus is in Box J. The phone is in Box H. The branch is in Box K. The name of the Box that has the card is ",
+        "prompt": "The note is in Box E. The bus is in Box J. The phone is in Box H. The branch is in Box K. What is the letter of the Box that the phone is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The note is in Box E. The bus is in Box J. The phone is in Box H. The branch is in Box K. The name of the Box that has the card is ",
+        "prompt": "The note is in Box E. The bus is in Box J. The phone is in Box H. The branch is in Box K. What is the letter of the Box that the branch is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The shell is in Box I. The seed is in Box E. The fan is in Box A. The document is in Box J. The name of the Box that has the card is ",
+        "prompt": "The shell is in Box I. The seed is in Box E. The fan is in Box A. The document is in Box J. What is the letter of the Box that the shell is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The shell is in Box I. The seed is in Box E. The fan is in Box A. The document is in Box J. The name of the Box that has the card is ",
+        "prompt": "The shell is in Box I. The seed is in Box E. The fan is in Box A. The document is in Box J. What is the letter of the Box that the seed is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The shell is in Box I. The seed is in Box E. The fan is in Box A. The document is in Box J. The name of the Box that has the card is ",
+        "prompt": "The shell is in Box I. The seed is in Box E. The fan is in Box A. The document is in Box J. What is the letter of the Box that the fan is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The shell is in Box I. The seed is in Box E. The fan is in Box A. The document is in Box J. The name of the Box that has the card is ",
+        "prompt": "The shell is in Box I. The seed is in Box E. The fan is in Box A. The document is in Box J. What is the letter of the Box that the document is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The clock is in Box D. The seed is in Box I. The pipe is in Box E. The brain is in Box C. The name of the Box that has the card is ",
+        "prompt": "The clock is in Box D. The seed is in Box I. The pipe is in Box E. The brain is in Box C. What is the letter of the Box that the clock is in? Box ",
         "output": "D"
     },
     {
-        "prompt": "The clock is in Box D. The seed is in Box I. The pipe is in Box E. The brain is in Box C. The name of the Box that has the card is ",
+        "prompt": "The clock is in Box D. The seed is in Box I. The pipe is in Box E. The brain is in Box C. What is the letter of the Box that the seed is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The clock is in Box D. The seed is in Box I. The pipe is in Box E. The brain is in Box C. The name of the Box that has the card is ",
+        "prompt": "The clock is in Box D. The seed is in Box I. The pipe is in Box E. The brain is in Box C. What is the letter of the Box that the pipe is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The clock is in Box D. The seed is in Box I. The pipe is in Box E. The brain is in Box C. The name of the Box that has the card is ",
+        "prompt": "The clock is in Box D. The seed is in Box I. The pipe is in Box E. The brain is in Box C. What is the letter of the Box that the brain is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The disk is in Box C. The guitar is in Box A. The drug is in Box F. The newspaper is in Box H. The name of the Box that has the card is ",
+        "prompt": "The disk is in Box C. The guitar is in Box A. The drug is in Box F. The newspaper is in Box H. What is the letter of the Box that the disk is in? Box ",
         "output": "C"
     },
     {
-        "prompt": "The disk is in Box C. The guitar is in Box A. The drug is in Box F. The newspaper is in Box H. The name of the Box that has the card is ",
+        "prompt": "The disk is in Box C. The guitar is in Box A. The drug is in Box F. The newspaper is in Box H. What is the letter of the Box that the guitar is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The disk is in Box C. The guitar is in Box A. The drug is in Box F. The newspaper is in Box H. The name of the Box that has the card is ",
+        "prompt": "The disk is in Box C. The guitar is in Box A. The drug is in Box F. The newspaper is in Box H. What is the letter of the Box that the drug is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The disk is in Box C. The guitar is in Box A. The drug is in Box F. The newspaper is in Box H. The name of the Box that has the card is ",
+        "prompt": "The disk is in Box C. The guitar is in Box A. The drug is in Box F. The newspaper is in Box H. What is the letter of the Box that the newspaper is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The magnet is in Box G. The machine is in Box K. The fish is in Box F. The coat is in Box E. The name of the Box that has the card is ",
+        "prompt": "The magnet is in Box G. The machine is in Box K. The fish is in Box F. The coat is in Box E. What is the letter of the Box that the magnet is in? Box ",
         "output": "G"
     },
     {
-        "prompt": "The magnet is in Box G. The machine is in Box K. The fish is in Box F. The coat is in Box E. The name of the Box that has the card is ",
+        "prompt": "The magnet is in Box G. The machine is in Box K. The fish is in Box F. The coat is in Box E. What is the letter of the Box that the machine is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The magnet is in Box G. The machine is in Box K. The fish is in Box F. The coat is in Box E. The name of the Box that has the card is ",
+        "prompt": "The magnet is in Box G. The machine is in Box K. The fish is in Box F. The coat is in Box E. What is the letter of the Box that the fish is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The magnet is in Box G. The machine is in Box K. The fish is in Box F. The coat is in Box E. The name of the Box that has the card is ",
+        "prompt": "The magnet is in Box G. The machine is in Box K. The fish is in Box F. The coat is in Box E. What is the letter of the Box that the coat is in? Box ",
         "output": "E"
     },
     {
-        "prompt": "The bomb is in Box I. The boat is in Box K. The mirror is in Box H. The pipe is in Box J. The name of the Box that has the card is ",
+        "prompt": "The bomb is in Box I. The boat is in Box K. The mirror is in Box H. The pipe is in Box J. What is the letter of the Box that the bomb is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The bomb is in Box I. The boat is in Box K. The mirror is in Box H. The pipe is in Box J. The name of the Box that has the card is ",
+        "prompt": "The bomb is in Box I. The boat is in Box K. The mirror is in Box H. The pipe is in Box J. What is the letter of the Box that the boat is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The bomb is in Box I. The boat is in Box K. The mirror is in Box H. The pipe is in Box J. The name of the Box that has the card is ",
+        "prompt": "The bomb is in Box I. The boat is in Box K. The mirror is in Box H. The pipe is in Box J. What is the letter of the Box that the mirror is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The bomb is in Box I. The boat is in Box K. The mirror is in Box H. The pipe is in Box J. The name of the Box that has the card is ",
+        "prompt": "The bomb is in Box I. The boat is in Box K. The mirror is in Box H. The pipe is in Box J. What is the letter of the Box that the pipe is in? Box ",
         "output": "J"
     },
     {
-        "prompt": "The painting is in Box B. The rock is in Box K. The bag is in Box F. The guitar is in Box I. The name of the Box that has the card is ",
+        "prompt": "The painting is in Box B. The rock is in Box K. The bag is in Box F. The guitar is in Box I. What is the letter of the Box that the painting is in? Box ",
         "output": "B"
     },
     {
-        "prompt": "The painting is in Box B. The rock is in Box K. The bag is in Box F. The guitar is in Box I. The name of the Box that has the card is ",
+        "prompt": "The painting is in Box B. The rock is in Box K. The bag is in Box F. The guitar is in Box I. What is the letter of the Box that the rock is in? Box ",
         "output": "K"
     },
     {
-        "prompt": "The painting is in Box B. The rock is in Box K. The bag is in Box F. The guitar is in Box I. The name of the Box that has the card is ",
+        "prompt": "The painting is in Box B. The rock is in Box K. The bag is in Box F. The guitar is in Box I. What is the letter of the Box that the bag is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The painting is in Box B. The rock is in Box K. The bag is in Box F. The guitar is in Box I. The name of the Box that has the card is ",
+        "prompt": "The painting is in Box B. The rock is in Box K. The bag is in Box F. The guitar is in Box I. What is the letter of the Box that the guitar is in? Box ",
         "output": "I"
     },
     {
-        "prompt": "The seed is in Box A. The cross is in Box F. The wheel is in Box H. The bill is in Box C. The name of the Box that has the card is ",
+        "prompt": "The seed is in Box A. The cross is in Box F. The wheel is in Box H. The bill is in Box C. What is the letter of the Box that the seed is in? Box ",
         "output": "A"
     },
     {
-        "prompt": "The seed is in Box A. The cross is in Box F. The wheel is in Box H. The bill is in Box C. The name of the Box that has the card is ",
+        "prompt": "The seed is in Box A. The cross is in Box F. The wheel is in Box H. The bill is in Box C. What is the letter of the Box that the cross is in? Box ",
         "output": "F"
     },
     {
-        "prompt": "The seed is in Box A. The cross is in Box F. The wheel is in Box H. The bill is in Box C. The name of the Box that has the card is ",
+        "prompt": "The seed is in Box A. The cross is in Box F. The wheel is in Box H. The bill is in Box C. What is the letter of the Box that the wheel is in? Box ",
         "output": "H"
     },
     {
-        "prompt": "The seed is in Box A. The cross is in Box F. The wheel is in Box H. The bill is in Box C. The name of the Box that has the card is ",
+        "prompt": "The seed is in Box A. The cross is in Box F. The wheel is in Box H. The bill is in Box C. What is the letter of the Box that the bill is in? Box ",
         "output": "C"
     }
 ]

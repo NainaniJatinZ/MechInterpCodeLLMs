@@ -6,8 +6,14 @@ def transform_prompt(original_prompt):
     # Extract key-value pairs from the original prompt
     pairs = re.findall(r"(\w) = '([^']+)'", original_prompt)
     
+    # Extract the target item from the original prompt
+    target_item = re.search(r"value '([^']+)'", original_prompt).group(1)
+    
+    # Create a dictionary from the pairs for easier lookup
+    pairs_dict = {key: value for key, value in pairs}
+    
     # Create the new format for the prompt
-    new_prompt = " ".join([f"The {value} is in Box {key}." for key, value in pairs]) + " The name of the Box that has the card is "
+    new_prompt = " ".join([f"The {value} is in Box {key}." for key, value in pairs]) + f" What is the letter of the Box that the {target_item} is in? Box "
     
     return new_prompt
 
