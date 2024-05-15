@@ -1,0 +1,3042 @@
+[
+    {
+        "prompt": " J = 'disk'  K = 'television'  H = 'plant'  C = 'guitar'  The name of the key that has the value 'disk' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'disk'  K = 'television'  H = 'plant'  C = 'guitar'  The name of the key that has the value 'television' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " J = 'disk'  K = 'television'  H = 'plant'  C = 'guitar'  The name of the key that has the value 'plant' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'disk'  K = 'television'  H = 'plant'  C = 'guitar'  The name of the key that has the value 'guitar' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " H = 'map'  C = 'watch'  D = 'bill'  K = 'shell'  The name of the key that has the value 'map' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'map'  C = 'watch'  D = 'bill'  K = 'shell'  The name of the key that has the value 'watch' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " H = 'map'  C = 'watch'  D = 'bill'  K = 'shell'  The name of the key that has the value 'bill' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " H = 'map'  C = 'watch'  D = 'bill'  K = 'shell'  The name of the key that has the value 'shell' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " B = 'drink'  C = 'suit'  J = 'brick'  I = 'cross'  The name of the key that has the value 'drink' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'drink'  C = 'suit'  J = 'brick'  I = 'cross'  The name of the key that has the value 'suit' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " B = 'drink'  C = 'suit'  J = 'brick'  I = 'cross'  The name of the key that has the value 'brick' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " B = 'drink'  C = 'suit'  J = 'brick'  I = 'cross'  The name of the key that has the value 'cross' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'bag'  F = 'game'  A = 'flower'  H = 'tie'  The name of the key that has the value 'bag' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'bag'  F = 'game'  A = 'flower'  H = 'tie'  The name of the key that has the value 'game' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " I = 'bag'  F = 'game'  A = 'flower'  H = 'tie'  The name of the key that has the value 'flower' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " I = 'bag'  F = 'game'  A = 'flower'  H = 'tie'  The name of the key that has the value 'tie' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " D = 'meat'  A = 'apple'  I = 'coat'  E = 'phone'  The name of the key that has the value 'meat' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'meat'  A = 'apple'  I = 'coat'  E = 'phone'  The name of the key that has the value 'apple' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'meat'  A = 'apple'  I = 'coat'  E = 'phone'  The name of the key that has the value 'coat' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " D = 'meat'  A = 'apple'  I = 'coat'  E = 'phone'  The name of the key that has the value 'phone' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " G = 'bus'  H = 'magazine'  C = 'mirror'  J = 'ring'  The name of the key that has the value 'bus' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'bus'  H = 'magazine'  C = 'mirror'  J = 'ring'  The name of the key that has the value 'magazine' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " G = 'bus'  H = 'magazine'  C = 'mirror'  J = 'ring'  The name of the key that has the value 'mirror' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " G = 'bus'  H = 'magazine'  C = 'mirror'  J = 'ring'  The name of the key that has the value 'ring' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " K = 'book'  I = 'pot'  G = 'leaf'  F = 'guitar'  The name of the key that has the value 'book' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'book'  I = 'pot'  G = 'leaf'  F = 'guitar'  The name of the key that has the value 'pot' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " K = 'book'  I = 'pot'  G = 'leaf'  F = 'guitar'  The name of the key that has the value 'leaf' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " K = 'book'  I = 'pot'  G = 'leaf'  F = 'guitar'  The name of the key that has the value 'guitar' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " K = 'magnet'  J = 'note'  D = 'medicine'  I = 'plane'  The name of the key that has the value 'magnet' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'magnet'  J = 'note'  D = 'medicine'  I = 'plane'  The name of the key that has the value 'note' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " K = 'magnet'  J = 'note'  D = 'medicine'  I = 'plane'  The name of the key that has the value 'medicine' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " K = 'magnet'  J = 'note'  D = 'medicine'  I = 'plane'  The name of the key that has the value 'plane' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " H = 'fan'  K = 'bell'  E = 'key'  I = 'tie'  The name of the key that has the value 'fan' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'fan'  K = 'bell'  E = 'key'  I = 'tie'  The name of the key that has the value 'bell' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " H = 'fan'  K = 'bell'  E = 'key'  I = 'tie'  The name of the key that has the value 'key' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " H = 'fan'  K = 'bell'  E = 'key'  I = 'tie'  The name of the key that has the value 'tie' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'apple'  K = 'fish'  H = 'ticket'  B = 'leaf'  The name of the key that has the value 'apple' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'apple'  K = 'fish'  H = 'ticket'  B = 'leaf'  The name of the key that has the value 'fish' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " J = 'apple'  K = 'fish'  H = 'ticket'  B = 'leaf'  The name of the key that has the value 'ticket' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'apple'  K = 'fish'  H = 'ticket'  B = 'leaf'  The name of the key that has the value 'leaf' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " C = 'ring'  G = 'car'  D = 'stone'  B = 'bill'  The name of the key that has the value 'ring' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'ring'  G = 'car'  D = 'stone'  B = 'bill'  The name of the key that has the value 'car' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " C = 'ring'  G = 'car'  D = 'stone'  B = 'bill'  The name of the key that has the value 'stone' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " C = 'ring'  G = 'car'  D = 'stone'  B = 'bill'  The name of the key that has the value 'bill' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " E = 'map'  H = 'guitar'  J = 'bill'  K = 'magnet'  The name of the key that has the value 'map' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'map'  H = 'guitar'  J = 'bill'  K = 'magnet'  The name of the key that has the value 'guitar' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " E = 'map'  H = 'guitar'  J = 'bill'  K = 'magnet'  The name of the key that has the value 'bill' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " E = 'map'  H = 'guitar'  J = 'bill'  K = 'magnet'  The name of the key that has the value 'magnet' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'file'  E = 'book'  G = 'fish'  J = 'mirror'  The name of the key that has the value 'file' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'file'  E = 'book'  G = 'fish'  J = 'mirror'  The name of the key that has the value 'book' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " K = 'file'  E = 'book'  G = 'fish'  J = 'mirror'  The name of the key that has the value 'fish' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " K = 'file'  E = 'book'  G = 'fish'  J = 'mirror'  The name of the key that has the value 'mirror' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " F = 'bread'  D = 'guitar'  I = 'ticket'  E = 'block'  The name of the key that has the value 'bread' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'bread'  D = 'guitar'  I = 'ticket'  E = 'block'  The name of the key that has the value 'guitar' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " F = 'bread'  D = 'guitar'  I = 'ticket'  E = 'block'  The name of the key that has the value 'ticket' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " F = 'bread'  D = 'guitar'  I = 'ticket'  E = 'block'  The name of the key that has the value 'block' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " D = 'rose'  J = 'document'  A = 'ring'  E = 'cup'  The name of the key that has the value 'rose' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'rose'  J = 'document'  A = 'ring'  E = 'cup'  The name of the key that has the value 'document' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'rose'  J = 'document'  A = 'ring'  E = 'cup'  The name of the key that has the value 'ring' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'rose'  J = 'document'  A = 'ring'  E = 'cup'  The name of the key that has the value 'cup' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " K = 'radio'  D = 'plate'  J = 'coffee'  H = 'bell'  The name of the key that has the value 'radio' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'radio'  D = 'plate'  J = 'coffee'  H = 'bell'  The name of the key that has the value 'plate' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " K = 'radio'  D = 'plate'  J = 'coffee'  H = 'bell'  The name of the key that has the value 'coffee' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " K = 'radio'  D = 'plate'  J = 'coffee'  H = 'bell'  The name of the key that has the value 'bell' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " F = 'guitar'  J = 'coat'  E = 'book'  I = 'stone'  The name of the key that has the value 'guitar' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'guitar'  J = 'coat'  E = 'book'  I = 'stone'  The name of the key that has the value 'coat' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " F = 'guitar'  J = 'coat'  E = 'book'  I = 'stone'  The name of the key that has the value 'book' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " F = 'guitar'  J = 'coat'  E = 'book'  I = 'stone'  The name of the key that has the value 'stone' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " K = 'wire'  B = 'chemical'  C = 'sheet'  I = 'drink'  The name of the key that has the value 'wire' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'wire'  B = 'chemical'  C = 'sheet'  I = 'drink'  The name of the key that has the value 'chemical' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " K = 'wire'  B = 'chemical'  C = 'sheet'  I = 'drink'  The name of the key that has the value 'sheet' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " K = 'wire'  B = 'chemical'  C = 'sheet'  I = 'drink'  The name of the key that has the value 'drink' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " G = 'sheet'  K = 'ticket'  C = 'television'  E = 'game'  The name of the key that has the value 'sheet' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'sheet'  K = 'ticket'  C = 'television'  E = 'game'  The name of the key that has the value 'ticket' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " G = 'sheet'  K = 'ticket'  C = 'television'  E = 'game'  The name of the key that has the value 'television' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " G = 'sheet'  K = 'ticket'  C = 'television'  E = 'game'  The name of the key that has the value 'game' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " H = 'medicine'  A = 'watch'  B = 'plate'  I = 'hat'  The name of the key that has the value 'medicine' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'medicine'  A = 'watch'  B = 'plate'  I = 'hat'  The name of the key that has the value 'watch' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " H = 'medicine'  A = 'watch'  B = 'plate'  I = 'hat'  The name of the key that has the value 'plate' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " H = 'medicine'  A = 'watch'  B = 'plate'  I = 'hat'  The name of the key that has the value 'hat' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'map'  J = 'picture'  K = 'magazine'  E = 'medicine'  The name of the key that has the value 'map' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'map'  J = 'picture'  K = 'magazine'  E = 'medicine'  The name of the key that has the value 'picture' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " I = 'map'  J = 'picture'  K = 'magazine'  E = 'medicine'  The name of the key that has the value 'magazine' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " I = 'map'  J = 'picture'  K = 'magazine'  E = 'medicine'  The name of the key that has the value 'medicine' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " H = 'clock'  G = 'disk'  J = 'hat'  E = 'key'  The name of the key that has the value 'clock' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'clock'  G = 'disk'  J = 'hat'  E = 'key'  The name of the key that has the value 'disk' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " H = 'clock'  G = 'disk'  J = 'hat'  E = 'key'  The name of the key that has the value 'hat' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " H = 'clock'  G = 'disk'  J = 'hat'  E = 'key'  The name of the key that has the value 'key' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " I = 'cross'  J = 'clock'  G = 'branch'  B = 'gift'  The name of the key that has the value 'cross' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'cross'  J = 'clock'  G = 'branch'  B = 'gift'  The name of the key that has the value 'clock' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " I = 'cross'  J = 'clock'  G = 'branch'  B = 'gift'  The name of the key that has the value 'branch' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " I = 'cross'  J = 'clock'  G = 'branch'  B = 'gift'  The name of the key that has the value 'gift' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " K = 'sheet'  B = 'bell'  F = 'game'  D = 'boot'  The name of the key that has the value 'sheet' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'sheet'  B = 'bell'  F = 'game'  D = 'boot'  The name of the key that has the value 'bell' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " K = 'sheet'  B = 'bell'  F = 'game'  D = 'boot'  The name of the key that has the value 'game' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " K = 'sheet'  B = 'bell'  F = 'game'  D = 'boot'  The name of the key that has the value 'boot' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " H = 'newspaper'  D = 'paper'  J = 'fig'  I = 'egg'  The name of the key that has the value 'newspaper' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'newspaper'  D = 'paper'  J = 'fig'  I = 'egg'  The name of the key that has the value 'paper' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " H = 'newspaper'  D = 'paper'  J = 'fig'  I = 'egg'  The name of the key that has the value 'fig' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " H = 'newspaper'  D = 'paper'  J = 'fig'  I = 'egg'  The name of the key that has the value 'egg' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " E = 'brick'  B = 'cup'  J = 'shell'  D = 'magazine'  The name of the key that has the value 'brick' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'brick'  B = 'cup'  J = 'shell'  D = 'magazine'  The name of the key that has the value 'cup' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " E = 'brick'  B = 'cup'  J = 'shell'  D = 'magazine'  The name of the key that has the value 'shell' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " E = 'brick'  B = 'cup'  J = 'shell'  D = 'magazine'  The name of the key that has the value 'magazine' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " B = 'watch'  H = 'bag'  G = 'machine'  C = 'glass'  The name of the key that has the value 'watch' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'watch'  H = 'bag'  G = 'machine'  C = 'glass'  The name of the key that has the value 'bag' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " B = 'watch'  H = 'bag'  G = 'machine'  C = 'glass'  The name of the key that has the value 'machine' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " B = 'watch'  H = 'bag'  G = 'machine'  C = 'glass'  The name of the key that has the value 'glass' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " H = 'mirror'  G = 'picture'  J = 'car'  K = 'medicine'  The name of the key that has the value 'mirror' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'mirror'  G = 'picture'  J = 'car'  K = 'medicine'  The name of the key that has the value 'picture' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " H = 'mirror'  G = 'picture'  J = 'car'  K = 'medicine'  The name of the key that has the value 'car' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " H = 'mirror'  G = 'picture'  J = 'car'  K = 'medicine'  The name of the key that has the value 'medicine' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " C = 'bag'  B = 'disk'  F = 'key'  E = 'brain'  The name of the key that has the value 'bag' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'bag'  B = 'disk'  F = 'key'  E = 'brain'  The name of the key that has the value 'disk' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " C = 'bag'  B = 'disk'  F = 'key'  E = 'brain'  The name of the key that has the value 'key' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " C = 'bag'  B = 'disk'  F = 'key'  E = 'brain'  The name of the key that has the value 'brain' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " C = 'car'  B = 'rose'  A = 'cup'  E = 'sheet'  The name of the key that has the value 'car' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'car'  B = 'rose'  A = 'cup'  E = 'sheet'  The name of the key that has the value 'rose' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " C = 'car'  B = 'rose'  A = 'cup'  E = 'sheet'  The name of the key that has the value 'cup' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " C = 'car'  B = 'rose'  A = 'cup'  E = 'sheet'  The name of the key that has the value 'sheet' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " I = 'boot'  H = 'ring'  C = 'phone'  A = 'leaf'  The name of the key that has the value 'boot' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'boot'  H = 'ring'  C = 'phone'  A = 'leaf'  The name of the key that has the value 'ring' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " I = 'boot'  H = 'ring'  C = 'phone'  A = 'leaf'  The name of the key that has the value 'phone' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " I = 'boot'  H = 'ring'  C = 'phone'  A = 'leaf'  The name of the key that has the value 'leaf' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " F = 'coffee'  G = 'phone'  B = 'clock'  D = 'crown'  The name of the key that has the value 'coffee' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'coffee'  G = 'phone'  B = 'clock'  D = 'crown'  The name of the key that has the value 'phone' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " F = 'coffee'  G = 'phone'  B = 'clock'  D = 'crown'  The name of the key that has the value 'clock' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " F = 'coffee'  G = 'phone'  B = 'clock'  D = 'crown'  The name of the key that has the value 'crown' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " K = 'hat'  B = 'coat'  D = 'document'  E = 'coffee'  The name of the key that has the value 'hat' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'hat'  B = 'coat'  D = 'document'  E = 'coffee'  The name of the key that has the value 'coat' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " K = 'hat'  B = 'coat'  D = 'document'  E = 'coffee'  The name of the key that has the value 'document' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " K = 'hat'  B = 'coat'  D = 'document'  E = 'coffee'  The name of the key that has the value 'coffee' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " D = 'coffee'  I = 'painting'  H = 'ice'  E = 'bill'  The name of the key that has the value 'coffee' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'coffee'  I = 'painting'  H = 'ice'  E = 'bill'  The name of the key that has the value 'painting' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " D = 'coffee'  I = 'painting'  H = 'ice'  E = 'bill'  The name of the key that has the value 'ice' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " D = 'coffee'  I = 'painting'  H = 'ice'  E = 'bill'  The name of the key that has the value 'bill' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " I = 'car'  G = 'gift'  D = 'coffee'  C = 'branch'  The name of the key that has the value 'car' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'car'  G = 'gift'  D = 'coffee'  C = 'branch'  The name of the key that has the value 'gift' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " I = 'car'  G = 'gift'  D = 'coffee'  C = 'branch'  The name of the key that has the value 'coffee' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " I = 'car'  G = 'gift'  D = 'coffee'  C = 'branch'  The name of the key that has the value 'branch' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " B = 'tie'  A = 'fish'  J = 'map'  E = 'chemical'  The name of the key that has the value 'tie' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'tie'  A = 'fish'  J = 'map'  E = 'chemical'  The name of the key that has the value 'fish' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " B = 'tie'  A = 'fish'  J = 'map'  E = 'chemical'  The name of the key that has the value 'map' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " B = 'tie'  A = 'fish'  J = 'map'  E = 'chemical'  The name of the key that has the value 'chemical' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " B = 'newspaper'  F = 'coat'  H = 'shell'  K = 'plate'  The name of the key that has the value 'newspaper' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'newspaper'  F = 'coat'  H = 'shell'  K = 'plate'  The name of the key that has the value 'coat' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " B = 'newspaper'  F = 'coat'  H = 'shell'  K = 'plate'  The name of the key that has the value 'shell' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " B = 'newspaper'  F = 'coat'  H = 'shell'  K = 'plate'  The name of the key that has the value 'plate' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " F = 'bread'  I = 'phone'  K = 'bomb'  D = 'boot'  The name of the key that has the value 'bread' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'bread'  I = 'phone'  K = 'bomb'  D = 'boot'  The name of the key that has the value 'phone' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " F = 'bread'  I = 'phone'  K = 'bomb'  D = 'boot'  The name of the key that has the value 'bomb' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " F = 'bread'  I = 'phone'  K = 'bomb'  D = 'boot'  The name of the key that has the value 'boot' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " G = 'magazine'  C = 'plane'  K = 'drug'  A = 'stone'  The name of the key that has the value 'magazine' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'magazine'  C = 'plane'  K = 'drug'  A = 'stone'  The name of the key that has the value 'plane' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " G = 'magazine'  C = 'plane'  K = 'drug'  A = 'stone'  The name of the key that has the value 'drug' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " G = 'magazine'  C = 'plane'  K = 'drug'  A = 'stone'  The name of the key that has the value 'stone' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " G = 'wheel'  D = 'boat'  A = 'pot'  B = 'game'  The name of the key that has the value 'wheel' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'wheel'  D = 'boat'  A = 'pot'  B = 'game'  The name of the key that has the value 'boat' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " G = 'wheel'  D = 'boat'  A = 'pot'  B = 'game'  The name of the key that has the value 'pot' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " G = 'wheel'  D = 'boat'  A = 'pot'  B = 'game'  The name of the key that has the value 'game' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " C = 'ball'  E = 'wheel'  A = 'dress'  H = 'engine'  The name of the key that has the value 'ball' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'ball'  E = 'wheel'  A = 'dress'  H = 'engine'  The name of the key that has the value 'wheel' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " C = 'ball'  E = 'wheel'  A = 'dress'  H = 'engine'  The name of the key that has the value 'dress' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " C = 'ball'  E = 'wheel'  A = 'dress'  H = 'engine'  The name of the key that has the value 'engine' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " B = 'key'  J = 'ticket'  A = 'rock'  F = 'tie'  The name of the key that has the value 'key' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'key'  J = 'ticket'  A = 'rock'  F = 'tie'  The name of the key that has the value 'ticket' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " B = 'key'  J = 'ticket'  A = 'rock'  F = 'tie'  The name of the key that has the value 'rock' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " B = 'key'  J = 'ticket'  A = 'rock'  F = 'tie'  The name of the key that has the value 'tie' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " A = 'game'  G = 'magazine'  H = 'flower'  J = 'map'  The name of the key that has the value 'game' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'game'  G = 'magazine'  H = 'flower'  J = 'map'  The name of the key that has the value 'magazine' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " A = 'game'  G = 'magazine'  H = 'flower'  J = 'map'  The name of the key that has the value 'flower' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " A = 'game'  G = 'magazine'  H = 'flower'  J = 'map'  The name of the key that has the value 'map' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " I = 'map'  A = 'ticket'  E = 'phone'  H = 'drug'  The name of the key that has the value 'map' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'map'  A = 'ticket'  E = 'phone'  H = 'drug'  The name of the key that has the value 'ticket' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " I = 'map'  A = 'ticket'  E = 'phone'  H = 'drug'  The name of the key that has the value 'phone' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " I = 'map'  A = 'ticket'  E = 'phone'  H = 'drug'  The name of the key that has the value 'drug' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " A = 'bomb'  E = 'ring'  F = 'television'  D = 'bread'  The name of the key that has the value 'bomb' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'bomb'  E = 'ring'  F = 'television'  D = 'bread'  The name of the key that has the value 'ring' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " A = 'bomb'  E = 'ring'  F = 'television'  D = 'bread'  The name of the key that has the value 'television' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " A = 'bomb'  E = 'ring'  F = 'television'  D = 'bread'  The name of the key that has the value 'bread' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " G = 'wire'  D = 'brain'  A = 'block'  H = 'boot'  The name of the key that has the value 'wire' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'wire'  D = 'brain'  A = 'block'  H = 'boot'  The name of the key that has the value 'brain' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " G = 'wire'  D = 'brain'  A = 'block'  H = 'boot'  The name of the key that has the value 'block' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " G = 'wire'  D = 'brain'  A = 'block'  H = 'boot'  The name of the key that has the value 'boot' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'bell'  K = 'train'  C = 'map'  A = 'car'  The name of the key that has the value 'bell' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'bell'  K = 'train'  C = 'map'  A = 'car'  The name of the key that has the value 'train' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " H = 'bell'  K = 'train'  C = 'map'  A = 'car'  The name of the key that has the value 'map' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " H = 'bell'  K = 'train'  C = 'map'  A = 'car'  The name of the key that has the value 'car' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'guitar'  G = 'ball'  F = 'paper'  B = 'bell'  The name of the key that has the value 'guitar' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'guitar'  G = 'ball'  F = 'paper'  B = 'bell'  The name of the key that has the value 'ball' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " A = 'guitar'  G = 'ball'  F = 'paper'  B = 'bell'  The name of the key that has the value 'paper' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " A = 'guitar'  G = 'ball'  F = 'paper'  B = 'bell'  The name of the key that has the value 'bell' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " F = 'ball'  B = 'newspaper'  A = 'car'  C = 'mirror'  The name of the key that has the value 'ball' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'ball'  B = 'newspaper'  A = 'car'  C = 'mirror'  The name of the key that has the value 'newspaper' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " F = 'ball'  B = 'newspaper'  A = 'car'  C = 'mirror'  The name of the key that has the value 'car' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " F = 'ball'  B = 'newspaper'  A = 'car'  C = 'mirror'  The name of the key that has the value 'mirror' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " J = 'hat'  H = 'pipe'  A = 'file'  I = 'bus'  The name of the key that has the value 'hat' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'hat'  H = 'pipe'  A = 'file'  I = 'bus'  The name of the key that has the value 'pipe' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'hat'  H = 'pipe'  A = 'file'  I = 'bus'  The name of the key that has the value 'file' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " J = 'hat'  H = 'pipe'  A = 'file'  I = 'bus'  The name of the key that has the value 'bus' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " D = 'tie'  F = 'picture'  G = 'leaf'  B = 'game'  The name of the key that has the value 'tie' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'tie'  F = 'picture'  G = 'leaf'  B = 'game'  The name of the key that has the value 'picture' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " D = 'tie'  F = 'picture'  G = 'leaf'  B = 'game'  The name of the key that has the value 'leaf' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " D = 'tie'  F = 'picture'  G = 'leaf'  B = 'game'  The name of the key that has the value 'game' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " G = 'map'  F = 'rock'  E = 'bus'  J = 'newspaper'  The name of the key that has the value 'map' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'map'  F = 'rock'  E = 'bus'  J = 'newspaper'  The name of the key that has the value 'rock' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " G = 'map'  F = 'rock'  E = 'bus'  J = 'newspaper'  The name of the key that has the value 'bus' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " G = 'map'  F = 'rock'  E = 'bus'  J = 'newspaper'  The name of the key that has the value 'newspaper' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " A = 'card'  E = 'chemical'  F = 'wire'  B = 'wheel'  The name of the key that has the value 'card' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'card'  E = 'chemical'  F = 'wire'  B = 'wheel'  The name of the key that has the value 'chemical' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " A = 'card'  E = 'chemical'  F = 'wire'  B = 'wheel'  The name of the key that has the value 'wire' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " A = 'card'  E = 'chemical'  F = 'wire'  B = 'wheel'  The name of the key that has the value 'wheel' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " C = 'clock'  F = 'boat'  I = 'rose'  J = 'glass'  The name of the key that has the value 'clock' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'clock'  F = 'boat'  I = 'rose'  J = 'glass'  The name of the key that has the value 'boat' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " C = 'clock'  F = 'boat'  I = 'rose'  J = 'glass'  The name of the key that has the value 'rose' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " C = 'clock'  F = 'boat'  I = 'rose'  J = 'glass'  The name of the key that has the value 'glass' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " A = 'rose'  K = 'paper'  F = 'ball'  D = 'dress'  The name of the key that has the value 'rose' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'rose'  K = 'paper'  F = 'ball'  D = 'dress'  The name of the key that has the value 'paper' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " A = 'rose'  K = 'paper'  F = 'ball'  D = 'dress'  The name of the key that has the value 'ball' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " A = 'rose'  K = 'paper'  F = 'ball'  D = 'dress'  The name of the key that has the value 'dress' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " B = 'medicine'  H = 'map'  J = 'letter'  A = 'paper'  The name of the key that has the value 'medicine' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'medicine'  H = 'map'  J = 'letter'  A = 'paper'  The name of the key that has the value 'map' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " B = 'medicine'  H = 'map'  J = 'letter'  A = 'paper'  The name of the key that has the value 'letter' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " B = 'medicine'  H = 'map'  J = 'letter'  A = 'paper'  The name of the key that has the value 'paper' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " I = 'bomb'  D = 'leaf'  E = 'egg'  C = 'map'  The name of the key that has the value 'bomb' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'bomb'  D = 'leaf'  E = 'egg'  C = 'map'  The name of the key that has the value 'leaf' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " I = 'bomb'  D = 'leaf'  E = 'egg'  C = 'map'  The name of the key that has the value 'egg' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " I = 'bomb'  D = 'leaf'  E = 'egg'  C = 'map'  The name of the key that has the value 'map' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'bill'  J = 'plant'  D = 'boat'  K = 'magnet'  The name of the key that has the value 'bill' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'bill'  J = 'plant'  D = 'boat'  K = 'magnet'  The name of the key that has the value 'plant' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " C = 'bill'  J = 'plant'  D = 'boat'  K = 'magnet'  The name of the key that has the value 'boat' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " C = 'bill'  J = 'plant'  D = 'boat'  K = 'magnet'  The name of the key that has the value 'magnet' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " E = 'car'  A = 'shell'  G = 'game'  F = 'magazine'  The name of the key that has the value 'car' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'car'  A = 'shell'  G = 'game'  F = 'magazine'  The name of the key that has the value 'shell' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " E = 'car'  A = 'shell'  G = 'game'  F = 'magazine'  The name of the key that has the value 'game' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " E = 'car'  A = 'shell'  G = 'game'  F = 'magazine'  The name of the key that has the value 'magazine' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " D = 'file'  F = 'guitar'  G = 'watch'  B = 'glass'  The name of the key that has the value 'file' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'file'  F = 'guitar'  G = 'watch'  B = 'glass'  The name of the key that has the value 'guitar' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " D = 'file'  F = 'guitar'  G = 'watch'  B = 'glass'  The name of the key that has the value 'watch' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " D = 'file'  F = 'guitar'  G = 'watch'  B = 'glass'  The name of the key that has the value 'glass' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " C = 'magazine'  F = 'chemical'  D = 'creature'  I = 'boot'  The name of the key that has the value 'magazine' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'magazine'  F = 'chemical'  D = 'creature'  I = 'boot'  The name of the key that has the value 'chemical' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " C = 'magazine'  F = 'chemical'  D = 'creature'  I = 'boot'  The name of the key that has the value 'creature' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " C = 'magazine'  F = 'chemical'  D = 'creature'  I = 'boot'  The name of the key that has the value 'boot' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " B = 'radio'  I = 'ticket'  K = 'coffee'  D = 'key'  The name of the key that has the value 'radio' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'radio'  I = 'ticket'  K = 'coffee'  D = 'key'  The name of the key that has the value 'ticket' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " B = 'radio'  I = 'ticket'  K = 'coffee'  D = 'key'  The name of the key that has the value 'coffee' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " B = 'radio'  I = 'ticket'  K = 'coffee'  D = 'key'  The name of the key that has the value 'key' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " A = 'radio'  C = 'plant'  B = 'medicine'  I = 'meat'  The name of the key that has the value 'radio' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'radio'  C = 'plant'  B = 'medicine'  I = 'meat'  The name of the key that has the value 'plant' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " A = 'radio'  C = 'plant'  B = 'medicine'  I = 'meat'  The name of the key that has the value 'medicine' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " A = 'radio'  C = 'plant'  B = 'medicine'  I = 'meat'  The name of the key that has the value 'meat' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'clock'  C = 'branch'  E = 'meat'  F = 'medicine'  The name of the key that has the value 'clock' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'clock'  C = 'branch'  E = 'meat'  F = 'medicine'  The name of the key that has the value 'branch' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " J = 'clock'  C = 'branch'  E = 'meat'  F = 'medicine'  The name of the key that has the value 'meat' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " J = 'clock'  C = 'branch'  E = 'meat'  F = 'medicine'  The name of the key that has the value 'medicine' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " K = 'car'  E = 'string'  B = 'creature'  F = 'suit'  The name of the key that has the value 'car' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'car'  E = 'string'  B = 'creature'  F = 'suit'  The name of the key that has the value 'string' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " K = 'car'  E = 'string'  B = 'creature'  F = 'suit'  The name of the key that has the value 'creature' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " K = 'car'  E = 'string'  B = 'creature'  F = 'suit'  The name of the key that has the value 'suit' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " B = 'leaf'  F = 'tea'  A = 'crown'  K = 'magnet'  The name of the key that has the value 'leaf' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'leaf'  F = 'tea'  A = 'crown'  K = 'magnet'  The name of the key that has the value 'tea' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " B = 'leaf'  F = 'tea'  A = 'crown'  K = 'magnet'  The name of the key that has the value 'crown' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " B = 'leaf'  F = 'tea'  A = 'crown'  K = 'magnet'  The name of the key that has the value 'magnet' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " A = 'coat'  C = 'pipe'  F = 'document'  E = 'boot'  The name of the key that has the value 'coat' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'coat'  C = 'pipe'  F = 'document'  E = 'boot'  The name of the key that has the value 'pipe' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " A = 'coat'  C = 'pipe'  F = 'document'  E = 'boot'  The name of the key that has the value 'document' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " A = 'coat'  C = 'pipe'  F = 'document'  E = 'boot'  The name of the key that has the value 'boot' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " B = 'glass'  J = 'document'  H = 'creature'  C = 'bag'  The name of the key that has the value 'glass' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'glass'  J = 'document'  H = 'creature'  C = 'bag'  The name of the key that has the value 'document' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " B = 'glass'  J = 'document'  H = 'creature'  C = 'bag'  The name of the key that has the value 'creature' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " B = 'glass'  J = 'document'  H = 'creature'  C = 'bag'  The name of the key that has the value 'bag' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " I = 'drink'  H = 'medicine'  D = 'rock'  K = 'ball'  The name of the key that has the value 'drink' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'drink'  H = 'medicine'  D = 'rock'  K = 'ball'  The name of the key that has the value 'medicine' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " I = 'drink'  H = 'medicine'  D = 'rock'  K = 'ball'  The name of the key that has the value 'rock' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " I = 'drink'  H = 'medicine'  D = 'rock'  K = 'ball'  The name of the key that has the value 'ball' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " J = 'mirror'  E = 'fig'  A = 'ticket'  G = 'ring'  The name of the key that has the value 'mirror' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'mirror'  E = 'fig'  A = 'ticket'  G = 'ring'  The name of the key that has the value 'fig' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " J = 'mirror'  E = 'fig'  A = 'ticket'  G = 'ring'  The name of the key that has the value 'ticket' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " J = 'mirror'  E = 'fig'  A = 'ticket'  G = 'ring'  The name of the key that has the value 'ring' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'boot'  B = 'glass'  F = 'creature'  A = 'bus'  The name of the key that has the value 'boot' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'boot'  B = 'glass'  F = 'creature'  A = 'bus'  The name of the key that has the value 'glass' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " G = 'boot'  B = 'glass'  F = 'creature'  A = 'bus'  The name of the key that has the value 'creature' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " G = 'boot'  B = 'glass'  F = 'creature'  A = 'bus'  The name of the key that has the value 'bus' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'leaf'  H = 'coat'  C = 'wire'  B = 'seed'  The name of the key that has the value 'leaf' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'leaf'  H = 'coat'  C = 'wire'  B = 'seed'  The name of the key that has the value 'coat' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " A = 'leaf'  H = 'coat'  C = 'wire'  B = 'seed'  The name of the key that has the value 'wire' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " A = 'leaf'  H = 'coat'  C = 'wire'  B = 'seed'  The name of the key that has the value 'seed' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " A = 'brick'  H = 'drug'  I = 'letter'  G = 'drink'  The name of the key that has the value 'brick' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'brick'  H = 'drug'  I = 'letter'  G = 'drink'  The name of the key that has the value 'drug' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " A = 'brick'  H = 'drug'  I = 'letter'  G = 'drink'  The name of the key that has the value 'letter' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " A = 'brick'  H = 'drug'  I = 'letter'  G = 'drink'  The name of the key that has the value 'drink' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " D = 'apple'  C = 'seed'  G = 'ball'  J = 'rock'  The name of the key that has the value 'apple' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'apple'  C = 'seed'  G = 'ball'  J = 'rock'  The name of the key that has the value 'seed' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " D = 'apple'  C = 'seed'  G = 'ball'  J = 'rock'  The name of the key that has the value 'ball' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " D = 'apple'  C = 'seed'  G = 'ball'  J = 'rock'  The name of the key that has the value 'rock' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'seed'  A = 'brick'  C = 'wire'  H = 'coat'  The name of the key that has the value 'seed' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'seed'  A = 'brick'  C = 'wire'  H = 'coat'  The name of the key that has the value 'brick' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'seed'  A = 'brick'  C = 'wire'  H = 'coat'  The name of the key that has the value 'wire' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " D = 'seed'  A = 'brick'  C = 'wire'  H = 'coat'  The name of the key that has the value 'coat' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " B = 'stone'  I = 'car'  F = 'tie'  A = 'seed'  The name of the key that has the value 'stone' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'stone'  I = 'car'  F = 'tie'  A = 'seed'  The name of the key that has the value 'car' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " B = 'stone'  I = 'car'  F = 'tie'  A = 'seed'  The name of the key that has the value 'tie' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " B = 'stone'  I = 'car'  F = 'tie'  A = 'seed'  The name of the key that has the value 'seed' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " I = 'map'  E = 'boot'  K = 'apple'  G = 'coat'  The name of the key that has the value 'map' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'map'  E = 'boot'  K = 'apple'  G = 'coat'  The name of the key that has the value 'boot' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " I = 'map'  E = 'boot'  K = 'apple'  G = 'coat'  The name of the key that has the value 'apple' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " I = 'map'  E = 'boot'  K = 'apple'  G = 'coat'  The name of the key that has the value 'coat' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " C = 'brick'  B = 'ball'  I = 'magazine'  J = 'shell'  The name of the key that has the value 'brick' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'brick'  B = 'ball'  I = 'magazine'  J = 'shell'  The name of the key that has the value 'ball' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " C = 'brick'  B = 'ball'  I = 'magazine'  J = 'shell'  The name of the key that has the value 'magazine' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " C = 'brick'  B = 'ball'  I = 'magazine'  J = 'shell'  The name of the key that has the value 'shell' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " I = 'guitar'  A = 'wheel'  H = 'clock'  B = 'radio'  The name of the key that has the value 'guitar' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'guitar'  A = 'wheel'  H = 'clock'  B = 'radio'  The name of the key that has the value 'wheel' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " I = 'guitar'  A = 'wheel'  H = 'clock'  B = 'radio'  The name of the key that has the value 'clock' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " I = 'guitar'  A = 'wheel'  H = 'clock'  B = 'radio'  The name of the key that has the value 'radio' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " J = 'meat'  B = 'card'  E = 'pipe'  H = 'disk'  The name of the key that has the value 'meat' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'meat'  B = 'card'  E = 'pipe'  H = 'disk'  The name of the key that has the value 'card' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " J = 'meat'  B = 'card'  E = 'pipe'  H = 'disk'  The name of the key that has the value 'pipe' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " J = 'meat'  B = 'card'  E = 'pipe'  H = 'disk'  The name of the key that has the value 'disk' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " A = 'fig'  D = 'crown'  G = 'tea'  K = 'engine'  The name of the key that has the value 'fig' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'fig'  D = 'crown'  G = 'tea'  K = 'engine'  The name of the key that has the value 'crown' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " A = 'fig'  D = 'crown'  G = 'tea'  K = 'engine'  The name of the key that has the value 'tea' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " A = 'fig'  D = 'crown'  G = 'tea'  K = 'engine'  The name of the key that has the value 'engine' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " D = 'book'  C = 'fish'  H = 'paper'  F = 'picture'  The name of the key that has the value 'book' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'book'  C = 'fish'  H = 'paper'  F = 'picture'  The name of the key that has the value 'fish' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " D = 'book'  C = 'fish'  H = 'paper'  F = 'picture'  The name of the key that has the value 'paper' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " D = 'book'  C = 'fish'  H = 'paper'  F = 'picture'  The name of the key that has the value 'picture' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " A = 'creature'  D = 'train'  E = 'apple'  J = 'crown'  The name of the key that has the value 'creature' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'creature'  D = 'train'  E = 'apple'  J = 'crown'  The name of the key that has the value 'train' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " A = 'creature'  D = 'train'  E = 'apple'  J = 'crown'  The name of the key that has the value 'apple' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " A = 'creature'  D = 'train'  E = 'apple'  J = 'crown'  The name of the key that has the value 'crown' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " G = 'key'  J = 'map'  D = 'plant'  A = 'medicine'  The name of the key that has the value 'key' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'key'  J = 'map'  D = 'plant'  A = 'medicine'  The name of the key that has the value 'map' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " G = 'key'  J = 'map'  D = 'plant'  A = 'medicine'  The name of the key that has the value 'plant' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " G = 'key'  J = 'map'  D = 'plant'  A = 'medicine'  The name of the key that has the value 'medicine' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " G = 'cross'  A = 'painting'  E = 'newspaper'  F = 'engine'  The name of the key that has the value 'cross' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'cross'  A = 'painting'  E = 'newspaper'  F = 'engine'  The name of the key that has the value 'painting' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " G = 'cross'  A = 'painting'  E = 'newspaper'  F = 'engine'  The name of the key that has the value 'newspaper' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " G = 'cross'  A = 'painting'  E = 'newspaper'  F = 'engine'  The name of the key that has the value 'engine' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " J = 'coffee'  A = 'tea'  F = 'pipe'  E = 'train'  The name of the key that has the value 'coffee' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'coffee'  A = 'tea'  F = 'pipe'  E = 'train'  The name of the key that has the value 'tea' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " J = 'coffee'  A = 'tea'  F = 'pipe'  E = 'train'  The name of the key that has the value 'pipe' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " J = 'coffee'  A = 'tea'  F = 'pipe'  E = 'train'  The name of the key that has the value 'train' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " D = 'painting'  A = 'ball'  G = 'bag'  F = 'pot'  The name of the key that has the value 'painting' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'painting'  A = 'ball'  G = 'bag'  F = 'pot'  The name of the key that has the value 'ball' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'painting'  A = 'ball'  G = 'bag'  F = 'pot'  The name of the key that has the value 'bag' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " D = 'painting'  A = 'ball'  G = 'bag'  F = 'pot'  The name of the key that has the value 'pot' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " G = 'sheet'  C = 'gift'  I = 'book'  A = 'crown'  The name of the key that has the value 'sheet' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'sheet'  C = 'gift'  I = 'book'  A = 'crown'  The name of the key that has the value 'gift' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " G = 'sheet'  C = 'gift'  I = 'book'  A = 'crown'  The name of the key that has the value 'book' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " G = 'sheet'  C = 'gift'  I = 'book'  A = 'crown'  The name of the key that has the value 'crown' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'magnet'  F = 'branch'  E = 'shell'  G = 'ball'  The name of the key that has the value 'magnet' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'magnet'  F = 'branch'  E = 'shell'  G = 'ball'  The name of the key that has the value 'branch' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " D = 'magnet'  F = 'branch'  E = 'shell'  G = 'ball'  The name of the key that has the value 'shell' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " D = 'magnet'  F = 'branch'  E = 'shell'  G = 'ball'  The name of the key that has the value 'ball' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " E = 'glass'  H = 'ice'  C = 'drug'  B = 'brain'  The name of the key that has the value 'glass' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'glass'  H = 'ice'  C = 'drug'  B = 'brain'  The name of the key that has the value 'ice' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " E = 'glass'  H = 'ice'  C = 'drug'  B = 'brain'  The name of the key that has the value 'drug' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " E = 'glass'  H = 'ice'  C = 'drug'  B = 'brain'  The name of the key that has the value 'brain' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " D = 'picture'  K = 'fan'  E = 'painting'  I = 'flower'  The name of the key that has the value 'picture' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'picture'  K = 'fan'  E = 'painting'  I = 'flower'  The name of the key that has the value 'fan' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " D = 'picture'  K = 'fan'  E = 'painting'  I = 'flower'  The name of the key that has the value 'painting' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " D = 'picture'  K = 'fan'  E = 'painting'  I = 'flower'  The name of the key that has the value 'flower' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'bomb'  C = 'bill'  H = 'bag'  K = 'mirror'  The name of the key that has the value 'bomb' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'bomb'  C = 'bill'  H = 'bag'  K = 'mirror'  The name of the key that has the value 'bill' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " J = 'bomb'  C = 'bill'  H = 'bag'  K = 'mirror'  The name of the key that has the value 'bag' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'bomb'  C = 'bill'  H = 'bag'  K = 'mirror'  The name of the key that has the value 'mirror' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " A = 'phone'  K = 'mirror'  C = 'gift'  I = 'tie'  The name of the key that has the value 'phone' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'phone'  K = 'mirror'  C = 'gift'  I = 'tie'  The name of the key that has the value 'mirror' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " A = 'phone'  K = 'mirror'  C = 'gift'  I = 'tie'  The name of the key that has the value 'gift' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " A = 'phone'  K = 'mirror'  C = 'gift'  I = 'tie'  The name of the key that has the value 'tie' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " A = 'ticket'  H = 'creature'  F = 'fish'  D = 'seed'  The name of the key that has the value 'ticket' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'ticket'  H = 'creature'  F = 'fish'  D = 'seed'  The name of the key that has the value 'creature' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " A = 'ticket'  H = 'creature'  F = 'fish'  D = 'seed'  The name of the key that has the value 'fish' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " A = 'ticket'  H = 'creature'  F = 'fish'  D = 'seed'  The name of the key that has the value 'seed' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " A = 'bus'  G = 'boot'  J = 'pipe'  I = 'drink'  The name of the key that has the value 'bus' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'bus'  G = 'boot'  J = 'pipe'  I = 'drink'  The name of the key that has the value 'boot' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " A = 'bus'  G = 'boot'  J = 'pipe'  I = 'drink'  The name of the key that has the value 'pipe' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " A = 'bus'  G = 'boot'  J = 'pipe'  I = 'drink'  The name of the key that has the value 'drink' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'document'  G = 'ticket'  B = 'painting'  A = 'car'  The name of the key that has the value 'document' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'document'  G = 'ticket'  B = 'painting'  A = 'car'  The name of the key that has the value 'ticket' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " I = 'document'  G = 'ticket'  B = 'painting'  A = 'car'  The name of the key that has the value 'painting' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " I = 'document'  G = 'ticket'  B = 'painting'  A = 'car'  The name of the key that has the value 'car' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " E = 'suit'  G = 'file'  F = 'book'  J = 'coffee'  The name of the key that has the value 'suit' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'suit'  G = 'file'  F = 'book'  J = 'coffee'  The name of the key that has the value 'file' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " E = 'suit'  G = 'file'  F = 'book'  J = 'coffee'  The name of the key that has the value 'book' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " E = 'suit'  G = 'file'  F = 'book'  J = 'coffee'  The name of the key that has the value 'coffee' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " G = 'television'  F = 'chemical'  J = 'document'  D = 'wire'  The name of the key that has the value 'television' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'television'  F = 'chemical'  J = 'document'  D = 'wire'  The name of the key that has the value 'chemical' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " G = 'television'  F = 'chemical'  J = 'document'  D = 'wire'  The name of the key that has the value 'document' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " G = 'television'  F = 'chemical'  J = 'document'  D = 'wire'  The name of the key that has the value 'wire' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " K = 'magnet'  J = 'rock'  D = 'bread'  I = 'wheel'  The name of the key that has the value 'magnet' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'magnet'  J = 'rock'  D = 'bread'  I = 'wheel'  The name of the key that has the value 'rock' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " K = 'magnet'  J = 'rock'  D = 'bread'  I = 'wheel'  The name of the key that has the value 'bread' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " K = 'magnet'  J = 'rock'  D = 'bread'  I = 'wheel'  The name of the key that has the value 'wheel' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'ring'  K = 'pipe'  B = 'car'  D = 'wire'  The name of the key that has the value 'ring' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'ring'  K = 'pipe'  B = 'car'  D = 'wire'  The name of the key that has the value 'pipe' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " I = 'ring'  K = 'pipe'  B = 'car'  D = 'wire'  The name of the key that has the value 'car' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " I = 'ring'  K = 'pipe'  B = 'car'  D = 'wire'  The name of the key that has the value 'wire' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " I = 'computer'  C = 'picture'  E = 'boat'  B = 'train'  The name of the key that has the value 'computer' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'computer'  C = 'picture'  E = 'boat'  B = 'train'  The name of the key that has the value 'picture' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " I = 'computer'  C = 'picture'  E = 'boat'  B = 'train'  The name of the key that has the value 'boat' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " I = 'computer'  C = 'picture'  E = 'boat'  B = 'train'  The name of the key that has the value 'train' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " I = 'rose'  E = 'wire'  A = 'train'  K = 'ball'  The name of the key that has the value 'rose' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'rose'  E = 'wire'  A = 'train'  K = 'ball'  The name of the key that has the value 'wire' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " I = 'rose'  E = 'wire'  A = 'train'  K = 'ball'  The name of the key that has the value 'train' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " I = 'rose'  E = 'wire'  A = 'train'  K = 'ball'  The name of the key that has the value 'ball' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'chemical'  J = 'branch'  H = 'boat'  B = 'glass'  The name of the key that has the value 'chemical' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'chemical'  J = 'branch'  H = 'boat'  B = 'glass'  The name of the key that has the value 'branch' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " K = 'chemical'  J = 'branch'  H = 'boat'  B = 'glass'  The name of the key that has the value 'boat' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " K = 'chemical'  J = 'branch'  H = 'boat'  B = 'glass'  The name of the key that has the value 'glass' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " E = 'drink'  A = 'fan'  C = 'brain'  H = 'shell'  The name of the key that has the value 'drink' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'drink'  A = 'fan'  C = 'brain'  H = 'shell'  The name of the key that has the value 'fan' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " E = 'drink'  A = 'fan'  C = 'brain'  H = 'shell'  The name of the key that has the value 'brain' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " E = 'drink'  A = 'fan'  C = 'brain'  H = 'shell'  The name of the key that has the value 'shell' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " F = 'medicine'  H = 'bill'  I = 'wire'  A = 'ring'  The name of the key that has the value 'medicine' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'medicine'  H = 'bill'  I = 'wire'  A = 'ring'  The name of the key that has the value 'bill' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " F = 'medicine'  H = 'bill'  I = 'wire'  A = 'ring'  The name of the key that has the value 'wire' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " F = 'medicine'  H = 'bill'  I = 'wire'  A = 'ring'  The name of the key that has the value 'ring' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " C = 'creature'  J = 'radio'  E = 'boot'  A = 'bus'  The name of the key that has the value 'creature' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'creature'  J = 'radio'  E = 'boot'  A = 'bus'  The name of the key that has the value 'radio' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " C = 'creature'  J = 'radio'  E = 'boot'  A = 'bus'  The name of the key that has the value 'boot' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " C = 'creature'  J = 'radio'  E = 'boot'  A = 'bus'  The name of the key that has the value 'bus' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'tea'  K = 'drink'  G = 'painting'  J = 'bell'  The name of the key that has the value 'tea' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'tea'  K = 'drink'  G = 'painting'  J = 'bell'  The name of the key that has the value 'drink' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " D = 'tea'  K = 'drink'  G = 'painting'  J = 'bell'  The name of the key that has the value 'painting' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " D = 'tea'  K = 'drink'  G = 'painting'  J = 'bell'  The name of the key that has the value 'bell' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " E = 'brick'  H = 'brain'  J = 'seed'  A = 'creature'  The name of the key that has the value 'brick' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'brick'  H = 'brain'  J = 'seed'  A = 'creature'  The name of the key that has the value 'brain' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " E = 'brick'  H = 'brain'  J = 'seed'  A = 'creature'  The name of the key that has the value 'seed' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " E = 'brick'  H = 'brain'  J = 'seed'  A = 'creature'  The name of the key that has the value 'creature' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " F = 'sheet'  G = 'bill'  H = 'computer'  K = 'ball'  The name of the key that has the value 'sheet' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'sheet'  G = 'bill'  H = 'computer'  K = 'ball'  The name of the key that has the value 'bill' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " F = 'sheet'  G = 'bill'  H = 'computer'  K = 'ball'  The name of the key that has the value 'computer' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " F = 'sheet'  G = 'bill'  H = 'computer'  K = 'ball'  The name of the key that has the value 'ball' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " B = 'file'  A = 'bill'  D = 'rock'  G = 'radio'  The name of the key that has the value 'file' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'file'  A = 'bill'  D = 'rock'  G = 'radio'  The name of the key that has the value 'bill' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " B = 'file'  A = 'bill'  D = 'rock'  G = 'radio'  The name of the key that has the value 'rock' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " B = 'file'  A = 'bill'  D = 'rock'  G = 'radio'  The name of the key that has the value 'radio' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " B = 'creature'  K = 'computer'  D = 'train'  I = 'bread'  The name of the key that has the value 'creature' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'creature'  K = 'computer'  D = 'train'  I = 'bread'  The name of the key that has the value 'computer' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " B = 'creature'  K = 'computer'  D = 'train'  I = 'bread'  The name of the key that has the value 'train' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " B = 'creature'  K = 'computer'  D = 'train'  I = 'bread'  The name of the key that has the value 'bread' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " E = 'plane'  F = 'fig'  J = 'ice'  I = 'string'  The name of the key that has the value 'plane' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'plane'  F = 'fig'  J = 'ice'  I = 'string'  The name of the key that has the value 'fig' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " E = 'plane'  F = 'fig'  J = 'ice'  I = 'string'  The name of the key that has the value 'ice' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " E = 'plane'  F = 'fig'  J = 'ice'  I = 'string'  The name of the key that has the value 'string' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " D = 'guitar'  F = 'apple'  A = 'bag'  E = 'leaf'  The name of the key that has the value 'guitar' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'guitar'  F = 'apple'  A = 'bag'  E = 'leaf'  The name of the key that has the value 'apple' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " D = 'guitar'  F = 'apple'  A = 'bag'  E = 'leaf'  The name of the key that has the value 'bag' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'guitar'  F = 'apple'  A = 'bag'  E = 'leaf'  The name of the key that has the value 'leaf' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " G = 'gift'  B = 'tie'  D = 'apple'  F = 'car'  The name of the key that has the value 'gift' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'gift'  B = 'tie'  D = 'apple'  F = 'car'  The name of the key that has the value 'tie' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " G = 'gift'  B = 'tie'  D = 'apple'  F = 'car'  The name of the key that has the value 'apple' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " G = 'gift'  B = 'tie'  D = 'apple'  F = 'car'  The name of the key that has the value 'car' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'bomb'  I = 'rose'  K = 'tie'  B = 'note'  The name of the key that has the value 'bomb' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'bomb'  I = 'rose'  K = 'tie'  B = 'note'  The name of the key that has the value 'rose' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " F = 'bomb'  I = 'rose'  K = 'tie'  B = 'note'  The name of the key that has the value 'tie' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " F = 'bomb'  I = 'rose'  K = 'tie'  B = 'note'  The name of the key that has the value 'note' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " C = 'flower'  K = 'seed'  J = 'apple'  B = 'string'  The name of the key that has the value 'flower' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'flower'  K = 'seed'  J = 'apple'  B = 'string'  The name of the key that has the value 'seed' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " C = 'flower'  K = 'seed'  J = 'apple'  B = 'string'  The name of the key that has the value 'apple' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " C = 'flower'  K = 'seed'  J = 'apple'  B = 'string'  The name of the key that has the value 'string' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " C = 'egg'  D = 'painting'  I = 'hat'  G = 'meat'  The name of the key that has the value 'egg' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'egg'  D = 'painting'  I = 'hat'  G = 'meat'  The name of the key that has the value 'painting' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " C = 'egg'  D = 'painting'  I = 'hat'  G = 'meat'  The name of the key that has the value 'hat' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " C = 'egg'  D = 'painting'  I = 'hat'  G = 'meat'  The name of the key that has the value 'meat' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " A = 'tea'  J = 'egg'  F = 'magazine'  H = 'picture'  The name of the key that has the value 'tea' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'tea'  J = 'egg'  F = 'magazine'  H = 'picture'  The name of the key that has the value 'egg' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " A = 'tea'  J = 'egg'  F = 'magazine'  H = 'picture'  The name of the key that has the value 'magazine' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " A = 'tea'  J = 'egg'  F = 'magazine'  H = 'picture'  The name of the key that has the value 'picture' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'fig'  H = 'pipe'  F = 'game'  K = 'radio'  The name of the key that has the value 'fig' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'fig'  H = 'pipe'  F = 'game'  K = 'radio'  The name of the key that has the value 'pipe' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'fig'  H = 'pipe'  F = 'game'  K = 'radio'  The name of the key that has the value 'game' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " J = 'fig'  H = 'pipe'  F = 'game'  K = 'radio'  The name of the key that has the value 'radio' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " A = 'bag'  H = 'magnet'  B = 'guitar'  I = 'gift'  The name of the key that has the value 'bag' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'bag'  H = 'magnet'  B = 'guitar'  I = 'gift'  The name of the key that has the value 'magnet' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " A = 'bag'  H = 'magnet'  B = 'guitar'  I = 'gift'  The name of the key that has the value 'guitar' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " A = 'bag'  H = 'magnet'  B = 'guitar'  I = 'gift'  The name of the key that has the value 'gift' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " H = 'magazine'  F = 'picture'  G = 'cross'  E = 'disk'  The name of the key that has the value 'magazine' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'magazine'  F = 'picture'  G = 'cross'  E = 'disk'  The name of the key that has the value 'picture' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " H = 'magazine'  F = 'picture'  G = 'cross'  E = 'disk'  The name of the key that has the value 'cross' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " H = 'magazine'  F = 'picture'  G = 'cross'  E = 'disk'  The name of the key that has the value 'disk' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " I = 'note'  G = 'cup'  J = 'disk'  D = 'letter'  The name of the key that has the value 'note' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'note'  G = 'cup'  J = 'disk'  D = 'letter'  The name of the key that has the value 'cup' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " I = 'note'  G = 'cup'  J = 'disk'  D = 'letter'  The name of the key that has the value 'disk' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " I = 'note'  G = 'cup'  J = 'disk'  D = 'letter'  The name of the key that has the value 'letter' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'coat'  J = 'document'  B = 'disk'  G = 'milk'  The name of the key that has the value 'coat' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'coat'  J = 'document'  B = 'disk'  G = 'milk'  The name of the key that has the value 'document' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'coat'  J = 'document'  B = 'disk'  G = 'milk'  The name of the key that has the value 'disk' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " D = 'coat'  J = 'document'  B = 'disk'  G = 'milk'  The name of the key that has the value 'milk' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " B = 'plane'  E = 'seed'  H = 'brick'  J = 'flower'  The name of the key that has the value 'plane' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'plane'  E = 'seed'  H = 'brick'  J = 'flower'  The name of the key that has the value 'seed' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " B = 'plane'  E = 'seed'  H = 'brick'  J = 'flower'  The name of the key that has the value 'brick' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " B = 'plane'  E = 'seed'  H = 'brick'  J = 'flower'  The name of the key that has the value 'flower' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'document'  K = 'pot'  C = 'wheel'  G = 'glass'  The name of the key that has the value 'document' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'document'  K = 'pot'  C = 'wheel'  G = 'glass'  The name of the key that has the value 'pot' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " D = 'document'  K = 'pot'  C = 'wheel'  G = 'glass'  The name of the key that has the value 'wheel' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " D = 'document'  K = 'pot'  C = 'wheel'  G = 'glass'  The name of the key that has the value 'glass' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " F = 'car'  J = 'brain'  I = 'ring'  K = 'camera'  The name of the key that has the value 'car' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'car'  J = 'brain'  I = 'ring'  K = 'camera'  The name of the key that has the value 'brain' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " F = 'car'  J = 'brain'  I = 'ring'  K = 'camera'  The name of the key that has the value 'ring' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " F = 'car'  J = 'brain'  I = 'ring'  K = 'camera'  The name of the key that has the value 'camera' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " C = 'suit'  K = 'magazine'  F = 'guitar'  H = 'bill'  The name of the key that has the value 'suit' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'suit'  K = 'magazine'  F = 'guitar'  H = 'bill'  The name of the key that has the value 'magazine' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " C = 'suit'  K = 'magazine'  F = 'guitar'  H = 'bill'  The name of the key that has the value 'guitar' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " C = 'suit'  K = 'magazine'  F = 'guitar'  H = 'bill'  The name of the key that has the value 'bill' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " F = 'egg'  C = 'mirror'  B = 'key'  I = 'bell'  The name of the key that has the value 'egg' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'egg'  C = 'mirror'  B = 'key'  I = 'bell'  The name of the key that has the value 'mirror' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " F = 'egg'  C = 'mirror'  B = 'key'  I = 'bell'  The name of the key that has the value 'key' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " F = 'egg'  C = 'mirror'  B = 'key'  I = 'bell'  The name of the key that has the value 'bell' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " A = 'fig'  H = 'medicine'  G = 'ball'  F = 'pot'  The name of the key that has the value 'fig' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'fig'  H = 'medicine'  G = 'ball'  F = 'pot'  The name of the key that has the value 'medicine' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " A = 'fig'  H = 'medicine'  G = 'ball'  F = 'pot'  The name of the key that has the value 'ball' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " A = 'fig'  H = 'medicine'  G = 'ball'  F = 'pot'  The name of the key that has the value 'pot' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " H = 'rose'  F = 'bomb'  E = 'cup'  I = 'milk'  The name of the key that has the value 'rose' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'rose'  F = 'bomb'  E = 'cup'  I = 'milk'  The name of the key that has the value 'bomb' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " H = 'rose'  F = 'bomb'  E = 'cup'  I = 'milk'  The name of the key that has the value 'cup' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " H = 'rose'  F = 'bomb'  E = 'cup'  I = 'milk'  The name of the key that has the value 'milk' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " A = 'disk'  I = 'bomb'  K = 'newspaper'  H = 'coat'  The name of the key that has the value 'disk' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'disk'  I = 'bomb'  K = 'newspaper'  H = 'coat'  The name of the key that has the value 'bomb' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " A = 'disk'  I = 'bomb'  K = 'newspaper'  H = 'coat'  The name of the key that has the value 'newspaper' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " A = 'disk'  I = 'bomb'  K = 'newspaper'  H = 'coat'  The name of the key that has the value 'coat' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'television'  K = 'file'  C = 'magnet'  G = 'phone'  The name of the key that has the value 'television' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'television'  K = 'file'  C = 'magnet'  G = 'phone'  The name of the key that has the value 'file' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " H = 'television'  K = 'file'  C = 'magnet'  G = 'phone'  The name of the key that has the value 'magnet' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " H = 'television'  K = 'file'  C = 'magnet'  G = 'phone'  The name of the key that has the value 'phone' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'dress'  A = 'ice'  K = 'sheet'  I = 'clock'  The name of the key that has the value 'dress' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'dress'  A = 'ice'  K = 'sheet'  I = 'clock'  The name of the key that has the value 'ice' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " G = 'dress'  A = 'ice'  K = 'sheet'  I = 'clock'  The name of the key that has the value 'sheet' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " G = 'dress'  A = 'ice'  K = 'sheet'  I = 'clock'  The name of the key that has the value 'clock' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'drug'  B = 'bag'  I = 'card'  G = 'file'  The name of the key that has the value 'drug' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'drug'  B = 'bag'  I = 'card'  G = 'file'  The name of the key that has the value 'bag' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " J = 'drug'  B = 'bag'  I = 'card'  G = 'file'  The name of the key that has the value 'card' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'drug'  B = 'bag'  I = 'card'  G = 'file'  The name of the key that has the value 'file' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " H = 'card'  D = 'brick'  K = 'bomb'  C = 'plate'  The name of the key that has the value 'card' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'card'  D = 'brick'  K = 'bomb'  C = 'plate'  The name of the key that has the value 'brick' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " H = 'card'  D = 'brick'  K = 'bomb'  C = 'plate'  The name of the key that has the value 'bomb' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " H = 'card'  D = 'brick'  K = 'bomb'  C = 'plate'  The name of the key that has the value 'plate' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " K = 'key'  F = 'train'  H = 'milk'  A = 'chemical'  The name of the key that has the value 'key' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'key'  F = 'train'  H = 'milk'  A = 'chemical'  The name of the key that has the value 'train' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " K = 'key'  F = 'train'  H = 'milk'  A = 'chemical'  The name of the key that has the value 'milk' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " K = 'key'  F = 'train'  H = 'milk'  A = 'chemical'  The name of the key that has the value 'chemical' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " D = 'book'  C = 'radio'  F = 'ice'  J = 'string'  The name of the key that has the value 'book' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'book'  C = 'radio'  F = 'ice'  J = 'string'  The name of the key that has the value 'radio' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " D = 'book'  C = 'radio'  F = 'ice'  J = 'string'  The name of the key that has the value 'ice' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " D = 'book'  C = 'radio'  F = 'ice'  J = 'string'  The name of the key that has the value 'string' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'radio'  G = 'block'  E = 'flower'  H = 'stone'  The name of the key that has the value 'radio' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'radio'  G = 'block'  E = 'flower'  H = 'stone'  The name of the key that has the value 'block' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " J = 'radio'  G = 'block'  E = 'flower'  H = 'stone'  The name of the key that has the value 'flower' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " J = 'radio'  G = 'block'  E = 'flower'  H = 'stone'  The name of the key that has the value 'stone' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " A = 'picture'  J = 'disk'  G = 'gift'  K = 'car'  The name of the key that has the value 'picture' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'picture'  J = 'disk'  G = 'gift'  K = 'car'  The name of the key that has the value 'disk' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " A = 'picture'  J = 'disk'  G = 'gift'  K = 'car'  The name of the key that has the value 'gift' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " A = 'picture'  J = 'disk'  G = 'gift'  K = 'car'  The name of the key that has the value 'car' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " H = 'magazine'  G = 'creature'  A = 'stone'  K = 'bill'  The name of the key that has the value 'magazine' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'magazine'  G = 'creature'  A = 'stone'  K = 'bill'  The name of the key that has the value 'creature' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " H = 'magazine'  G = 'creature'  A = 'stone'  K = 'bill'  The name of the key that has the value 'stone' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " H = 'magazine'  G = 'creature'  A = 'stone'  K = 'bill'  The name of the key that has the value 'bill' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " E = 'cross'  B = 'glass'  C = 'brick'  H = 'seed'  The name of the key that has the value 'cross' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'cross'  B = 'glass'  C = 'brick'  H = 'seed'  The name of the key that has the value 'glass' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " E = 'cross'  B = 'glass'  C = 'brick'  H = 'seed'  The name of the key that has the value 'brick' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " E = 'cross'  B = 'glass'  C = 'brick'  H = 'seed'  The name of the key that has the value 'seed' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " I = 'plane'  C = 'magnet'  K = 'newspaper'  D = 'dress'  The name of the key that has the value 'plane' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'plane'  C = 'magnet'  K = 'newspaper'  D = 'dress'  The name of the key that has the value 'magnet' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " I = 'plane'  C = 'magnet'  K = 'newspaper'  D = 'dress'  The name of the key that has the value 'newspaper' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " I = 'plane'  C = 'magnet'  K = 'newspaper'  D = 'dress'  The name of the key that has the value 'dress' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " K = 'string'  I = 'game'  B = 'fan'  C = 'watch'  The name of the key that has the value 'string' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'string'  I = 'game'  B = 'fan'  C = 'watch'  The name of the key that has the value 'game' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " K = 'string'  I = 'game'  B = 'fan'  C = 'watch'  The name of the key that has the value 'fan' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " K = 'string'  I = 'game'  B = 'fan'  C = 'watch'  The name of the key that has the value 'watch' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " I = 'creature'  D = 'key'  J = 'wheel'  A = 'boat'  The name of the key that has the value 'creature' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'creature'  D = 'key'  J = 'wheel'  A = 'boat'  The name of the key that has the value 'key' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " I = 'creature'  D = 'key'  J = 'wheel'  A = 'boat'  The name of the key that has the value 'wheel' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " I = 'creature'  D = 'key'  J = 'wheel'  A = 'boat'  The name of the key that has the value 'boat' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " K = 'brick'  F = 'creature'  G = 'television'  I = 'guitar'  The name of the key that has the value 'brick' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'brick'  F = 'creature'  G = 'television'  I = 'guitar'  The name of the key that has the value 'creature' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " K = 'brick'  F = 'creature'  G = 'television'  I = 'guitar'  The name of the key that has the value 'television' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " K = 'brick'  F = 'creature'  G = 'television'  I = 'guitar'  The name of the key that has the value 'guitar' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'bell'  E = 'computer'  C = 'milk'  B = 'rock'  The name of the key that has the value 'bell' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'bell'  E = 'computer'  C = 'milk'  B = 'rock'  The name of the key that has the value 'computer' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " I = 'bell'  E = 'computer'  C = 'milk'  B = 'rock'  The name of the key that has the value 'milk' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " I = 'bell'  E = 'computer'  C = 'milk'  B = 'rock'  The name of the key that has the value 'rock' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " I = 'painting'  B = 'train'  C = 'clock'  D = 'egg'  The name of the key that has the value 'painting' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'painting'  B = 'train'  C = 'clock'  D = 'egg'  The name of the key that has the value 'train' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " I = 'painting'  B = 'train'  C = 'clock'  D = 'egg'  The name of the key that has the value 'clock' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " I = 'painting'  B = 'train'  C = 'clock'  D = 'egg'  The name of the key that has the value 'egg' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'seed'  B = 'ticket'  C = 'note'  I = 'letter'  The name of the key that has the value 'seed' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'seed'  B = 'ticket'  C = 'note'  I = 'letter'  The name of the key that has the value 'ticket' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " D = 'seed'  B = 'ticket'  C = 'note'  I = 'letter'  The name of the key that has the value 'note' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " D = 'seed'  B = 'ticket'  C = 'note'  I = 'letter'  The name of the key that has the value 'letter' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " A = 'bread'  F = 'seed'  E = 'ball'  B = 'guitar'  The name of the key that has the value 'bread' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'bread'  F = 'seed'  E = 'ball'  B = 'guitar'  The name of the key that has the value 'seed' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " A = 'bread'  F = 'seed'  E = 'ball'  B = 'guitar'  The name of the key that has the value 'ball' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " A = 'bread'  F = 'seed'  E = 'ball'  B = 'guitar'  The name of the key that has the value 'guitar' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " F = 'rose'  B = 'plate'  J = 'camera'  C = 'coat'  The name of the key that has the value 'rose' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'rose'  B = 'plate'  J = 'camera'  C = 'coat'  The name of the key that has the value 'plate' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " F = 'rose'  B = 'plate'  J = 'camera'  C = 'coat'  The name of the key that has the value 'camera' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " F = 'rose'  B = 'plate'  J = 'camera'  C = 'coat'  The name of the key that has the value 'coat' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " K = 'string'  H = 'crown'  D = 'drug'  G = 'pot'  The name of the key that has the value 'string' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'string'  H = 'crown'  D = 'drug'  G = 'pot'  The name of the key that has the value 'crown' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " K = 'string'  H = 'crown'  D = 'drug'  G = 'pot'  The name of the key that has the value 'drug' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " K = 'string'  H = 'crown'  D = 'drug'  G = 'pot'  The name of the key that has the value 'pot' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " F = 'ball'  I = 'wire'  A = 'guitar'  H = 'document'  The name of the key that has the value 'ball' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'ball'  I = 'wire'  A = 'guitar'  H = 'document'  The name of the key that has the value 'wire' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " F = 'ball'  I = 'wire'  A = 'guitar'  H = 'document'  The name of the key that has the value 'guitar' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " F = 'ball'  I = 'wire'  A = 'guitar'  H = 'document'  The name of the key that has the value 'document' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " C = 'shell'  K = 'medicine'  J = 'tea'  A = 'watch'  The name of the key that has the value 'shell' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'shell'  K = 'medicine'  J = 'tea'  A = 'watch'  The name of the key that has the value 'medicine' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " C = 'shell'  K = 'medicine'  J = 'tea'  A = 'watch'  The name of the key that has the value 'tea' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " C = 'shell'  K = 'medicine'  J = 'tea'  A = 'watch'  The name of the key that has the value 'watch' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " K = 'milk'  I = 'magazine'  F = 'train'  A = 'cross'  The name of the key that has the value 'milk' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'milk'  I = 'magazine'  F = 'train'  A = 'cross'  The name of the key that has the value 'magazine' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " K = 'milk'  I = 'magazine'  F = 'train'  A = 'cross'  The name of the key that has the value 'train' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " K = 'milk'  I = 'magazine'  F = 'train'  A = 'cross'  The name of the key that has the value 'cross' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " G = 'paper'  I = 'milk'  E = 'bill'  C = 'suit'  The name of the key that has the value 'paper' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'paper'  I = 'milk'  E = 'bill'  C = 'suit'  The name of the key that has the value 'milk' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " G = 'paper'  I = 'milk'  E = 'bill'  C = 'suit'  The name of the key that has the value 'bill' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " G = 'paper'  I = 'milk'  E = 'bill'  C = 'suit'  The name of the key that has the value 'suit' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " F = 'chemical'  H = 'apple'  D = 'camera'  B = 'guitar'  The name of the key that has the value 'chemical' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'chemical'  H = 'apple'  D = 'camera'  B = 'guitar'  The name of the key that has the value 'apple' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " F = 'chemical'  H = 'apple'  D = 'camera'  B = 'guitar'  The name of the key that has the value 'camera' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " F = 'chemical'  H = 'apple'  D = 'camera'  B = 'guitar'  The name of the key that has the value 'guitar' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " F = 'watch'  H = 'fan'  B = 'fish'  G = 'drug'  The name of the key that has the value 'watch' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'watch'  H = 'fan'  B = 'fish'  G = 'drug'  The name of the key that has the value 'fan' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " F = 'watch'  H = 'fan'  B = 'fish'  G = 'drug'  The name of the key that has the value 'fish' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " F = 'watch'  H = 'fan'  B = 'fish'  G = 'drug'  The name of the key that has the value 'drug' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " D = 'wire'  I = 'fig'  J = 'document'  E = 'magazine'  The name of the key that has the value 'wire' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'wire'  I = 'fig'  J = 'document'  E = 'magazine'  The name of the key that has the value 'fig' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " D = 'wire'  I = 'fig'  J = 'document'  E = 'magazine'  The name of the key that has the value 'document' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'wire'  I = 'fig'  J = 'document'  E = 'magazine'  The name of the key that has the value 'magazine' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " J = 'rose'  I = 'train'  C = 'guitar'  E = 'engine'  The name of the key that has the value 'rose' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'rose'  I = 'train'  C = 'guitar'  E = 'engine'  The name of the key that has the value 'train' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " J = 'rose'  I = 'train'  C = 'guitar'  E = 'engine'  The name of the key that has the value 'guitar' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " J = 'rose'  I = 'train'  C = 'guitar'  E = 'engine'  The name of the key that has the value 'engine' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " D = 'chemical'  J = 'watch'  B = 'tea'  I = 'drink'  The name of the key that has the value 'chemical' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'chemical'  J = 'watch'  B = 'tea'  I = 'drink'  The name of the key that has the value 'watch' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'chemical'  J = 'watch'  B = 'tea'  I = 'drink'  The name of the key that has the value 'tea' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " D = 'chemical'  J = 'watch'  B = 'tea'  I = 'drink'  The name of the key that has the value 'drink' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'dress'  A = 'boot'  H = 'television'  K = 'computer'  The name of the key that has the value 'dress' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'dress'  A = 'boot'  H = 'television'  K = 'computer'  The name of the key that has the value 'boot' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " I = 'dress'  A = 'boot'  H = 'television'  K = 'computer'  The name of the key that has the value 'television' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " I = 'dress'  A = 'boot'  H = 'television'  K = 'computer'  The name of the key that has the value 'computer' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " I = 'drug'  H = 'stone'  D = 'ice'  J = 'computer'  The name of the key that has the value 'drug' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'drug'  H = 'stone'  D = 'ice'  J = 'computer'  The name of the key that has the value 'stone' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " I = 'drug'  H = 'stone'  D = 'ice'  J = 'computer'  The name of the key that has the value 'ice' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " I = 'drug'  H = 'stone'  D = 'ice'  J = 'computer'  The name of the key that has the value 'computer' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " E = 'computer'  F = 'block'  G = 'drink'  I = 'fish'  The name of the key that has the value 'computer' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'computer'  F = 'block'  G = 'drink'  I = 'fish'  The name of the key that has the value 'block' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " E = 'computer'  F = 'block'  G = 'drink'  I = 'fish'  The name of the key that has the value 'drink' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " E = 'computer'  F = 'block'  G = 'drink'  I = 'fish'  The name of the key that has the value 'fish' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " B = 'stone'  H = 'watch'  C = 'brick'  A = 'ice'  The name of the key that has the value 'stone' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'stone'  H = 'watch'  C = 'brick'  A = 'ice'  The name of the key that has the value 'watch' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " B = 'stone'  H = 'watch'  C = 'brick'  A = 'ice'  The name of the key that has the value 'brick' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " B = 'stone'  H = 'watch'  C = 'brick'  A = 'ice'  The name of the key that has the value 'ice' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'flower'  C = 'painting'  K = 'plant'  H = 'engine'  The name of the key that has the value 'flower' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'flower'  C = 'painting'  K = 'plant'  H = 'engine'  The name of the key that has the value 'painting' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " A = 'flower'  C = 'painting'  K = 'plant'  H = 'engine'  The name of the key that has the value 'plant' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " A = 'flower'  C = 'painting'  K = 'plant'  H = 'engine'  The name of the key that has the value 'engine' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " C = 'glass'  I = 'gift'  F = 'shell'  J = 'map'  The name of the key that has the value 'glass' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'glass'  I = 'gift'  F = 'shell'  J = 'map'  The name of the key that has the value 'gift' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " C = 'glass'  I = 'gift'  F = 'shell'  J = 'map'  The name of the key that has the value 'shell' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " C = 'glass'  I = 'gift'  F = 'shell'  J = 'map'  The name of the key that has the value 'map' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " A = 'game'  J = 'picture'  G = 'rose'  I = 'tie'  The name of the key that has the value 'game' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'game'  J = 'picture'  G = 'rose'  I = 'tie'  The name of the key that has the value 'picture' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " A = 'game'  J = 'picture'  G = 'rose'  I = 'tie'  The name of the key that has the value 'rose' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " A = 'game'  J = 'picture'  G = 'rose'  I = 'tie'  The name of the key that has the value 'tie' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " C = 'painting'  A = 'dress'  D = 'apple'  H = 'chemical'  The name of the key that has the value 'painting' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'painting'  A = 'dress'  D = 'apple'  H = 'chemical'  The name of the key that has the value 'dress' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " C = 'painting'  A = 'dress'  D = 'apple'  H = 'chemical'  The name of the key that has the value 'apple' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " C = 'painting'  A = 'dress'  D = 'apple'  H = 'chemical'  The name of the key that has the value 'chemical' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " D = 'note'  J = 'mirror'  G = 'magazine'  F = 'phone'  The name of the key that has the value 'note' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'note'  J = 'mirror'  G = 'magazine'  F = 'phone'  The name of the key that has the value 'mirror' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " D = 'note'  J = 'mirror'  G = 'magazine'  F = 'phone'  The name of the key that has the value 'magazine' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " D = 'note'  J = 'mirror'  G = 'magazine'  F = 'phone'  The name of the key that has the value 'phone' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " G = 'mirror'  I = 'ice'  H = 'newspaper'  D = 'plant'  The name of the key that has the value 'mirror' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'mirror'  I = 'ice'  H = 'newspaper'  D = 'plant'  The name of the key that has the value 'ice' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " G = 'mirror'  I = 'ice'  H = 'newspaper'  D = 'plant'  The name of the key that has the value 'newspaper' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " G = 'mirror'  I = 'ice'  H = 'newspaper'  D = 'plant'  The name of the key that has the value 'plant' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " C = 'ice'  G = 'fish'  H = 'rock'  B = 'train'  The name of the key that has the value 'ice' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'ice'  G = 'fish'  H = 'rock'  B = 'train'  The name of the key that has the value 'fish' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " C = 'ice'  G = 'fish'  H = 'rock'  B = 'train'  The name of the key that has the value 'rock' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " C = 'ice'  G = 'fish'  H = 'rock'  B = 'train'  The name of the key that has the value 'train' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " J = 'suit'  D = 'file'  C = 'camera'  H = 'ice'  The name of the key that has the value 'suit' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'suit'  D = 'file'  C = 'camera'  H = 'ice'  The name of the key that has the value 'file' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " J = 'suit'  D = 'file'  C = 'camera'  H = 'ice'  The name of the key that has the value 'camera' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " J = 'suit'  D = 'file'  C = 'camera'  H = 'ice'  The name of the key that has the value 'ice' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " G = 'egg'  K = 'game'  B = 'fig'  H = 'apple'  The name of the key that has the value 'egg' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'egg'  K = 'game'  B = 'fig'  H = 'apple'  The name of the key that has the value 'game' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " G = 'egg'  K = 'game'  B = 'fig'  H = 'apple'  The name of the key that has the value 'fig' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " G = 'egg'  K = 'game'  B = 'fig'  H = 'apple'  The name of the key that has the value 'apple' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " C = 'bomb'  E = 'bus'  H = 'rock'  J = 'mirror'  The name of the key that has the value 'bomb' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'bomb'  E = 'bus'  H = 'rock'  J = 'mirror'  The name of the key that has the value 'bus' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " C = 'bomb'  E = 'bus'  H = 'rock'  J = 'mirror'  The name of the key that has the value 'rock' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " C = 'bomb'  E = 'bus'  H = 'rock'  J = 'mirror'  The name of the key that has the value 'mirror' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " C = 'clock'  G = 'disk'  H = 'paper'  A = 'milk'  The name of the key that has the value 'clock' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'clock'  G = 'disk'  H = 'paper'  A = 'milk'  The name of the key that has the value 'disk' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " C = 'clock'  G = 'disk'  H = 'paper'  A = 'milk'  The name of the key that has the value 'paper' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " C = 'clock'  G = 'disk'  H = 'paper'  A = 'milk'  The name of the key that has the value 'milk' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " B = 'picture'  F = 'sheet'  K = 'machine'  E = 'camera'  The name of the key that has the value 'picture' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'picture'  F = 'sheet'  K = 'machine'  E = 'camera'  The name of the key that has the value 'sheet' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " B = 'picture'  F = 'sheet'  K = 'machine'  E = 'camera'  The name of the key that has the value 'machine' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " B = 'picture'  F = 'sheet'  K = 'machine'  E = 'camera'  The name of the key that has the value 'camera' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " H = 'plane'  B = 'guitar'  A = 'phone'  F = 'watch'  The name of the key that has the value 'plane' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " H = 'plane'  B = 'guitar'  A = 'phone'  F = 'watch'  The name of the key that has the value 'guitar' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " H = 'plane'  B = 'guitar'  A = 'phone'  F = 'watch'  The name of the key that has the value 'phone' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " H = 'plane'  B = 'guitar'  A = 'phone'  F = 'watch'  The name of the key that has the value 'watch' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " J = 'game'  K = 'letter'  H = 'hat'  G = 'plant'  The name of the key that has the value 'game' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " J = 'game'  K = 'letter'  H = 'hat'  G = 'plant'  The name of the key that has the value 'letter' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " J = 'game'  K = 'letter'  H = 'hat'  G = 'plant'  The name of the key that has the value 'hat' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " J = 'game'  K = 'letter'  H = 'hat'  G = 'plant'  The name of the key that has the value 'plant' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " F = 'ball'  A = 'creature'  E = 'train'  H = 'cup'  The name of the key that has the value 'ball' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " F = 'ball'  A = 'creature'  E = 'train'  H = 'cup'  The name of the key that has the value 'creature' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " F = 'ball'  A = 'creature'  E = 'train'  H = 'cup'  The name of the key that has the value 'train' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " F = 'ball'  A = 'creature'  E = 'train'  H = 'cup'  The name of the key that has the value 'cup' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " G = 'seed'  J = 'block'  E = 'book'  C = 'coat'  The name of the key that has the value 'seed' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " G = 'seed'  J = 'block'  E = 'book'  C = 'coat'  The name of the key that has the value 'block' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " G = 'seed'  J = 'block'  E = 'book'  C = 'coat'  The name of the key that has the value 'book' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " G = 'seed'  J = 'block'  E = 'book'  C = 'coat'  The name of the key that has the value 'coat' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " D = 'cup'  F = 'creature'  H = 'string'  K = 'seed'  The name of the key that has the value 'cup' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'cup'  F = 'creature'  H = 'string'  K = 'seed'  The name of the key that has the value 'creature' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " D = 'cup'  F = 'creature'  H = 'string'  K = 'seed'  The name of the key that has the value 'string' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " D = 'cup'  F = 'creature'  H = 'string'  K = 'seed'  The name of the key that has the value 'seed' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'key'  H = 'leaf'  J = 'flower'  C = 'magnet'  The name of the key that has the value 'key' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " K = 'key'  H = 'leaf'  J = 'flower'  C = 'magnet'  The name of the key that has the value 'leaf' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " K = 'key'  H = 'leaf'  J = 'flower'  C = 'magnet'  The name of the key that has the value 'flower' is ",
+        "output": "J"
+    },
+    {
+        "prompt": " K = 'key'  H = 'leaf'  J = 'flower'  C = 'magnet'  The name of the key that has the value 'magnet' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " E = 'plate'  F = 'pot'  B = 'block'  D = 'magnet'  The name of the key that has the value 'plate' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'plate'  F = 'pot'  B = 'block'  D = 'magnet'  The name of the key that has the value 'pot' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " E = 'plate'  F = 'pot'  B = 'block'  D = 'magnet'  The name of the key that has the value 'block' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " E = 'plate'  F = 'pot'  B = 'block'  D = 'magnet'  The name of the key that has the value 'magnet' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " A = 'cup'  I = 'plate'  G = 'computer'  H = 'rock'  The name of the key that has the value 'cup' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " A = 'cup'  I = 'plate'  G = 'computer'  H = 'rock'  The name of the key that has the value 'plate' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " A = 'cup'  I = 'plate'  G = 'computer'  H = 'rock'  The name of the key that has the value 'computer' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " A = 'cup'  I = 'plate'  G = 'computer'  H = 'rock'  The name of the key that has the value 'rock' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " E = 'ring'  H = 'meat'  C = 'wheel'  K = 'fan'  The name of the key that has the value 'ring' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " E = 'ring'  H = 'meat'  C = 'wheel'  K = 'fan'  The name of the key that has the value 'meat' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " E = 'ring'  H = 'meat'  C = 'wheel'  K = 'fan'  The name of the key that has the value 'wheel' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " E = 'ring'  H = 'meat'  C = 'wheel'  K = 'fan'  The name of the key that has the value 'fan' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " D = 'game'  G = 'machine'  K = 'radio'  F = 'mirror'  The name of the key that has the value 'game' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " D = 'game'  G = 'machine'  K = 'radio'  F = 'mirror'  The name of the key that has the value 'machine' is ",
+        "output": "G"
+    },
+    {
+        "prompt": " D = 'game'  G = 'machine'  K = 'radio'  F = 'mirror'  The name of the key that has the value 'radio' is ",
+        "output": "K"
+    },
+    {
+        "prompt": " D = 'game'  G = 'machine'  K = 'radio'  F = 'mirror'  The name of the key that has the value 'mirror' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " B = 'television'  E = 'bus'  H = 'brick'  I = 'boot'  The name of the key that has the value 'television' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'television'  E = 'bus'  H = 'brick'  I = 'boot'  The name of the key that has the value 'bus' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " B = 'television'  E = 'bus'  H = 'brick'  I = 'boot'  The name of the key that has the value 'brick' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " B = 'television'  E = 'bus'  H = 'brick'  I = 'boot'  The name of the key that has the value 'boot' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " B = 'tie'  H = 'paper'  F = 'engine'  A = 'cross'  The name of the key that has the value 'tie' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " B = 'tie'  H = 'paper'  F = 'engine'  A = 'cross'  The name of the key that has the value 'paper' is ",
+        "output": "H"
+    },
+    {
+        "prompt": " B = 'tie'  H = 'paper'  F = 'engine'  A = 'cross'  The name of the key that has the value 'engine' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " B = 'tie'  H = 'paper'  F = 'engine'  A = 'cross'  The name of the key that has the value 'cross' is ",
+        "output": "A"
+    },
+    {
+        "prompt": " C = 'key'  E = 'bus'  F = 'chemical'  B = 'cross'  The name of the key that has the value 'key' is ",
+        "output": "C"
+    },
+    {
+        "prompt": " C = 'key'  E = 'bus'  F = 'chemical'  B = 'cross'  The name of the key that has the value 'bus' is ",
+        "output": "E"
+    },
+    {
+        "prompt": " C = 'key'  E = 'bus'  F = 'chemical'  B = 'cross'  The name of the key that has the value 'chemical' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " C = 'key'  E = 'bus'  F = 'chemical'  B = 'cross'  The name of the key that has the value 'cross' is ",
+        "output": "B"
+    },
+    {
+        "prompt": " I = 'magazine'  F = 'flower'  D = 'rose'  J = 'radio'  The name of the key that has the value 'magazine' is ",
+        "output": "I"
+    },
+    {
+        "prompt": " I = 'magazine'  F = 'flower'  D = 'rose'  J = 'radio'  The name of the key that has the value 'flower' is ",
+        "output": "F"
+    },
+    {
+        "prompt": " I = 'magazine'  F = 'flower'  D = 'rose'  J = 'radio'  The name of the key that has the value 'rose' is ",
+        "output": "D"
+    },
+    {
+        "prompt": " I = 'magazine'  F = 'flower'  D = 'rose'  J = 'radio'  The name of the key that has the value 'radio' is ",
+        "output": "J"
+    }
+]

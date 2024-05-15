@@ -303,14 +303,15 @@ class HookedRootModule(nn.Module):
                     for hook_name, hp in self.hook_dict.items():
                         if name(hook_name):
                             hp.add_hook(hook, dir="fwd", level=self.context_level)
-            for name, hook in bwd_hooks:
-                if isinstance(name, str):
-                    self.mod_dict[name].add_hook(hook, dir="bwd", level=self.context_level)
-                else:
-                    # Otherwise, name is a Boolean function on names
-                    for hook_name, hp in self.hook_dict:  # type: ignore
-                        if name(hook_name):
-                            hp.add_hook(hook, dir="bwd", level=self.context_level)
+            if bwd_hooks != None:
+                for name, hook in bwd_hooks:
+                    if isinstance(name, str):
+                        self.mod_dict[name].add_hook(hook, dir="bwd", level=self.context_level)
+                    else:
+                        # Otherwise, name is a Boolean function on names
+                        for hook_name, hp in self.hook_dict:  # type: ignore
+                            if name(hook_name):
+                                hp.add_hook(hook, dir="bwd", level=self.context_level)
             yield self
         finally:
             if reset_hooks_end:
@@ -349,10 +350,10 @@ class HookedRootModule(nn.Module):
             If you want to use backward hooks, set `reset_hooks_end` to False, so the backward hooks
             remain active. This function only runs a forward pass.
         """
-        if len(bwd_hooks) > 0 and reset_hooks_end:
-            logging.warning(
-                "WARNING: Hooks will be reset at the end of run_with_hooks. This removes the backward hooks before a backward pass can occur."
-            )
+        # if len(bwd_hooks) > 0 and reset_hooks_end:
+        #     logging.warning(
+        #         "WARNING: Hooks will be reset at the end of run_with_hooks. This removes the backward hooks before a backward pass can occur."
+        #     )
 
         with self.hooks(fwd_hooks, bwd_hooks, reset_hooks_end, clear_contexts) as hooked_model:
             return hooked_model.forward(*model_args, **model_kwargs)
