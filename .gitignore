@@ -8,4 +8,6 @@ config.py
 
 logs/*
 
+patch_results/*
+
 .DS_Store
