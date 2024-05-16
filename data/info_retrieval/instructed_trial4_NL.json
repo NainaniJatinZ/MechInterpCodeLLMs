@@ -1,0 +1,3042 @@
+[
+    {
+        "prompt": "'J' has the disk. 'K' has the television. 'H' has the plant. 'C' has the guitar. The disk is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the disk. 'K' has the television. 'H' has the plant. 'C' has the guitar. The television is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'J' has the disk. 'K' has the television. 'H' has the plant. 'C' has the guitar. The plant is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'J' has the disk. 'K' has the television. 'H' has the plant. 'C' has the guitar. The guitar is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'H' has the map. 'C' has the watch. 'D' has the bill. 'K' has the shell. The map is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the map. 'C' has the watch. 'D' has the bill. 'K' has the shell. The watch is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'H' has the map. 'C' has the watch. 'D' has the bill. 'K' has the shell. The bill is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'H' has the map. 'C' has the watch. 'D' has the bill. 'K' has the shell. The shell is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'B' has the drink. 'C' has the suit. 'J' has the brick. 'I' has the cross. The drink is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the drink. 'C' has the suit. 'J' has the brick. 'I' has the cross. The suit is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'B' has the drink. 'C' has the suit. 'J' has the brick. 'I' has the cross. The brick is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'B' has the drink. 'C' has the suit. 'J' has the brick. 'I' has the cross. The cross is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the bag. 'F' has the game. 'A' has the flower. 'H' has the tie. The bag is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the bag. 'F' has the game. 'A' has the flower. 'H' has the tie. The game is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'I' has the bag. 'F' has the game. 'A' has the flower. 'H' has the tie. The flower is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'I' has the bag. 'F' has the game. 'A' has the flower. 'H' has the tie. The tie is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'D' has the meat. 'A' has the apple. 'I' has the coat. 'E' has the phone. The meat is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the meat. 'A' has the apple. 'I' has the coat. 'E' has the phone. The apple is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'D' has the meat. 'A' has the apple. 'I' has the coat. 'E' has the phone. The coat is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'D' has the meat. 'A' has the apple. 'I' has the coat. 'E' has the phone. The phone is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'G' has the bus. 'H' has the magazine. 'C' has the mirror. 'J' has the ring. The bus is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the bus. 'H' has the magazine. 'C' has the mirror. 'J' has the ring. The magazine is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'G' has the bus. 'H' has the magazine. 'C' has the mirror. 'J' has the ring. The mirror is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'G' has the bus. 'H' has the magazine. 'C' has the mirror. 'J' has the ring. The ring is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'K' has the book. 'I' has the pot. 'G' has the leaf. 'F' has the guitar. The book is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the book. 'I' has the pot. 'G' has the leaf. 'F' has the guitar. The pot is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'K' has the book. 'I' has the pot. 'G' has the leaf. 'F' has the guitar. The leaf is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'K' has the book. 'I' has the pot. 'G' has the leaf. 'F' has the guitar. The guitar is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'K' has the magnet. 'J' has the note. 'D' has the medicine. 'I' has the plane. The magnet is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the magnet. 'J' has the note. 'D' has the medicine. 'I' has the plane. The note is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'K' has the magnet. 'J' has the note. 'D' has the medicine. 'I' has the plane. The medicine is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'K' has the magnet. 'J' has the note. 'D' has the medicine. 'I' has the plane. The plane is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'H' has the fan. 'K' has the bell. 'E' has the key. 'I' has the tie. The fan is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the fan. 'K' has the bell. 'E' has the key. 'I' has the tie. The bell is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'H' has the fan. 'K' has the bell. 'E' has the key. 'I' has the tie. The key is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'H' has the fan. 'K' has the bell. 'E' has the key. 'I' has the tie. The tie is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'J' has the apple. 'K' has the fish. 'H' has the ticket. 'B' has the leaf. The apple is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the apple. 'K' has the fish. 'H' has the ticket. 'B' has the leaf. The fish is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'J' has the apple. 'K' has the fish. 'H' has the ticket. 'B' has the leaf. The ticket is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'J' has the apple. 'K' has the fish. 'H' has the ticket. 'B' has the leaf. The leaf is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'C' has the ring. 'G' has the car. 'D' has the stone. 'B' has the bill. The ring is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the ring. 'G' has the car. 'D' has the stone. 'B' has the bill. The car is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'C' has the ring. 'G' has the car. 'D' has the stone. 'B' has the bill. The stone is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'C' has the ring. 'G' has the car. 'D' has the stone. 'B' has the bill. The bill is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'E' has the map. 'H' has the guitar. 'J' has the bill. 'K' has the magnet. The map is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the map. 'H' has the guitar. 'J' has the bill. 'K' has the magnet. The guitar is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'E' has the map. 'H' has the guitar. 'J' has the bill. 'K' has the magnet. The bill is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'E' has the map. 'H' has the guitar. 'J' has the bill. 'K' has the magnet. The magnet is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the file. 'E' has the book. 'G' has the fish. 'J' has the mirror. The file is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the file. 'E' has the book. 'G' has the fish. 'J' has the mirror. The book is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'K' has the file. 'E' has the book. 'G' has the fish. 'J' has the mirror. The fish is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'K' has the file. 'E' has the book. 'G' has the fish. 'J' has the mirror. The mirror is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'F' has the bread. 'D' has the guitar. 'I' has the ticket. 'E' has the block. The bread is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the bread. 'D' has the guitar. 'I' has the ticket. 'E' has the block. The guitar is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'F' has the bread. 'D' has the guitar. 'I' has the ticket. 'E' has the block. The ticket is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'F' has the bread. 'D' has the guitar. 'I' has the ticket. 'E' has the block. The block is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'D' has the rose. 'J' has the document. 'A' has the ring. 'E' has the cup. The rose is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the rose. 'J' has the document. 'A' has the ring. 'E' has the cup. The document is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'D' has the rose. 'J' has the document. 'A' has the ring. 'E' has the cup. The ring is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'D' has the rose. 'J' has the document. 'A' has the ring. 'E' has the cup. The cup is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'K' has the radio. 'D' has the plate. 'J' has the coffee. 'H' has the bell. The radio is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the radio. 'D' has the plate. 'J' has the coffee. 'H' has the bell. The plate is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'K' has the radio. 'D' has the plate. 'J' has the coffee. 'H' has the bell. The coffee is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'K' has the radio. 'D' has the plate. 'J' has the coffee. 'H' has the bell. The bell is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'F' has the guitar. 'J' has the coat. 'E' has the book. 'I' has the stone. The guitar is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the guitar. 'J' has the coat. 'E' has the book. 'I' has the stone. The coat is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'F' has the guitar. 'J' has the coat. 'E' has the book. 'I' has the stone. The book is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'F' has the guitar. 'J' has the coat. 'E' has the book. 'I' has the stone. The stone is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'K' has the wire. 'B' has the chemical. 'C' has the sheet. 'I' has the drink. The wire is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the wire. 'B' has the chemical. 'C' has the sheet. 'I' has the drink. The chemical is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'K' has the wire. 'B' has the chemical. 'C' has the sheet. 'I' has the drink. The sheet is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'K' has the wire. 'B' has the chemical. 'C' has the sheet. 'I' has the drink. The drink is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'G' has the sheet. 'K' has the ticket. 'C' has the television. 'E' has the game. The sheet is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the sheet. 'K' has the ticket. 'C' has the television. 'E' has the game. The ticket is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'G' has the sheet. 'K' has the ticket. 'C' has the television. 'E' has the game. The television is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'G' has the sheet. 'K' has the ticket. 'C' has the television. 'E' has the game. The game is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'H' has the medicine. 'A' has the watch. 'B' has the plate. 'I' has the hat. The medicine is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the medicine. 'A' has the watch. 'B' has the plate. 'I' has the hat. The watch is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'H' has the medicine. 'A' has the watch. 'B' has the plate. 'I' has the hat. The plate is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'H' has the medicine. 'A' has the watch. 'B' has the plate. 'I' has the hat. The hat is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the map. 'J' has the picture. 'K' has the magazine. 'E' has the medicine. The map is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the map. 'J' has the picture. 'K' has the magazine. 'E' has the medicine. The picture is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'I' has the map. 'J' has the picture. 'K' has the magazine. 'E' has the medicine. The magazine is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'I' has the map. 'J' has the picture. 'K' has the magazine. 'E' has the medicine. The medicine is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'H' has the clock. 'G' has the disk. 'J' has the hat. 'E' has the key. The clock is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the clock. 'G' has the disk. 'J' has the hat. 'E' has the key. The disk is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'H' has the clock. 'G' has the disk. 'J' has the hat. 'E' has the key. The hat is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'H' has the clock. 'G' has the disk. 'J' has the hat. 'E' has the key. The key is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'I' has the cross. 'J' has the clock. 'G' has the branch. 'B' has the gift. The cross is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the cross. 'J' has the clock. 'G' has the branch. 'B' has the gift. The clock is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'I' has the cross. 'J' has the clock. 'G' has the branch. 'B' has the gift. The branch is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'I' has the cross. 'J' has the clock. 'G' has the branch. 'B' has the gift. The gift is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'K' has the sheet. 'B' has the bell. 'F' has the game. 'D' has the boot. The sheet is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the sheet. 'B' has the bell. 'F' has the game. 'D' has the boot. The bell is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'K' has the sheet. 'B' has the bell. 'F' has the game. 'D' has the boot. The game is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'K' has the sheet. 'B' has the bell. 'F' has the game. 'D' has the boot. The boot is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'H' has the newspaper. 'D' has the paper. 'J' has the fig. 'I' has the egg. The newspaper is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the newspaper. 'D' has the paper. 'J' has the fig. 'I' has the egg. The paper is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'H' has the newspaper. 'D' has the paper. 'J' has the fig. 'I' has the egg. The fig is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'H' has the newspaper. 'D' has the paper. 'J' has the fig. 'I' has the egg. The egg is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'E' has the brick. 'B' has the cup. 'J' has the shell. 'D' has the magazine. The brick is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the brick. 'B' has the cup. 'J' has the shell. 'D' has the magazine. The cup is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'E' has the brick. 'B' has the cup. 'J' has the shell. 'D' has the magazine. The shell is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'E' has the brick. 'B' has the cup. 'J' has the shell. 'D' has the magazine. The magazine is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'B' has the watch. 'H' has the bag. 'G' has the machine. 'C' has the glass. The watch is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the watch. 'H' has the bag. 'G' has the machine. 'C' has the glass. The bag is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'B' has the watch. 'H' has the bag. 'G' has the machine. 'C' has the glass. The machine is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'B' has the watch. 'H' has the bag. 'G' has the machine. 'C' has the glass. The glass is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'H' has the mirror. 'G' has the picture. 'J' has the car. 'K' has the medicine. The mirror is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the mirror. 'G' has the picture. 'J' has the car. 'K' has the medicine. The picture is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'H' has the mirror. 'G' has the picture. 'J' has the car. 'K' has the medicine. The car is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'H' has the mirror. 'G' has the picture. 'J' has the car. 'K' has the medicine. The medicine is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'C' has the bag. 'B' has the disk. 'F' has the key. 'E' has the brain. The bag is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the bag. 'B' has the disk. 'F' has the key. 'E' has the brain. The disk is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'C' has the bag. 'B' has the disk. 'F' has the key. 'E' has the brain. The key is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'C' has the bag. 'B' has the disk. 'F' has the key. 'E' has the brain. The brain is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'C' has the car. 'B' has the rose. 'A' has the cup. 'E' has the sheet. The car is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the car. 'B' has the rose. 'A' has the cup. 'E' has the sheet. The rose is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'C' has the car. 'B' has the rose. 'A' has the cup. 'E' has the sheet. The cup is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'C' has the car. 'B' has the rose. 'A' has the cup. 'E' has the sheet. The sheet is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'I' has the boot. 'H' has the ring. 'C' has the phone. 'A' has the leaf. The boot is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the boot. 'H' has the ring. 'C' has the phone. 'A' has the leaf. The ring is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'I' has the boot. 'H' has the ring. 'C' has the phone. 'A' has the leaf. The phone is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'I' has the boot. 'H' has the ring. 'C' has the phone. 'A' has the leaf. The leaf is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'F' has the coffee. 'G' has the phone. 'B' has the clock. 'D' has the crown. The coffee is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the coffee. 'G' has the phone. 'B' has the clock. 'D' has the crown. The phone is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'F' has the coffee. 'G' has the phone. 'B' has the clock. 'D' has the crown. The clock is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'F' has the coffee. 'G' has the phone. 'B' has the clock. 'D' has the crown. The crown is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'K' has the hat. 'B' has the coat. 'D' has the document. 'E' has the coffee. The hat is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the hat. 'B' has the coat. 'D' has the document. 'E' has the coffee. The coat is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'K' has the hat. 'B' has the coat. 'D' has the document. 'E' has the coffee. The document is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'K' has the hat. 'B' has the coat. 'D' has the document. 'E' has the coffee. The coffee is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'D' has the coffee. 'I' has the painting. 'H' has the ice. 'E' has the bill. The coffee is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the coffee. 'I' has the painting. 'H' has the ice. 'E' has the bill. The painting is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'D' has the coffee. 'I' has the painting. 'H' has the ice. 'E' has the bill. The ice is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'D' has the coffee. 'I' has the painting. 'H' has the ice. 'E' has the bill. The bill is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'I' has the car. 'G' has the gift. 'D' has the coffee. 'C' has the branch. The car is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the car. 'G' has the gift. 'D' has the coffee. 'C' has the branch. The gift is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'I' has the car. 'G' has the gift. 'D' has the coffee. 'C' has the branch. The coffee is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'I' has the car. 'G' has the gift. 'D' has the coffee. 'C' has the branch. The branch is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'B' has the tie. 'A' has the fish. 'J' has the map. 'E' has the chemical. The tie is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the tie. 'A' has the fish. 'J' has the map. 'E' has the chemical. The fish is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'B' has the tie. 'A' has the fish. 'J' has the map. 'E' has the chemical. The map is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'B' has the tie. 'A' has the fish. 'J' has the map. 'E' has the chemical. The chemical is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'B' has the newspaper. 'F' has the coat. 'H' has the shell. 'K' has the plate. The newspaper is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the newspaper. 'F' has the coat. 'H' has the shell. 'K' has the plate. The coat is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'B' has the newspaper. 'F' has the coat. 'H' has the shell. 'K' has the plate. The shell is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'B' has the newspaper. 'F' has the coat. 'H' has the shell. 'K' has the plate. The plate is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'F' has the bread. 'I' has the phone. 'K' has the bomb. 'D' has the boot. The bread is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the bread. 'I' has the phone. 'K' has the bomb. 'D' has the boot. The phone is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'F' has the bread. 'I' has the phone. 'K' has the bomb. 'D' has the boot. The bomb is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'F' has the bread. 'I' has the phone. 'K' has the bomb. 'D' has the boot. The boot is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'G' has the magazine. 'C' has the plane. 'K' has the drug. 'A' has the stone. The magazine is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the magazine. 'C' has the plane. 'K' has the drug. 'A' has the stone. The plane is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'G' has the magazine. 'C' has the plane. 'K' has the drug. 'A' has the stone. The drug is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'G' has the magazine. 'C' has the plane. 'K' has the drug. 'A' has the stone. The stone is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'G' has the wheel. 'D' has the boat. 'A' has the pot. 'B' has the game. The wheel is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the wheel. 'D' has the boat. 'A' has the pot. 'B' has the game. The boat is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'G' has the wheel. 'D' has the boat. 'A' has the pot. 'B' has the game. The pot is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'G' has the wheel. 'D' has the boat. 'A' has the pot. 'B' has the game. The game is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'C' has the ball. 'E' has the wheel. 'A' has the dress. 'H' has the engine. The ball is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the ball. 'E' has the wheel. 'A' has the dress. 'H' has the engine. The wheel is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'C' has the ball. 'E' has the wheel. 'A' has the dress. 'H' has the engine. The dress is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'C' has the ball. 'E' has the wheel. 'A' has the dress. 'H' has the engine. The engine is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'B' has the key. 'J' has the ticket. 'A' has the rock. 'F' has the tie. The key is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the key. 'J' has the ticket. 'A' has the rock. 'F' has the tie. The ticket is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'B' has the key. 'J' has the ticket. 'A' has the rock. 'F' has the tie. The rock is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'B' has the key. 'J' has the ticket. 'A' has the rock. 'F' has the tie. The tie is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'A' has the game. 'G' has the magazine. 'H' has the flower. 'J' has the map. The game is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the game. 'G' has the magazine. 'H' has the flower. 'J' has the map. The magazine is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'A' has the game. 'G' has the magazine. 'H' has the flower. 'J' has the map. The flower is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'A' has the game. 'G' has the magazine. 'H' has the flower. 'J' has the map. The map is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'I' has the map. 'A' has the ticket. 'E' has the phone. 'H' has the drug. The map is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the map. 'A' has the ticket. 'E' has the phone. 'H' has the drug. The ticket is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'I' has the map. 'A' has the ticket. 'E' has the phone. 'H' has the drug. The phone is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'I' has the map. 'A' has the ticket. 'E' has the phone. 'H' has the drug. The drug is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'A' has the bomb. 'E' has the ring. 'F' has the television. 'D' has the bread. The bomb is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the bomb. 'E' has the ring. 'F' has the television. 'D' has the bread. The ring is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'A' has the bomb. 'E' has the ring. 'F' has the television. 'D' has the bread. The television is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'A' has the bomb. 'E' has the ring. 'F' has the television. 'D' has the bread. The bread is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'G' has the wire. 'D' has the brain. 'A' has the block. 'H' has the boot. The wire is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the wire. 'D' has the brain. 'A' has the block. 'H' has the boot. The brain is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'G' has the wire. 'D' has the brain. 'A' has the block. 'H' has the boot. The block is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'G' has the wire. 'D' has the brain. 'A' has the block. 'H' has the boot. The boot is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the bell. 'K' has the train. 'C' has the map. 'A' has the car. The bell is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the bell. 'K' has the train. 'C' has the map. 'A' has the car. The train is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'H' has the bell. 'K' has the train. 'C' has the map. 'A' has the car. The map is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'H' has the bell. 'K' has the train. 'C' has the map. 'A' has the car. The car is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the guitar. 'G' has the ball. 'F' has the paper. 'B' has the bell. The guitar is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the guitar. 'G' has the ball. 'F' has the paper. 'B' has the bell. The ball is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'A' has the guitar. 'G' has the ball. 'F' has the paper. 'B' has the bell. The paper is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'A' has the guitar. 'G' has the ball. 'F' has the paper. 'B' has the bell. The bell is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'F' has the ball. 'B' has the newspaper. 'A' has the car. 'C' has the mirror. The ball is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the ball. 'B' has the newspaper. 'A' has the car. 'C' has the mirror. The newspaper is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'F' has the ball. 'B' has the newspaper. 'A' has the car. 'C' has the mirror. The car is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'F' has the ball. 'B' has the newspaper. 'A' has the car. 'C' has the mirror. The mirror is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'J' has the hat. 'H' has the pipe. 'A' has the file. 'I' has the bus. The hat is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the hat. 'H' has the pipe. 'A' has the file. 'I' has the bus. The pipe is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'J' has the hat. 'H' has the pipe. 'A' has the file. 'I' has the bus. The file is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'J' has the hat. 'H' has the pipe. 'A' has the file. 'I' has the bus. The bus is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'D' has the tie. 'F' has the picture. 'G' has the leaf. 'B' has the game. The tie is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the tie. 'F' has the picture. 'G' has the leaf. 'B' has the game. The picture is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'D' has the tie. 'F' has the picture. 'G' has the leaf. 'B' has the game. The leaf is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'D' has the tie. 'F' has the picture. 'G' has the leaf. 'B' has the game. The game is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'G' has the map. 'F' has the rock. 'E' has the bus. 'J' has the newspaper. The map is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the map. 'F' has the rock. 'E' has the bus. 'J' has the newspaper. The rock is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'G' has the map. 'F' has the rock. 'E' has the bus. 'J' has the newspaper. The bus is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'G' has the map. 'F' has the rock. 'E' has the bus. 'J' has the newspaper. The newspaper is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'A' has the card. 'E' has the chemical. 'F' has the wire. 'B' has the wheel. The card is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the card. 'E' has the chemical. 'F' has the wire. 'B' has the wheel. The chemical is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'A' has the card. 'E' has the chemical. 'F' has the wire. 'B' has the wheel. The wire is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'A' has the card. 'E' has the chemical. 'F' has the wire. 'B' has the wheel. The wheel is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'C' has the clock. 'F' has the boat. 'I' has the rose. 'J' has the glass. The clock is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the clock. 'F' has the boat. 'I' has the rose. 'J' has the glass. The boat is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'C' has the clock. 'F' has the boat. 'I' has the rose. 'J' has the glass. The rose is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'C' has the clock. 'F' has the boat. 'I' has the rose. 'J' has the glass. The glass is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'A' has the rose. 'K' has the paper. 'F' has the ball. 'D' has the dress. The rose is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the rose. 'K' has the paper. 'F' has the ball. 'D' has the dress. The paper is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'A' has the rose. 'K' has the paper. 'F' has the ball. 'D' has the dress. The ball is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'A' has the rose. 'K' has the paper. 'F' has the ball. 'D' has the dress. The dress is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'B' has the medicine. 'H' has the map. 'J' has the letter. 'A' has the paper. The medicine is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the medicine. 'H' has the map. 'J' has the letter. 'A' has the paper. The map is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'B' has the medicine. 'H' has the map. 'J' has the letter. 'A' has the paper. The letter is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'B' has the medicine. 'H' has the map. 'J' has the letter. 'A' has the paper. The paper is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'I' has the bomb. 'D' has the leaf. 'E' has the egg. 'C' has the map. The bomb is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the bomb. 'D' has the leaf. 'E' has the egg. 'C' has the map. The leaf is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'I' has the bomb. 'D' has the leaf. 'E' has the egg. 'C' has the map. The egg is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'I' has the bomb. 'D' has the leaf. 'E' has the egg. 'C' has the map. The map is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the bill. 'J' has the plant. 'D' has the boat. 'K' has the magnet. The bill is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the bill. 'J' has the plant. 'D' has the boat. 'K' has the magnet. The plant is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'C' has the bill. 'J' has the plant. 'D' has the boat. 'K' has the magnet. The boat is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'C' has the bill. 'J' has the plant. 'D' has the boat. 'K' has the magnet. The magnet is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'E' has the car. 'A' has the shell. 'G' has the game. 'F' has the magazine. The car is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the car. 'A' has the shell. 'G' has the game. 'F' has the magazine. The shell is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'E' has the car. 'A' has the shell. 'G' has the game. 'F' has the magazine. The game is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'E' has the car. 'A' has the shell. 'G' has the game. 'F' has the magazine. The magazine is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'D' has the file. 'F' has the guitar. 'G' has the watch. 'B' has the glass. The file is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the file. 'F' has the guitar. 'G' has the watch. 'B' has the glass. The guitar is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'D' has the file. 'F' has the guitar. 'G' has the watch. 'B' has the glass. The watch is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'D' has the file. 'F' has the guitar. 'G' has the watch. 'B' has the glass. The glass is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'C' has the magazine. 'F' has the chemical. 'D' has the creature. 'I' has the boot. The magazine is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the magazine. 'F' has the chemical. 'D' has the creature. 'I' has the boot. The chemical is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'C' has the magazine. 'F' has the chemical. 'D' has the creature. 'I' has the boot. The creature is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'C' has the magazine. 'F' has the chemical. 'D' has the creature. 'I' has the boot. The boot is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'B' has the radio. 'I' has the ticket. 'K' has the coffee. 'D' has the key. The radio is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the radio. 'I' has the ticket. 'K' has the coffee. 'D' has the key. The ticket is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'B' has the radio. 'I' has the ticket. 'K' has the coffee. 'D' has the key. The coffee is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'B' has the radio. 'I' has the ticket. 'K' has the coffee. 'D' has the key. The key is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'A' has the radio. 'C' has the plant. 'B' has the medicine. 'I' has the meat. The radio is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the radio. 'C' has the plant. 'B' has the medicine. 'I' has the meat. The plant is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'A' has the radio. 'C' has the plant. 'B' has the medicine. 'I' has the meat. The medicine is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'A' has the radio. 'C' has the plant. 'B' has the medicine. 'I' has the meat. The meat is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'J' has the clock. 'C' has the branch. 'E' has the meat. 'F' has the medicine. The clock is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the clock. 'C' has the branch. 'E' has the meat. 'F' has the medicine. The branch is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'J' has the clock. 'C' has the branch. 'E' has the meat. 'F' has the medicine. The meat is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'J' has the clock. 'C' has the branch. 'E' has the meat. 'F' has the medicine. The medicine is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'K' has the car. 'E' has the string. 'B' has the creature. 'F' has the suit. The car is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the car. 'E' has the string. 'B' has the creature. 'F' has the suit. The string is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'K' has the car. 'E' has the string. 'B' has the creature. 'F' has the suit. The creature is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'K' has the car. 'E' has the string. 'B' has the creature. 'F' has the suit. The suit is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'B' has the leaf. 'F' has the tea. 'A' has the crown. 'K' has the magnet. The leaf is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the leaf. 'F' has the tea. 'A' has the crown. 'K' has the magnet. The tea is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'B' has the leaf. 'F' has the tea. 'A' has the crown. 'K' has the magnet. The crown is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'B' has the leaf. 'F' has the tea. 'A' has the crown. 'K' has the magnet. The magnet is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'A' has the coat. 'C' has the pipe. 'F' has the document. 'E' has the boot. The coat is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the coat. 'C' has the pipe. 'F' has the document. 'E' has the boot. The pipe is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'A' has the coat. 'C' has the pipe. 'F' has the document. 'E' has the boot. The document is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'A' has the coat. 'C' has the pipe. 'F' has the document. 'E' has the boot. The boot is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'B' has the glass. 'J' has the document. 'H' has the creature. 'C' has the bag. The glass is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the glass. 'J' has the document. 'H' has the creature. 'C' has the bag. The document is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'B' has the glass. 'J' has the document. 'H' has the creature. 'C' has the bag. The creature is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'B' has the glass. 'J' has the document. 'H' has the creature. 'C' has the bag. The bag is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'I' has the drink. 'H' has the medicine. 'D' has the rock. 'K' has the ball. The drink is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the drink. 'H' has the medicine. 'D' has the rock. 'K' has the ball. The medicine is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'I' has the drink. 'H' has the medicine. 'D' has the rock. 'K' has the ball. The rock is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'I' has the drink. 'H' has the medicine. 'D' has the rock. 'K' has the ball. The ball is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'J' has the mirror. 'E' has the fig. 'A' has the ticket. 'G' has the ring. The mirror is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the mirror. 'E' has the fig. 'A' has the ticket. 'G' has the ring. The fig is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'J' has the mirror. 'E' has the fig. 'A' has the ticket. 'G' has the ring. The ticket is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'J' has the mirror. 'E' has the fig. 'A' has the ticket. 'G' has the ring. The ring is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the boot. 'B' has the glass. 'F' has the creature. 'A' has the bus. The boot is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the boot. 'B' has the glass. 'F' has the creature. 'A' has the bus. The glass is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'G' has the boot. 'B' has the glass. 'F' has the creature. 'A' has the bus. The creature is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'G' has the boot. 'B' has the glass. 'F' has the creature. 'A' has the bus. The bus is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the leaf. 'H' has the coat. 'C' has the wire. 'B' has the seed. The leaf is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the leaf. 'H' has the coat. 'C' has the wire. 'B' has the seed. The coat is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'A' has the leaf. 'H' has the coat. 'C' has the wire. 'B' has the seed. The wire is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'A' has the leaf. 'H' has the coat. 'C' has the wire. 'B' has the seed. The seed is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'A' has the brick. 'H' has the drug. 'I' has the letter. 'G' has the drink. The brick is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the brick. 'H' has the drug. 'I' has the letter. 'G' has the drink. The drug is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'A' has the brick. 'H' has the drug. 'I' has the letter. 'G' has the drink. The letter is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'A' has the brick. 'H' has the drug. 'I' has the letter. 'G' has the drink. The drink is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'D' has the apple. 'C' has the seed. 'G' has the ball. 'J' has the rock. The apple is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the apple. 'C' has the seed. 'G' has the ball. 'J' has the rock. The seed is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'D' has the apple. 'C' has the seed. 'G' has the ball. 'J' has the rock. The ball is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'D' has the apple. 'C' has the seed. 'G' has the ball. 'J' has the rock. The rock is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'D' has the seed. 'A' has the brick. 'C' has the wire. 'H' has the coat. The seed is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the seed. 'A' has the brick. 'C' has the wire. 'H' has the coat. The brick is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'D' has the seed. 'A' has the brick. 'C' has the wire. 'H' has the coat. The wire is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'D' has the seed. 'A' has the brick. 'C' has the wire. 'H' has the coat. The coat is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'B' has the stone. 'I' has the car. 'F' has the tie. 'A' has the seed. The stone is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the stone. 'I' has the car. 'F' has the tie. 'A' has the seed. The car is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'B' has the stone. 'I' has the car. 'F' has the tie. 'A' has the seed. The tie is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'B' has the stone. 'I' has the car. 'F' has the tie. 'A' has the seed. The seed is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'I' has the map. 'E' has the boot. 'K' has the apple. 'G' has the coat. The map is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the map. 'E' has the boot. 'K' has the apple. 'G' has the coat. The boot is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'I' has the map. 'E' has the boot. 'K' has the apple. 'G' has the coat. The apple is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'I' has the map. 'E' has the boot. 'K' has the apple. 'G' has the coat. The coat is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'C' has the brick. 'B' has the ball. 'I' has the magazine. 'J' has the shell. The brick is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the brick. 'B' has the ball. 'I' has the magazine. 'J' has the shell. The ball is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'C' has the brick. 'B' has the ball. 'I' has the magazine. 'J' has the shell. The magazine is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'C' has the brick. 'B' has the ball. 'I' has the magazine. 'J' has the shell. The shell is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'I' has the guitar. 'A' has the wheel. 'H' has the clock. 'B' has the radio. The guitar is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the guitar. 'A' has the wheel. 'H' has the clock. 'B' has the radio. The wheel is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'I' has the guitar. 'A' has the wheel. 'H' has the clock. 'B' has the radio. The clock is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'I' has the guitar. 'A' has the wheel. 'H' has the clock. 'B' has the radio. The radio is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'J' has the meat. 'B' has the card. 'E' has the pipe. 'H' has the disk. The meat is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the meat. 'B' has the card. 'E' has the pipe. 'H' has the disk. The card is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'J' has the meat. 'B' has the card. 'E' has the pipe. 'H' has the disk. The pipe is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'J' has the meat. 'B' has the card. 'E' has the pipe. 'H' has the disk. The disk is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'A' has the fig. 'D' has the crown. 'G' has the tea. 'K' has the engine. The fig is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the fig. 'D' has the crown. 'G' has the tea. 'K' has the engine. The crown is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'A' has the fig. 'D' has the crown. 'G' has the tea. 'K' has the engine. The tea is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'A' has the fig. 'D' has the crown. 'G' has the tea. 'K' has the engine. The engine is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'D' has the book. 'C' has the fish. 'H' has the paper. 'F' has the picture. The book is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the book. 'C' has the fish. 'H' has the paper. 'F' has the picture. The fish is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'D' has the book. 'C' has the fish. 'H' has the paper. 'F' has the picture. The paper is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'D' has the book. 'C' has the fish. 'H' has the paper. 'F' has the picture. The picture is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'A' has the creature. 'D' has the train. 'E' has the apple. 'J' has the crown. The creature is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the creature. 'D' has the train. 'E' has the apple. 'J' has the crown. The train is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'A' has the creature. 'D' has the train. 'E' has the apple. 'J' has the crown. The apple is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'A' has the creature. 'D' has the train. 'E' has the apple. 'J' has the crown. The crown is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'G' has the key. 'J' has the map. 'D' has the plant. 'A' has the medicine. The key is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the key. 'J' has the map. 'D' has the plant. 'A' has the medicine. The map is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'G' has the key. 'J' has the map. 'D' has the plant. 'A' has the medicine. The plant is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'G' has the key. 'J' has the map. 'D' has the plant. 'A' has the medicine. The medicine is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'G' has the cross. 'A' has the painting. 'E' has the newspaper. 'F' has the engine. The cross is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the cross. 'A' has the painting. 'E' has the newspaper. 'F' has the engine. The painting is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'G' has the cross. 'A' has the painting. 'E' has the newspaper. 'F' has the engine. The newspaper is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'G' has the cross. 'A' has the painting. 'E' has the newspaper. 'F' has the engine. The engine is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'J' has the coffee. 'A' has the tea. 'F' has the pipe. 'E' has the train. The coffee is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the coffee. 'A' has the tea. 'F' has the pipe. 'E' has the train. The tea is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'J' has the coffee. 'A' has the tea. 'F' has the pipe. 'E' has the train. The pipe is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'J' has the coffee. 'A' has the tea. 'F' has the pipe. 'E' has the train. The train is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'D' has the painting. 'A' has the ball. 'G' has the bag. 'F' has the pot. The painting is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the painting. 'A' has the ball. 'G' has the bag. 'F' has the pot. The ball is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'D' has the painting. 'A' has the ball. 'G' has the bag. 'F' has the pot. The bag is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'D' has the painting. 'A' has the ball. 'G' has the bag. 'F' has the pot. The pot is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'G' has the sheet. 'C' has the gift. 'I' has the book. 'A' has the crown. The sheet is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the sheet. 'C' has the gift. 'I' has the book. 'A' has the crown. The gift is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'G' has the sheet. 'C' has the gift. 'I' has the book. 'A' has the crown. The book is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'G' has the sheet. 'C' has the gift. 'I' has the book. 'A' has the crown. The crown is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'D' has the magnet. 'F' has the branch. 'E' has the shell. 'G' has the ball. The magnet is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the magnet. 'F' has the branch. 'E' has the shell. 'G' has the ball. The branch is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'D' has the magnet. 'F' has the branch. 'E' has the shell. 'G' has the ball. The shell is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'D' has the magnet. 'F' has the branch. 'E' has the shell. 'G' has the ball. The ball is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'E' has the glass. 'H' has the ice. 'C' has the drug. 'B' has the brain. The glass is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the glass. 'H' has the ice. 'C' has the drug. 'B' has the brain. The ice is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'E' has the glass. 'H' has the ice. 'C' has the drug. 'B' has the brain. The drug is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'E' has the glass. 'H' has the ice. 'C' has the drug. 'B' has the brain. The brain is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'D' has the picture. 'K' has the fan. 'E' has the painting. 'I' has the flower. The picture is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the picture. 'K' has the fan. 'E' has the painting. 'I' has the flower. The fan is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'D' has the picture. 'K' has the fan. 'E' has the painting. 'I' has the flower. The painting is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'D' has the picture. 'K' has the fan. 'E' has the painting. 'I' has the flower. The flower is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'J' has the bomb. 'C' has the bill. 'H' has the bag. 'K' has the mirror. The bomb is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the bomb. 'C' has the bill. 'H' has the bag. 'K' has the mirror. The bill is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'J' has the bomb. 'C' has the bill. 'H' has the bag. 'K' has the mirror. The bag is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'J' has the bomb. 'C' has the bill. 'H' has the bag. 'K' has the mirror. The mirror is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'A' has the phone. 'K' has the mirror. 'C' has the gift. 'I' has the tie. The phone is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the phone. 'K' has the mirror. 'C' has the gift. 'I' has the tie. The mirror is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'A' has the phone. 'K' has the mirror. 'C' has the gift. 'I' has the tie. The gift is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'A' has the phone. 'K' has the mirror. 'C' has the gift. 'I' has the tie. The tie is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'A' has the ticket. 'H' has the creature. 'F' has the fish. 'D' has the seed. The ticket is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the ticket. 'H' has the creature. 'F' has the fish. 'D' has the seed. The creature is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'A' has the ticket. 'H' has the creature. 'F' has the fish. 'D' has the seed. The fish is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'A' has the ticket. 'H' has the creature. 'F' has the fish. 'D' has the seed. The seed is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'A' has the bus. 'G' has the boot. 'J' has the pipe. 'I' has the drink. The bus is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the bus. 'G' has the boot. 'J' has the pipe. 'I' has the drink. The boot is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'A' has the bus. 'G' has the boot. 'J' has the pipe. 'I' has the drink. The pipe is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'A' has the bus. 'G' has the boot. 'J' has the pipe. 'I' has the drink. The drink is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the document. 'G' has the ticket. 'B' has the painting. 'A' has the car. The document is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the document. 'G' has the ticket. 'B' has the painting. 'A' has the car. The ticket is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'I' has the document. 'G' has the ticket. 'B' has the painting. 'A' has the car. The painting is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'I' has the document. 'G' has the ticket. 'B' has the painting. 'A' has the car. The car is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'E' has the suit. 'G' has the file. 'F' has the book. 'J' has the coffee. The suit is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the suit. 'G' has the file. 'F' has the book. 'J' has the coffee. The file is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'E' has the suit. 'G' has the file. 'F' has the book. 'J' has the coffee. The book is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'E' has the suit. 'G' has the file. 'F' has the book. 'J' has the coffee. The coffee is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'G' has the television. 'F' has the chemical. 'J' has the document. 'D' has the wire. The television is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the television. 'F' has the chemical. 'J' has the document. 'D' has the wire. The chemical is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'G' has the television. 'F' has the chemical. 'J' has the document. 'D' has the wire. The document is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'G' has the television. 'F' has the chemical. 'J' has the document. 'D' has the wire. The wire is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'K' has the magnet. 'J' has the rock. 'D' has the bread. 'I' has the wheel. The magnet is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the magnet. 'J' has the rock. 'D' has the bread. 'I' has the wheel. The rock is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'K' has the magnet. 'J' has the rock. 'D' has the bread. 'I' has the wheel. The bread is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'K' has the magnet. 'J' has the rock. 'D' has the bread. 'I' has the wheel. The wheel is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the ring. 'K' has the pipe. 'B' has the car. 'D' has the wire. The ring is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the ring. 'K' has the pipe. 'B' has the car. 'D' has the wire. The pipe is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'I' has the ring. 'K' has the pipe. 'B' has the car. 'D' has the wire. The car is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'I' has the ring. 'K' has the pipe. 'B' has the car. 'D' has the wire. The wire is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'I' has the computer. 'C' has the picture. 'E' has the boat. 'B' has the train. The computer is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the computer. 'C' has the picture. 'E' has the boat. 'B' has the train. The picture is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'I' has the computer. 'C' has the picture. 'E' has the boat. 'B' has the train. The boat is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'I' has the computer. 'C' has the picture. 'E' has the boat. 'B' has the train. The train is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'I' has the rose. 'E' has the wire. 'A' has the train. 'K' has the ball. The rose is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the rose. 'E' has the wire. 'A' has the train. 'K' has the ball. The wire is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'I' has the rose. 'E' has the wire. 'A' has the train. 'K' has the ball. The train is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'I' has the rose. 'E' has the wire. 'A' has the train. 'K' has the ball. The ball is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the chemical. 'J' has the branch. 'H' has the boat. 'B' has the glass. The chemical is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the chemical. 'J' has the branch. 'H' has the boat. 'B' has the glass. The branch is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'K' has the chemical. 'J' has the branch. 'H' has the boat. 'B' has the glass. The boat is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'K' has the chemical. 'J' has the branch. 'H' has the boat. 'B' has the glass. The glass is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'E' has the drink. 'A' has the fan. 'C' has the brain. 'H' has the shell. The drink is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the drink. 'A' has the fan. 'C' has the brain. 'H' has the shell. The fan is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'E' has the drink. 'A' has the fan. 'C' has the brain. 'H' has the shell. The brain is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'E' has the drink. 'A' has the fan. 'C' has the brain. 'H' has the shell. The shell is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'F' has the medicine. 'H' has the bill. 'I' has the wire. 'A' has the ring. The medicine is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the medicine. 'H' has the bill. 'I' has the wire. 'A' has the ring. The bill is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'F' has the medicine. 'H' has the bill. 'I' has the wire. 'A' has the ring. The wire is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'F' has the medicine. 'H' has the bill. 'I' has the wire. 'A' has the ring. The ring is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'C' has the creature. 'J' has the radio. 'E' has the boot. 'A' has the bus. The creature is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the creature. 'J' has the radio. 'E' has the boot. 'A' has the bus. The radio is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'C' has the creature. 'J' has the radio. 'E' has the boot. 'A' has the bus. The boot is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'C' has the creature. 'J' has the radio. 'E' has the boot. 'A' has the bus. The bus is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'D' has the tea. 'K' has the drink. 'G' has the painting. 'J' has the bell. The tea is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the tea. 'K' has the drink. 'G' has the painting. 'J' has the bell. The drink is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'D' has the tea. 'K' has the drink. 'G' has the painting. 'J' has the bell. The painting is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'D' has the tea. 'K' has the drink. 'G' has the painting. 'J' has the bell. The bell is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'E' has the brick. 'H' has the brain. 'J' has the seed. 'A' has the creature. The brick is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the brick. 'H' has the brain. 'J' has the seed. 'A' has the creature. The brain is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'E' has the brick. 'H' has the brain. 'J' has the seed. 'A' has the creature. The seed is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'E' has the brick. 'H' has the brain. 'J' has the seed. 'A' has the creature. The creature is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'F' has the sheet. 'G' has the bill. 'H' has the computer. 'K' has the ball. The sheet is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the sheet. 'G' has the bill. 'H' has the computer. 'K' has the ball. The bill is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'F' has the sheet. 'G' has the bill. 'H' has the computer. 'K' has the ball. The computer is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'F' has the sheet. 'G' has the bill. 'H' has the computer. 'K' has the ball. The ball is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'B' has the file. 'A' has the bill. 'D' has the rock. 'G' has the radio. The file is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the file. 'A' has the bill. 'D' has the rock. 'G' has the radio. The bill is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'B' has the file. 'A' has the bill. 'D' has the rock. 'G' has the radio. The rock is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'B' has the file. 'A' has the bill. 'D' has the rock. 'G' has the radio. The radio is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'B' has the creature. 'K' has the computer. 'D' has the train. 'I' has the bread. The creature is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the creature. 'K' has the computer. 'D' has the train. 'I' has the bread. The computer is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'B' has the creature. 'K' has the computer. 'D' has the train. 'I' has the bread. The train is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'B' has the creature. 'K' has the computer. 'D' has the train. 'I' has the bread. The bread is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'E' has the plane. 'F' has the fig. 'J' has the ice. 'I' has the string. The plane is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the plane. 'F' has the fig. 'J' has the ice. 'I' has the string. The fig is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'E' has the plane. 'F' has the fig. 'J' has the ice. 'I' has the string. The ice is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'E' has the plane. 'F' has the fig. 'J' has the ice. 'I' has the string. The string is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'D' has the guitar. 'F' has the apple. 'A' has the bag. 'E' has the leaf. The guitar is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the guitar. 'F' has the apple. 'A' has the bag. 'E' has the leaf. The apple is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'D' has the guitar. 'F' has the apple. 'A' has the bag. 'E' has the leaf. The bag is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'D' has the guitar. 'F' has the apple. 'A' has the bag. 'E' has the leaf. The leaf is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'G' has the gift. 'B' has the tie. 'D' has the apple. 'F' has the car. The gift is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the gift. 'B' has the tie. 'D' has the apple. 'F' has the car. The tie is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'G' has the gift. 'B' has the tie. 'D' has the apple. 'F' has the car. The apple is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'G' has the gift. 'B' has the tie. 'D' has the apple. 'F' has the car. The car is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the bomb. 'I' has the rose. 'K' has the tie. 'B' has the note. The bomb is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the bomb. 'I' has the rose. 'K' has the tie. 'B' has the note. The rose is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'F' has the bomb. 'I' has the rose. 'K' has the tie. 'B' has the note. The tie is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'F' has the bomb. 'I' has the rose. 'K' has the tie. 'B' has the note. The note is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'C' has the flower. 'K' has the seed. 'J' has the apple. 'B' has the string. The flower is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the flower. 'K' has the seed. 'J' has the apple. 'B' has the string. The seed is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'C' has the flower. 'K' has the seed. 'J' has the apple. 'B' has the string. The apple is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'C' has the flower. 'K' has the seed. 'J' has the apple. 'B' has the string. The string is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'C' has the egg. 'D' has the painting. 'I' has the hat. 'G' has the meat. The egg is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the egg. 'D' has the painting. 'I' has the hat. 'G' has the meat. The painting is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'C' has the egg. 'D' has the painting. 'I' has the hat. 'G' has the meat. The hat is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'C' has the egg. 'D' has the painting. 'I' has the hat. 'G' has the meat. The meat is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'A' has the tea. 'J' has the egg. 'F' has the magazine. 'H' has the picture. The tea is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the tea. 'J' has the egg. 'F' has the magazine. 'H' has the picture. The egg is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'A' has the tea. 'J' has the egg. 'F' has the magazine. 'H' has the picture. The magazine is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'A' has the tea. 'J' has the egg. 'F' has the magazine. 'H' has the picture. The picture is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'J' has the fig. 'H' has the pipe. 'F' has the game. 'K' has the radio. The fig is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the fig. 'H' has the pipe. 'F' has the game. 'K' has the radio. The pipe is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'J' has the fig. 'H' has the pipe. 'F' has the game. 'K' has the radio. The game is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'J' has the fig. 'H' has the pipe. 'F' has the game. 'K' has the radio. The radio is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'A' has the bag. 'H' has the magnet. 'B' has the guitar. 'I' has the gift. The bag is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the bag. 'H' has the magnet. 'B' has the guitar. 'I' has the gift. The magnet is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'A' has the bag. 'H' has the magnet. 'B' has the guitar. 'I' has the gift. The guitar is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'A' has the bag. 'H' has the magnet. 'B' has the guitar. 'I' has the gift. The gift is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'H' has the magazine. 'F' has the picture. 'G' has the cross. 'E' has the disk. The magazine is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the magazine. 'F' has the picture. 'G' has the cross. 'E' has the disk. The picture is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'H' has the magazine. 'F' has the picture. 'G' has the cross. 'E' has the disk. The cross is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'H' has the magazine. 'F' has the picture. 'G' has the cross. 'E' has the disk. The disk is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'I' has the note. 'G' has the cup. 'J' has the disk. 'D' has the letter. The note is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the note. 'G' has the cup. 'J' has the disk. 'D' has the letter. The cup is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'I' has the note. 'G' has the cup. 'J' has the disk. 'D' has the letter. The disk is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'I' has the note. 'G' has the cup. 'J' has the disk. 'D' has the letter. The letter is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the coat. 'J' has the document. 'B' has the disk. 'G' has the milk. The coat is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the coat. 'J' has the document. 'B' has the disk. 'G' has the milk. The document is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'D' has the coat. 'J' has the document. 'B' has the disk. 'G' has the milk. The disk is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'D' has the coat. 'J' has the document. 'B' has the disk. 'G' has the milk. The milk is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'B' has the plane. 'E' has the seed. 'H' has the brick. 'J' has the flower. The plane is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the plane. 'E' has the seed. 'H' has the brick. 'J' has the flower. The seed is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'B' has the plane. 'E' has the seed. 'H' has the brick. 'J' has the flower. The brick is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'B' has the plane. 'E' has the seed. 'H' has the brick. 'J' has the flower. The flower is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'D' has the document. 'K' has the pot. 'C' has the wheel. 'G' has the glass. The document is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the document. 'K' has the pot. 'C' has the wheel. 'G' has the glass. The pot is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'D' has the document. 'K' has the pot. 'C' has the wheel. 'G' has the glass. The wheel is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'D' has the document. 'K' has the pot. 'C' has the wheel. 'G' has the glass. The glass is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'F' has the car. 'J' has the brain. 'I' has the ring. 'K' has the camera. The car is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the car. 'J' has the brain. 'I' has the ring. 'K' has the camera. The brain is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'F' has the car. 'J' has the brain. 'I' has the ring. 'K' has the camera. The ring is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'F' has the car. 'J' has the brain. 'I' has the ring. 'K' has the camera. The camera is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'C' has the suit. 'K' has the magazine. 'F' has the guitar. 'H' has the bill. The suit is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the suit. 'K' has the magazine. 'F' has the guitar. 'H' has the bill. The magazine is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'C' has the suit. 'K' has the magazine. 'F' has the guitar. 'H' has the bill. The guitar is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'C' has the suit. 'K' has the magazine. 'F' has the guitar. 'H' has the bill. The bill is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'F' has the egg. 'C' has the mirror. 'B' has the key. 'I' has the bell. The egg is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the egg. 'C' has the mirror. 'B' has the key. 'I' has the bell. The mirror is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'F' has the egg. 'C' has the mirror. 'B' has the key. 'I' has the bell. The key is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'F' has the egg. 'C' has the mirror. 'B' has the key. 'I' has the bell. The bell is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'A' has the fig. 'H' has the medicine. 'G' has the ball. 'F' has the pot. The fig is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the fig. 'H' has the medicine. 'G' has the ball. 'F' has the pot. The medicine is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'A' has the fig. 'H' has the medicine. 'G' has the ball. 'F' has the pot. The ball is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'A' has the fig. 'H' has the medicine. 'G' has the ball. 'F' has the pot. The pot is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'H' has the rose. 'F' has the bomb. 'E' has the cup. 'I' has the milk. The rose is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the rose. 'F' has the bomb. 'E' has the cup. 'I' has the milk. The bomb is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'H' has the rose. 'F' has the bomb. 'E' has the cup. 'I' has the milk. The cup is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'H' has the rose. 'F' has the bomb. 'E' has the cup. 'I' has the milk. The milk is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'A' has the disk. 'I' has the bomb. 'K' has the newspaper. 'H' has the coat. The disk is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the disk. 'I' has the bomb. 'K' has the newspaper. 'H' has the coat. The bomb is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'A' has the disk. 'I' has the bomb. 'K' has the newspaper. 'H' has the coat. The newspaper is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'A' has the disk. 'I' has the bomb. 'K' has the newspaper. 'H' has the coat. The coat is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the television. 'K' has the file. 'C' has the magnet. 'G' has the phone. The television is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the television. 'K' has the file. 'C' has the magnet. 'G' has the phone. The file is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'H' has the television. 'K' has the file. 'C' has the magnet. 'G' has the phone. The magnet is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'H' has the television. 'K' has the file. 'C' has the magnet. 'G' has the phone. The phone is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the dress. 'A' has the ice. 'K' has the sheet. 'I' has the clock. The dress is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the dress. 'A' has the ice. 'K' has the sheet. 'I' has the clock. The ice is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'G' has the dress. 'A' has the ice. 'K' has the sheet. 'I' has the clock. The sheet is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'G' has the dress. 'A' has the ice. 'K' has the sheet. 'I' has the clock. The clock is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'J' has the drug. 'B' has the bag. 'I' has the card. 'G' has the file. The drug is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the drug. 'B' has the bag. 'I' has the card. 'G' has the file. The bag is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'J' has the drug. 'B' has the bag. 'I' has the card. 'G' has the file. The card is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'J' has the drug. 'B' has the bag. 'I' has the card. 'G' has the file. The file is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'H' has the card. 'D' has the brick. 'K' has the bomb. 'C' has the plate. The card is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the card. 'D' has the brick. 'K' has the bomb. 'C' has the plate. The brick is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'H' has the card. 'D' has the brick. 'K' has the bomb. 'C' has the plate. The bomb is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'H' has the card. 'D' has the brick. 'K' has the bomb. 'C' has the plate. The plate is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'K' has the key. 'F' has the train. 'H' has the milk. 'A' has the chemical. The key is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the key. 'F' has the train. 'H' has the milk. 'A' has the chemical. The train is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'K' has the key. 'F' has the train. 'H' has the milk. 'A' has the chemical. The milk is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'K' has the key. 'F' has the train. 'H' has the milk. 'A' has the chemical. The chemical is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'D' has the book. 'C' has the radio. 'F' has the ice. 'J' has the string. The book is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the book. 'C' has the radio. 'F' has the ice. 'J' has the string. The radio is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'D' has the book. 'C' has the radio. 'F' has the ice. 'J' has the string. The ice is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'D' has the book. 'C' has the radio. 'F' has the ice. 'J' has the string. The string is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the radio. 'G' has the block. 'E' has the flower. 'H' has the stone. The radio is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the radio. 'G' has the block. 'E' has the flower. 'H' has the stone. The block is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'J' has the radio. 'G' has the block. 'E' has the flower. 'H' has the stone. The flower is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'J' has the radio. 'G' has the block. 'E' has the flower. 'H' has the stone. The stone is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'A' has the picture. 'J' has the disk. 'G' has the gift. 'K' has the car. The picture is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the picture. 'J' has the disk. 'G' has the gift. 'K' has the car. The disk is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'A' has the picture. 'J' has the disk. 'G' has the gift. 'K' has the car. The gift is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'A' has the picture. 'J' has the disk. 'G' has the gift. 'K' has the car. The car is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'H' has the magazine. 'G' has the creature. 'A' has the stone. 'K' has the bill. The magazine is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the magazine. 'G' has the creature. 'A' has the stone. 'K' has the bill. The creature is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'H' has the magazine. 'G' has the creature. 'A' has the stone. 'K' has the bill. The stone is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'H' has the magazine. 'G' has the creature. 'A' has the stone. 'K' has the bill. The bill is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'E' has the cross. 'B' has the glass. 'C' has the brick. 'H' has the seed. The cross is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the cross. 'B' has the glass. 'C' has the brick. 'H' has the seed. The glass is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'E' has the cross. 'B' has the glass. 'C' has the brick. 'H' has the seed. The brick is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'E' has the cross. 'B' has the glass. 'C' has the brick. 'H' has the seed. The seed is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'I' has the plane. 'C' has the magnet. 'K' has the newspaper. 'D' has the dress. The plane is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the plane. 'C' has the magnet. 'K' has the newspaper. 'D' has the dress. The magnet is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'I' has the plane. 'C' has the magnet. 'K' has the newspaper. 'D' has the dress. The newspaper is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'I' has the plane. 'C' has the magnet. 'K' has the newspaper. 'D' has the dress. The dress is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'K' has the string. 'I' has the game. 'B' has the fan. 'C' has the watch. The string is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the string. 'I' has the game. 'B' has the fan. 'C' has the watch. The game is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'K' has the string. 'I' has the game. 'B' has the fan. 'C' has the watch. The fan is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'K' has the string. 'I' has the game. 'B' has the fan. 'C' has the watch. The watch is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'I' has the creature. 'D' has the key. 'J' has the wheel. 'A' has the boat. The creature is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the creature. 'D' has the key. 'J' has the wheel. 'A' has the boat. The key is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'I' has the creature. 'D' has the key. 'J' has the wheel. 'A' has the boat. The wheel is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'I' has the creature. 'D' has the key. 'J' has the wheel. 'A' has the boat. The boat is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'K' has the brick. 'F' has the creature. 'G' has the television. 'I' has the guitar. The brick is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the brick. 'F' has the creature. 'G' has the television. 'I' has the guitar. The creature is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'K' has the brick. 'F' has the creature. 'G' has the television. 'I' has the guitar. The television is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'K' has the brick. 'F' has the creature. 'G' has the television. 'I' has the guitar. The guitar is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the bell. 'E' has the computer. 'C' has the milk. 'B' has the rock. The bell is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the bell. 'E' has the computer. 'C' has the milk. 'B' has the rock. The computer is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'I' has the bell. 'E' has the computer. 'C' has the milk. 'B' has the rock. The milk is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'I' has the bell. 'E' has the computer. 'C' has the milk. 'B' has the rock. The rock is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'I' has the painting. 'B' has the train. 'C' has the clock. 'D' has the egg. The painting is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the painting. 'B' has the train. 'C' has the clock. 'D' has the egg. The train is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'I' has the painting. 'B' has the train. 'C' has the clock. 'D' has the egg. The clock is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'I' has the painting. 'B' has the train. 'C' has the clock. 'D' has the egg. The egg is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the seed. 'B' has the ticket. 'C' has the note. 'I' has the letter. The seed is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the seed. 'B' has the ticket. 'C' has the note. 'I' has the letter. The ticket is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'D' has the seed. 'B' has the ticket. 'C' has the note. 'I' has the letter. The note is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'D' has the seed. 'B' has the ticket. 'C' has the note. 'I' has the letter. The letter is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'A' has the bread. 'F' has the seed. 'E' has the ball. 'B' has the guitar. The bread is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the bread. 'F' has the seed. 'E' has the ball. 'B' has the guitar. The seed is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'A' has the bread. 'F' has the seed. 'E' has the ball. 'B' has the guitar. The ball is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'A' has the bread. 'F' has the seed. 'E' has the ball. 'B' has the guitar. The guitar is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'F' has the rose. 'B' has the plate. 'J' has the camera. 'C' has the coat. The rose is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the rose. 'B' has the plate. 'J' has the camera. 'C' has the coat. The plate is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'F' has the rose. 'B' has the plate. 'J' has the camera. 'C' has the coat. The camera is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'F' has the rose. 'B' has the plate. 'J' has the camera. 'C' has the coat. The coat is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'K' has the string. 'H' has the crown. 'D' has the drug. 'G' has the pot. The string is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the string. 'H' has the crown. 'D' has the drug. 'G' has the pot. The crown is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'K' has the string. 'H' has the crown. 'D' has the drug. 'G' has the pot. The drug is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'K' has the string. 'H' has the crown. 'D' has the drug. 'G' has the pot. The pot is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'F' has the ball. 'I' has the wire. 'A' has the guitar. 'H' has the document. The ball is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the ball. 'I' has the wire. 'A' has the guitar. 'H' has the document. The wire is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'F' has the ball. 'I' has the wire. 'A' has the guitar. 'H' has the document. The guitar is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'F' has the ball. 'I' has the wire. 'A' has the guitar. 'H' has the document. The document is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'C' has the shell. 'K' has the medicine. 'J' has the tea. 'A' has the watch. The shell is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the shell. 'K' has the medicine. 'J' has the tea. 'A' has the watch. The medicine is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'C' has the shell. 'K' has the medicine. 'J' has the tea. 'A' has the watch. The tea is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'C' has the shell. 'K' has the medicine. 'J' has the tea. 'A' has the watch. The watch is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'K' has the milk. 'I' has the magazine. 'F' has the train. 'A' has the cross. The milk is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the milk. 'I' has the magazine. 'F' has the train. 'A' has the cross. The magazine is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'K' has the milk. 'I' has the magazine. 'F' has the train. 'A' has the cross. The train is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'K' has the milk. 'I' has the magazine. 'F' has the train. 'A' has the cross. The cross is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'G' has the paper. 'I' has the milk. 'E' has the bill. 'C' has the suit. The paper is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the paper. 'I' has the milk. 'E' has the bill. 'C' has the suit. The milk is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'G' has the paper. 'I' has the milk. 'E' has the bill. 'C' has the suit. The bill is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'G' has the paper. 'I' has the milk. 'E' has the bill. 'C' has the suit. The suit is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'F' has the chemical. 'H' has the apple. 'D' has the camera. 'B' has the guitar. The chemical is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the chemical. 'H' has the apple. 'D' has the camera. 'B' has the guitar. The apple is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'F' has the chemical. 'H' has the apple. 'D' has the camera. 'B' has the guitar. The camera is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'F' has the chemical. 'H' has the apple. 'D' has the camera. 'B' has the guitar. The guitar is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'F' has the watch. 'H' has the fan. 'B' has the fish. 'G' has the drug. The watch is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the watch. 'H' has the fan. 'B' has the fish. 'G' has the drug. The fan is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'F' has the watch. 'H' has the fan. 'B' has the fish. 'G' has the drug. The fish is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'F' has the watch. 'H' has the fan. 'B' has the fish. 'G' has the drug. The drug is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'D' has the wire. 'I' has the fig. 'J' has the document. 'E' has the magazine. The wire is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the wire. 'I' has the fig. 'J' has the document. 'E' has the magazine. The fig is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'D' has the wire. 'I' has the fig. 'J' has the document. 'E' has the magazine. The document is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'D' has the wire. 'I' has the fig. 'J' has the document. 'E' has the magazine. The magazine is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'J' has the rose. 'I' has the train. 'C' has the guitar. 'E' has the engine. The rose is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the rose. 'I' has the train. 'C' has the guitar. 'E' has the engine. The train is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'J' has the rose. 'I' has the train. 'C' has the guitar. 'E' has the engine. The guitar is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'J' has the rose. 'I' has the train. 'C' has the guitar. 'E' has the engine. The engine is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'D' has the chemical. 'J' has the watch. 'B' has the tea. 'I' has the drink. The chemical is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the chemical. 'J' has the watch. 'B' has the tea. 'I' has the drink. The watch is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'D' has the chemical. 'J' has the watch. 'B' has the tea. 'I' has the drink. The tea is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'D' has the chemical. 'J' has the watch. 'B' has the tea. 'I' has the drink. The drink is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the dress. 'A' has the boot. 'H' has the television. 'K' has the computer. The dress is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the dress. 'A' has the boot. 'H' has the television. 'K' has the computer. The boot is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'I' has the dress. 'A' has the boot. 'H' has the television. 'K' has the computer. The television is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'I' has the dress. 'A' has the boot. 'H' has the television. 'K' has the computer. The computer is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'I' has the drug. 'H' has the stone. 'D' has the ice. 'J' has the computer. The drug is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the drug. 'H' has the stone. 'D' has the ice. 'J' has the computer. The stone is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'I' has the drug. 'H' has the stone. 'D' has the ice. 'J' has the computer. The ice is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'I' has the drug. 'H' has the stone. 'D' has the ice. 'J' has the computer. The computer is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'E' has the computer. 'F' has the block. 'G' has the drink. 'I' has the fish. The computer is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the computer. 'F' has the block. 'G' has the drink. 'I' has the fish. The block is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'E' has the computer. 'F' has the block. 'G' has the drink. 'I' has the fish. The drink is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'E' has the computer. 'F' has the block. 'G' has the drink. 'I' has the fish. The fish is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'B' has the stone. 'H' has the watch. 'C' has the brick. 'A' has the ice. The stone is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the stone. 'H' has the watch. 'C' has the brick. 'A' has the ice. The watch is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'B' has the stone. 'H' has the watch. 'C' has the brick. 'A' has the ice. The brick is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'B' has the stone. 'H' has the watch. 'C' has the brick. 'A' has the ice. The ice is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the flower. 'C' has the painting. 'K' has the plant. 'H' has the engine. The flower is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the flower. 'C' has the painting. 'K' has the plant. 'H' has the engine. The painting is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'A' has the flower. 'C' has the painting. 'K' has the plant. 'H' has the engine. The plant is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'A' has the flower. 'C' has the painting. 'K' has the plant. 'H' has the engine. The engine is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'C' has the glass. 'I' has the gift. 'F' has the shell. 'J' has the map. The glass is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the glass. 'I' has the gift. 'F' has the shell. 'J' has the map. The gift is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'C' has the glass. 'I' has the gift. 'F' has the shell. 'J' has the map. The shell is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'C' has the glass. 'I' has the gift. 'F' has the shell. 'J' has the map. The map is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'A' has the game. 'J' has the picture. 'G' has the rose. 'I' has the tie. The game is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the game. 'J' has the picture. 'G' has the rose. 'I' has the tie. The picture is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'A' has the game. 'J' has the picture. 'G' has the rose. 'I' has the tie. The rose is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'A' has the game. 'J' has the picture. 'G' has the rose. 'I' has the tie. The tie is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'C' has the painting. 'A' has the dress. 'D' has the apple. 'H' has the chemical. The painting is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the painting. 'A' has the dress. 'D' has the apple. 'H' has the chemical. The dress is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'C' has the painting. 'A' has the dress. 'D' has the apple. 'H' has the chemical. The apple is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'C' has the painting. 'A' has the dress. 'D' has the apple. 'H' has the chemical. The chemical is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'D' has the note. 'J' has the mirror. 'G' has the magazine. 'F' has the phone. The note is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the note. 'J' has the mirror. 'G' has the magazine. 'F' has the phone. The mirror is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'D' has the note. 'J' has the mirror. 'G' has the magazine. 'F' has the phone. The magazine is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'D' has the note. 'J' has the mirror. 'G' has the magazine. 'F' has the phone. The phone is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'G' has the mirror. 'I' has the ice. 'H' has the newspaper. 'D' has the plant. The mirror is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the mirror. 'I' has the ice. 'H' has the newspaper. 'D' has the plant. The ice is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'G' has the mirror. 'I' has the ice. 'H' has the newspaper. 'D' has the plant. The newspaper is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'G' has the mirror. 'I' has the ice. 'H' has the newspaper. 'D' has the plant. The plant is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'C' has the ice. 'G' has the fish. 'H' has the rock. 'B' has the train. The ice is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the ice. 'G' has the fish. 'H' has the rock. 'B' has the train. The fish is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'C' has the ice. 'G' has the fish. 'H' has the rock. 'B' has the train. The rock is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'C' has the ice. 'G' has the fish. 'H' has the rock. 'B' has the train. The train is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'J' has the suit. 'D' has the file. 'C' has the camera. 'H' has the ice. The suit is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the suit. 'D' has the file. 'C' has the camera. 'H' has the ice. The file is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'J' has the suit. 'D' has the file. 'C' has the camera. 'H' has the ice. The camera is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'J' has the suit. 'D' has the file. 'C' has the camera. 'H' has the ice. The ice is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'G' has the egg. 'K' has the game. 'B' has the fig. 'H' has the apple. The egg is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the egg. 'K' has the game. 'B' has the fig. 'H' has the apple. The game is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'G' has the egg. 'K' has the game. 'B' has the fig. 'H' has the apple. The fig is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'G' has the egg. 'K' has the game. 'B' has the fig. 'H' has the apple. The apple is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'C' has the bomb. 'E' has the bus. 'H' has the rock. 'J' has the mirror. The bomb is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the bomb. 'E' has the bus. 'H' has the rock. 'J' has the mirror. The bus is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'C' has the bomb. 'E' has the bus. 'H' has the rock. 'J' has the mirror. The rock is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'C' has the bomb. 'E' has the bus. 'H' has the rock. 'J' has the mirror. The mirror is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'C' has the clock. 'G' has the disk. 'H' has the paper. 'A' has the milk. The clock is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the clock. 'G' has the disk. 'H' has the paper. 'A' has the milk. The disk is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'C' has the clock. 'G' has the disk. 'H' has the paper. 'A' has the milk. The paper is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'C' has the clock. 'G' has the disk. 'H' has the paper. 'A' has the milk. The milk is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'B' has the picture. 'F' has the sheet. 'K' has the machine. 'E' has the camera. The picture is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the picture. 'F' has the sheet. 'K' has the machine. 'E' has the camera. The sheet is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'B' has the picture. 'F' has the sheet. 'K' has the machine. 'E' has the camera. The machine is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'B' has the picture. 'F' has the sheet. 'K' has the machine. 'E' has the camera. The camera is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'H' has the plane. 'B' has the guitar. 'A' has the phone. 'F' has the watch. The plane is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'H' has the plane. 'B' has the guitar. 'A' has the phone. 'F' has the watch. The guitar is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'H' has the plane. 'B' has the guitar. 'A' has the phone. 'F' has the watch. The phone is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'H' has the plane. 'B' has the guitar. 'A' has the phone. 'F' has the watch. The watch is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'J' has the game. 'K' has the letter. 'H' has the hat. 'G' has the plant. The game is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'J' has the game. 'K' has the letter. 'H' has the hat. 'G' has the plant. The letter is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'J' has the game. 'K' has the letter. 'H' has the hat. 'G' has the plant. The hat is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'J' has the game. 'K' has the letter. 'H' has the hat. 'G' has the plant. The plant is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'F' has the ball. 'A' has the creature. 'E' has the train. 'H' has the cup. The ball is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'F' has the ball. 'A' has the creature. 'E' has the train. 'H' has the cup. The creature is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'F' has the ball. 'A' has the creature. 'E' has the train. 'H' has the cup. The train is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'F' has the ball. 'A' has the creature. 'E' has the train. 'H' has the cup. The cup is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'G' has the seed. 'J' has the block. 'E' has the book. 'C' has the coat. The seed is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'G' has the seed. 'J' has the block. 'E' has the book. 'C' has the coat. The block is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'G' has the seed. 'J' has the block. 'E' has the book. 'C' has the coat. The book is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'G' has the seed. 'J' has the block. 'E' has the book. 'C' has the coat. The coat is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'D' has the cup. 'F' has the creature. 'H' has the string. 'K' has the seed. The cup is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the cup. 'F' has the creature. 'H' has the string. 'K' has the seed. The creature is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'D' has the cup. 'F' has the creature. 'H' has the string. 'K' has the seed. The string is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'D' has the cup. 'F' has the creature. 'H' has the string. 'K' has the seed. The seed is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the key. 'H' has the leaf. 'J' has the flower. 'C' has the magnet. The key is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'K' has the key. 'H' has the leaf. 'J' has the flower. 'C' has the magnet. The leaf is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'K' has the key. 'H' has the leaf. 'J' has the flower. 'C' has the magnet. The flower is in '",
+        "output": "J"
+    },
+    {
+        "prompt": "'K' has the key. 'H' has the leaf. 'J' has the flower. 'C' has the magnet. The magnet is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'E' has the plate. 'F' has the pot. 'B' has the block. 'D' has the magnet. The plate is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the plate. 'F' has the pot. 'B' has the block. 'D' has the magnet. The pot is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'E' has the plate. 'F' has the pot. 'B' has the block. 'D' has the magnet. The block is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'E' has the plate. 'F' has the pot. 'B' has the block. 'D' has the magnet. The magnet is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'A' has the cup. 'I' has the plate. 'G' has the computer. 'H' has the rock. The cup is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'A' has the cup. 'I' has the plate. 'G' has the computer. 'H' has the rock. The plate is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'A' has the cup. 'I' has the plate. 'G' has the computer. 'H' has the rock. The computer is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'A' has the cup. 'I' has the plate. 'G' has the computer. 'H' has the rock. The rock is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'E' has the ring. 'H' has the meat. 'C' has the wheel. 'K' has the fan. The ring is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'E' has the ring. 'H' has the meat. 'C' has the wheel. 'K' has the fan. The meat is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'E' has the ring. 'H' has the meat. 'C' has the wheel. 'K' has the fan. The wheel is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'E' has the ring. 'H' has the meat. 'C' has the wheel. 'K' has the fan. The fan is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'D' has the game. 'G' has the machine. 'K' has the radio. 'F' has the mirror. The game is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'D' has the game. 'G' has the machine. 'K' has the radio. 'F' has the mirror. The machine is in '",
+        "output": "G"
+    },
+    {
+        "prompt": "'D' has the game. 'G' has the machine. 'K' has the radio. 'F' has the mirror. The radio is in '",
+        "output": "K"
+    },
+    {
+        "prompt": "'D' has the game. 'G' has the machine. 'K' has the radio. 'F' has the mirror. The mirror is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'B' has the television. 'E' has the bus. 'H' has the brick. 'I' has the boot. The television is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the television. 'E' has the bus. 'H' has the brick. 'I' has the boot. The bus is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'B' has the television. 'E' has the bus. 'H' has the brick. 'I' has the boot. The brick is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'B' has the television. 'E' has the bus. 'H' has the brick. 'I' has the boot. The boot is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'B' has the tie. 'H' has the paper. 'F' has the engine. 'A' has the cross. The tie is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'B' has the tie. 'H' has the paper. 'F' has the engine. 'A' has the cross. The paper is in '",
+        "output": "H"
+    },
+    {
+        "prompt": "'B' has the tie. 'H' has the paper. 'F' has the engine. 'A' has the cross. The engine is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'B' has the tie. 'H' has the paper. 'F' has the engine. 'A' has the cross. The cross is in '",
+        "output": "A"
+    },
+    {
+        "prompt": "'C' has the key. 'E' has the bus. 'F' has the chemical. 'B' has the cross. The key is in '",
+        "output": "C"
+    },
+    {
+        "prompt": "'C' has the key. 'E' has the bus. 'F' has the chemical. 'B' has the cross. The bus is in '",
+        "output": "E"
+    },
+    {
+        "prompt": "'C' has the key. 'E' has the bus. 'F' has the chemical. 'B' has the cross. The chemical is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'C' has the key. 'E' has the bus. 'F' has the chemical. 'B' has the cross. The cross is in '",
+        "output": "B"
+    },
+    {
+        "prompt": "'I' has the magazine. 'F' has the flower. 'D' has the rose. 'J' has the radio. The magazine is in '",
+        "output": "I"
+    },
+    {
+        "prompt": "'I' has the magazine. 'F' has the flower. 'D' has the rose. 'J' has the radio. The flower is in '",
+        "output": "F"
+    },
+    {
+        "prompt": "'I' has the magazine. 'F' has the flower. 'D' has the rose. 'J' has the radio. The rose is in '",
+        "output": "D"
+    },
+    {
+        "prompt": "'I' has the magazine. 'F' has the flower. 'D' has the rose. 'J' has the radio. The radio is in '",
+        "output": "J"
+    }
+]

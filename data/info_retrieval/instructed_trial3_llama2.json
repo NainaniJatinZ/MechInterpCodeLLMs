@@ -1,0 +1,642 @@
+[
+    {
+        "prompt": "box 'J' = 'magazine'. box 'C' = 'bell'. box 'F' = 'file'. box 'D' = 'clock'.  The 'magazine' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'J' = 'magazine'. box 'C' = 'bell'. box 'F' = 'file'. box 'D' = 'clock'.  The 'bell' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'J' = 'magazine'. box 'C' = 'bell'. box 'F' = 'file'. box 'D' = 'clock'.  The 'file' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'J' = 'magazine'. box 'C' = 'bell'. box 'F' = 'file'. box 'D' = 'clock'.  The 'clock' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'C' = 'bomb'. box 'J' = 'magnet'. box 'I' = 'plane'. box 'D' = 'leaf'.  The 'bomb' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'C' = 'bomb'. box 'J' = 'magnet'. box 'I' = 'plane'. box 'D' = 'leaf'.  The 'magnet' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'C' = 'bomb'. box 'J' = 'magnet'. box 'I' = 'plane'. box 'D' = 'leaf'.  The 'plane' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'C' = 'bomb'. box 'J' = 'magnet'. box 'I' = 'plane'. box 'D' = 'leaf'.  The 'leaf' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'J' = 'bomb'. box 'D' = 'gift'. box 'A' = 'magazine'. box 'B' = 'string'.  The 'bomb' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'J' = 'bomb'. box 'D' = 'gift'. box 'A' = 'magazine'. box 'B' = 'string'.  The 'gift' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'J' = 'bomb'. box 'D' = 'gift'. box 'A' = 'magazine'. box 'B' = 'string'.  The 'magazine' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'J' = 'bomb'. box 'D' = 'gift'. box 'A' = 'magazine'. box 'B' = 'string'.  The 'string' is in box '",
+        "output": "B"
+    },
+    {
+        "prompt": "box 'B' = 'bread'. box 'D' = 'cup'. box 'I' = 'bell'. box 'J' = 'guitar'.  The 'bread' is in box '",
+        "output": "B"
+    },
+    {
+        "prompt": "box 'B' = 'bread'. box 'D' = 'cup'. box 'I' = 'bell'. box 'J' = 'guitar'.  The 'cup' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'B' = 'bread'. box 'D' = 'cup'. box 'I' = 'bell'. box 'J' = 'guitar'.  The 'bell' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'B' = 'bread'. box 'D' = 'cup'. box 'I' = 'bell'. box 'J' = 'guitar'.  The 'guitar' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'A' = 'phone'. box 'D' = 'magazine'. box 'J' = 'document'. box 'C' = 'bomb'.  The 'phone' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'A' = 'phone'. box 'D' = 'magazine'. box 'J' = 'document'. box 'C' = 'bomb'.  The 'magazine' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'A' = 'phone'. box 'D' = 'magazine'. box 'J' = 'document'. box 'C' = 'bomb'.  The 'document' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'A' = 'phone'. box 'D' = 'magazine'. box 'J' = 'document'. box 'C' = 'bomb'.  The 'bomb' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'G' = 'wheel'. box 'H' = 'block'. box 'A' = 'hat'. box 'F' = 'mirror'.  The 'wheel' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'G' = 'wheel'. box 'H' = 'block'. box 'A' = 'hat'. box 'F' = 'mirror'.  The 'block' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'G' = 'wheel'. box 'H' = 'block'. box 'A' = 'hat'. box 'F' = 'mirror'.  The 'hat' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'G' = 'wheel'. box 'H' = 'block'. box 'A' = 'hat'. box 'F' = 'mirror'.  The 'mirror' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'C' = 'apple'. box 'B' = 'clock'. box 'K' = 'medicine'. box 'A' = 'file'.  The 'apple' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'C' = 'apple'. box 'B' = 'clock'. box 'K' = 'medicine'. box 'A' = 'file'.  The 'clock' is in box '",
+        "output": "B"
+    },
+    {
+        "prompt": "box 'C' = 'apple'. box 'B' = 'clock'. box 'K' = 'medicine'. box 'A' = 'file'.  The 'medicine' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'C' = 'apple'. box 'B' = 'clock'. box 'K' = 'medicine'. box 'A' = 'file'.  The 'file' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'A' = 'ticket'. box 'C' = 'block'. box 'K' = 'drink'. box 'B' = 'branch'.  The 'ticket' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'A' = 'ticket'. box 'C' = 'block'. box 'K' = 'drink'. box 'B' = 'branch'.  The 'block' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'A' = 'ticket'. box 'C' = 'block'. box 'K' = 'drink'. box 'B' = 'branch'.  The 'drink' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'A' = 'ticket'. box 'C' = 'block'. box 'K' = 'drink'. box 'B' = 'branch'.  The 'branch' is in box '",
+        "output": "B"
+    },
+    {
+        "prompt": "box 'J' = 'phone'. box 'H' = 'brain'. box 'F' = 'coat'. box 'I' = 'crown'.  The 'phone' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'J' = 'phone'. box 'H' = 'brain'. box 'F' = 'coat'. box 'I' = 'crown'.  The 'brain' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'J' = 'phone'. box 'H' = 'brain'. box 'F' = 'coat'. box 'I' = 'crown'.  The 'coat' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'J' = 'phone'. box 'H' = 'brain'. box 'F' = 'coat'. box 'I' = 'crown'.  The 'crown' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'G' = 'sheet'. box 'F' = 'card'. box 'E' = 'dress'. box 'K' = 'pot'.  The 'sheet' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'G' = 'sheet'. box 'F' = 'card'. box 'E' = 'dress'. box 'K' = 'pot'.  The 'card' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'G' = 'sheet'. box 'F' = 'card'. box 'E' = 'dress'. box 'K' = 'pot'.  The 'dress' is in box '",
+        "output": "E"
+    },
+    {
+        "prompt": "box 'G' = 'sheet'. box 'F' = 'card'. box 'E' = 'dress'. box 'K' = 'pot'.  The 'pot' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'H' = 'glass'. box 'J' = 'paper'. box 'A' = 'drink'. box 'C' = 'wheel'.  The 'glass' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'H' = 'glass'. box 'J' = 'paper'. box 'A' = 'drink'. box 'C' = 'wheel'.  The 'paper' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'H' = 'glass'. box 'J' = 'paper'. box 'A' = 'drink'. box 'C' = 'wheel'.  The 'drink' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'H' = 'glass'. box 'J' = 'paper'. box 'A' = 'drink'. box 'C' = 'wheel'.  The 'wheel' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'C' = 'bag'. box 'F' = 'plane'. box 'G' = 'game'. box 'K' = 'creature'.  The 'bag' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'C' = 'bag'. box 'F' = 'plane'. box 'G' = 'game'. box 'K' = 'creature'.  The 'plane' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'C' = 'bag'. box 'F' = 'plane'. box 'G' = 'game'. box 'K' = 'creature'.  The 'game' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'C' = 'bag'. box 'F' = 'plane'. box 'G' = 'game'. box 'K' = 'creature'.  The 'creature' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'E' = 'milk'. box 'G' = 'branch'. box 'K' = 'television'. box 'I' = 'fish'.  The 'milk' is in box '",
+        "output": "E"
+    },
+    {
+        "prompt": "box 'E' = 'milk'. box 'G' = 'branch'. box 'K' = 'television'. box 'I' = 'fish'.  The 'branch' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'E' = 'milk'. box 'G' = 'branch'. box 'K' = 'television'. box 'I' = 'fish'.  The 'television' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'E' = 'milk'. box 'G' = 'branch'. box 'K' = 'television'. box 'I' = 'fish'.  The 'fish' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'F' = 'string'. box 'C' = 'engine'. box 'J' = 'ice'. box 'D' = 'disk'.  The 'string' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'F' = 'string'. box 'C' = 'engine'. box 'J' = 'ice'. box 'D' = 'disk'.  The 'engine' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'F' = 'string'. box 'C' = 'engine'. box 'J' = 'ice'. box 'D' = 'disk'.  The 'ice' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'F' = 'string'. box 'C' = 'engine'. box 'J' = 'ice'. box 'D' = 'disk'.  The 'disk' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'F' = 'painting'. box 'J' = 'egg'. box 'D' = 'train'. box 'I' = 'key'.  The 'painting' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'F' = 'painting'. box 'J' = 'egg'. box 'D' = 'train'. box 'I' = 'key'.  The 'egg' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'F' = 'painting'. box 'J' = 'egg'. box 'D' = 'train'. box 'I' = 'key'.  The 'train' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'F' = 'painting'. box 'J' = 'egg'. box 'D' = 'train'. box 'I' = 'key'.  The 'key' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'H' = 'brain'. box 'K' = 'wire'. box 'C' = 'drink'. box 'G' = 'painting'.  The 'brain' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'H' = 'brain'. box 'K' = 'wire'. box 'C' = 'drink'. box 'G' = 'painting'.  The 'wire' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'H' = 'brain'. box 'K' = 'wire'. box 'C' = 'drink'. box 'G' = 'painting'.  The 'drink' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'H' = 'brain'. box 'K' = 'wire'. box 'C' = 'drink'. box 'G' = 'painting'.  The 'painting' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'A' = 'television'. box 'H' = 'plant'. box 'D' = 'card'. box 'I' = 'computer'.  The 'television' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'A' = 'television'. box 'H' = 'plant'. box 'D' = 'card'. box 'I' = 'computer'.  The 'plant' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'A' = 'television'. box 'H' = 'plant'. box 'D' = 'card'. box 'I' = 'computer'.  The 'card' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'A' = 'television'. box 'H' = 'plant'. box 'D' = 'card'. box 'I' = 'computer'.  The 'computer' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'B' = 'machine'. box 'J' = 'file'. box 'F' = 'plane'. box 'C' = 'radio'.  The 'machine' is in box '",
+        "output": "B"
+    },
+    {
+        "prompt": "box 'B' = 'machine'. box 'J' = 'file'. box 'F' = 'plane'. box 'C' = 'radio'.  The 'file' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'B' = 'machine'. box 'J' = 'file'. box 'F' = 'plane'. box 'C' = 'radio'.  The 'plane' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'B' = 'machine'. box 'J' = 'file'. box 'F' = 'plane'. box 'C' = 'radio'.  The 'radio' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'I' = 'coat'. box 'H' = 'gift'. box 'C' = 'key'. box 'D' = 'phone'.  The 'coat' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'I' = 'coat'. box 'H' = 'gift'. box 'C' = 'key'. box 'D' = 'phone'.  The 'gift' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'I' = 'coat'. box 'H' = 'gift'. box 'C' = 'key'. box 'D' = 'phone'.  The 'key' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'I' = 'coat'. box 'H' = 'gift'. box 'C' = 'key'. box 'D' = 'phone'.  The 'phone' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'H' = 'rock'. box 'I' = 'painting'. box 'F' = 'leaf'. box 'G' = 'phone'.  The 'rock' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'H' = 'rock'. box 'I' = 'painting'. box 'F' = 'leaf'. box 'G' = 'phone'.  The 'painting' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'H' = 'rock'. box 'I' = 'painting'. box 'F' = 'leaf'. box 'G' = 'phone'.  The 'leaf' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'H' = 'rock'. box 'I' = 'painting'. box 'F' = 'leaf'. box 'G' = 'phone'.  The 'phone' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'H' = 'wheel'. box 'F' = 'ring'. box 'D' = 'meat'. box 'G' = 'drug'.  The 'wheel' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'H' = 'wheel'. box 'F' = 'ring'. box 'D' = 'meat'. box 'G' = 'drug'.  The 'ring' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'H' = 'wheel'. box 'F' = 'ring'. box 'D' = 'meat'. box 'G' = 'drug'.  The 'meat' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'H' = 'wheel'. box 'F' = 'ring'. box 'D' = 'meat'. box 'G' = 'drug'.  The 'drug' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'J' = 'coat'. box 'A' = 'picture'. box 'G' = 'paper'. box 'K' = 'tie'.  The 'coat' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'J' = 'coat'. box 'A' = 'picture'. box 'G' = 'paper'. box 'K' = 'tie'.  The 'picture' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'J' = 'coat'. box 'A' = 'picture'. box 'G' = 'paper'. box 'K' = 'tie'.  The 'paper' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'J' = 'coat'. box 'A' = 'picture'. box 'G' = 'paper'. box 'K' = 'tie'.  The 'tie' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'H' = 'clock'. box 'D' = 'fan'. box 'C' = 'branch'. box 'K' = 'tea'.  The 'clock' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'H' = 'clock'. box 'D' = 'fan'. box 'C' = 'branch'. box 'K' = 'tea'.  The 'fan' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'H' = 'clock'. box 'D' = 'fan'. box 'C' = 'branch'. box 'K' = 'tea'.  The 'branch' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'H' = 'clock'. box 'D' = 'fan'. box 'C' = 'branch'. box 'K' = 'tea'.  The 'tea' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'C' = 'cup'. box 'F' = 'card'. box 'K' = 'wire'. box 'E' = 'document'.  The 'cup' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'C' = 'cup'. box 'F' = 'card'. box 'K' = 'wire'. box 'E' = 'document'.  The 'card' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'C' = 'cup'. box 'F' = 'card'. box 'K' = 'wire'. box 'E' = 'document'.  The 'wire' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'C' = 'cup'. box 'F' = 'card'. box 'K' = 'wire'. box 'E' = 'document'.  The 'document' is in box '",
+        "output": "E"
+    },
+    {
+        "prompt": "box 'C' = 'ice'. box 'I' = 'guitar'. box 'J' = 'leaf'. box 'B' = 'game'.  The 'ice' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'C' = 'ice'. box 'I' = 'guitar'. box 'J' = 'leaf'. box 'B' = 'game'.  The 'guitar' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'C' = 'ice'. box 'I' = 'guitar'. box 'J' = 'leaf'. box 'B' = 'game'.  The 'leaf' is in box '",
+        "output": "J"
+    },
+    {
+        "prompt": "box 'C' = 'ice'. box 'I' = 'guitar'. box 'J' = 'leaf'. box 'B' = 'game'.  The 'game' is in box '",
+        "output": "B"
+    },
+    {
+        "prompt": "box 'I' = 'ice'. box 'H' = 'hat'. box 'G' = 'painting'. box 'E' = 'bread'.  The 'ice' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'I' = 'ice'. box 'H' = 'hat'. box 'G' = 'painting'. box 'E' = 'bread'.  The 'hat' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'I' = 'ice'. box 'H' = 'hat'. box 'G' = 'painting'. box 'E' = 'bread'.  The 'painting' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'I' = 'ice'. box 'H' = 'hat'. box 'G' = 'painting'. box 'E' = 'bread'.  The 'bread' is in box '",
+        "output": "E"
+    },
+    {
+        "prompt": "box 'I' = 'medicine'. box 'D' = 'cup'. box 'K' = 'bus'. box 'F' = 'map'.  The 'medicine' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'I' = 'medicine'. box 'D' = 'cup'. box 'K' = 'bus'. box 'F' = 'map'.  The 'cup' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'I' = 'medicine'. box 'D' = 'cup'. box 'K' = 'bus'. box 'F' = 'map'.  The 'bus' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'I' = 'medicine'. box 'D' = 'cup'. box 'K' = 'bus'. box 'F' = 'map'.  The 'map' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'C' = 'plane'. box 'I' = 'seed'. box 'K' = 'leaf'. box 'A' = 'phone'.  The 'plane' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'C' = 'plane'. box 'I' = 'seed'. box 'K' = 'leaf'. box 'A' = 'phone'.  The 'seed' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'C' = 'plane'. box 'I' = 'seed'. box 'K' = 'leaf'. box 'A' = 'phone'.  The 'leaf' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'C' = 'plane'. box 'I' = 'seed'. box 'K' = 'leaf'. box 'A' = 'phone'.  The 'phone' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'A' = 'picture'. box 'B' = 'document'. box 'C' = 'map'. box 'E' = 'machine'.  The 'picture' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'A' = 'picture'. box 'B' = 'document'. box 'C' = 'map'. box 'E' = 'machine'.  The 'document' is in box '",
+        "output": "B"
+    },
+    {
+        "prompt": "box 'A' = 'picture'. box 'B' = 'document'. box 'C' = 'map'. box 'E' = 'machine'.  The 'map' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'A' = 'picture'. box 'B' = 'document'. box 'C' = 'map'. box 'E' = 'machine'.  The 'machine' is in box '",
+        "output": "E"
+    },
+    {
+        "prompt": "box 'C' = 'newspaper'. box 'F' = 'clock'. box 'D' = 'magnet'. box 'I' = 'bill'.  The 'newspaper' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'C' = 'newspaper'. box 'F' = 'clock'. box 'D' = 'magnet'. box 'I' = 'bill'.  The 'clock' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'C' = 'newspaper'. box 'F' = 'clock'. box 'D' = 'magnet'. box 'I' = 'bill'.  The 'magnet' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'C' = 'newspaper'. box 'F' = 'clock'. box 'D' = 'magnet'. box 'I' = 'bill'.  The 'bill' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'H' = 'game'. box 'A' = 'boat'. box 'E' = 'block'. box 'C' = 'document'.  The 'game' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'H' = 'game'. box 'A' = 'boat'. box 'E' = 'block'. box 'C' = 'document'.  The 'boat' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'H' = 'game'. box 'A' = 'boat'. box 'E' = 'block'. box 'C' = 'document'.  The 'block' is in box '",
+        "output": "E"
+    },
+    {
+        "prompt": "box 'H' = 'game'. box 'A' = 'boat'. box 'E' = 'block'. box 'C' = 'document'.  The 'document' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'G' = 'ice'. box 'B' = 'hat'. box 'A' = 'bus'. box 'H' = 'magazine'.  The 'ice' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'G' = 'ice'. box 'B' = 'hat'. box 'A' = 'bus'. box 'H' = 'magazine'.  The 'hat' is in box '",
+        "output": "B"
+    },
+    {
+        "prompt": "box 'G' = 'ice'. box 'B' = 'hat'. box 'A' = 'bus'. box 'H' = 'magazine'.  The 'bus' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'G' = 'ice'. box 'B' = 'hat'. box 'A' = 'bus'. box 'H' = 'magazine'.  The 'magazine' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'I' = 'map'. box 'C' = 'camera'. box 'F' = 'painting'. box 'K' = 'meat'.  The 'map' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'I' = 'map'. box 'C' = 'camera'. box 'F' = 'painting'. box 'K' = 'meat'.  The 'camera' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'I' = 'map'. box 'C' = 'camera'. box 'F' = 'painting'. box 'K' = 'meat'.  The 'painting' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'I' = 'map'. box 'C' = 'camera'. box 'F' = 'painting'. box 'K' = 'meat'.  The 'meat' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'B' = 'drug'. box 'C' = 'block'. box 'H' = 'magnet'. box 'K' = 'map'.  The 'drug' is in box '",
+        "output": "B"
+    },
+    {
+        "prompt": "box 'B' = 'drug'. box 'C' = 'block'. box 'H' = 'magnet'. box 'K' = 'map'.  The 'block' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'B' = 'drug'. box 'C' = 'block'. box 'H' = 'magnet'. box 'K' = 'map'.  The 'magnet' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'B' = 'drug'. box 'C' = 'block'. box 'H' = 'magnet'. box 'K' = 'map'.  The 'map' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'D' = 'medicine'. box 'B' = 'disk'. box 'E' = 'brick'. box 'A' = 'newspaper'.  The 'medicine' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'D' = 'medicine'. box 'B' = 'disk'. box 'E' = 'brick'. box 'A' = 'newspaper'.  The 'disk' is in box '",
+        "output": "B"
+    },
+    {
+        "prompt": "box 'D' = 'medicine'. box 'B' = 'disk'. box 'E' = 'brick'. box 'A' = 'newspaper'.  The 'brick' is in box '",
+        "output": "E"
+    },
+    {
+        "prompt": "box 'D' = 'medicine'. box 'B' = 'disk'. box 'E' = 'brick'. box 'A' = 'newspaper'.  The 'newspaper' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'B' = 'plant'. box 'K' = 'rock'. box 'C' = 'painting'. box 'F' = 'egg'.  The 'plant' is in box '",
+        "output": "B"
+    },
+    {
+        "prompt": "box 'B' = 'plant'. box 'K' = 'rock'. box 'C' = 'painting'. box 'F' = 'egg'.  The 'rock' is in box '",
+        "output": "K"
+    },
+    {
+        "prompt": "box 'B' = 'plant'. box 'K' = 'rock'. box 'C' = 'painting'. box 'F' = 'egg'.  The 'painting' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'B' = 'plant'. box 'K' = 'rock'. box 'C' = 'painting'. box 'F' = 'egg'.  The 'egg' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'G' = 'tea'. box 'F' = 'cross'. box 'D' = 'pot'. box 'C' = 'wheel'.  The 'tea' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'G' = 'tea'. box 'F' = 'cross'. box 'D' = 'pot'. box 'C' = 'wheel'.  The 'cross' is in box '",
+        "output": "F"
+    },
+    {
+        "prompt": "box 'G' = 'tea'. box 'F' = 'cross'. box 'D' = 'pot'. box 'C' = 'wheel'.  The 'pot' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'G' = 'tea'. box 'F' = 'cross'. box 'D' = 'pot'. box 'C' = 'wheel'.  The 'wheel' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'E' = 'pipe'. box 'C' = 'rose'. box 'H' = 'note'. box 'A' = 'medicine'.  The 'pipe' is in box '",
+        "output": "E"
+    },
+    {
+        "prompt": "box 'E' = 'pipe'. box 'C' = 'rose'. box 'H' = 'note'. box 'A' = 'medicine'.  The 'rose' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'E' = 'pipe'. box 'C' = 'rose'. box 'H' = 'note'. box 'A' = 'medicine'.  The 'note' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'E' = 'pipe'. box 'C' = 'rose'. box 'H' = 'note'. box 'A' = 'medicine'.  The 'medicine' is in box '",
+        "output": "A"
+    },
+    {
+        "prompt": "box 'C' = 'branch'. box 'I' = 'computer'. box 'G' = 'ticket'. box 'H' = 'cup'.  The 'branch' is in box '",
+        "output": "C"
+    },
+    {
+        "prompt": "box 'C' = 'branch'. box 'I' = 'computer'. box 'G' = 'ticket'. box 'H' = 'cup'.  The 'computer' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'C' = 'branch'. box 'I' = 'computer'. box 'G' = 'ticket'. box 'H' = 'cup'.  The 'ticket' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'C' = 'branch'. box 'I' = 'computer'. box 'G' = 'ticket'. box 'H' = 'cup'.  The 'cup' is in box '",
+        "output": "H"
+    },
+    {
+        "prompt": "box 'I' = 'bomb'. box 'G' = 'stone'. box 'D' = 'phone'. box 'J' = 'camera'.  The 'bomb' is in box '",
+        "output": "I"
+    },
+    {
+        "prompt": "box 'I' = 'bomb'. box 'G' = 'stone'. box 'D' = 'phone'. box 'J' = 'camera'.  The 'stone' is in box '",
+        "output": "G"
+    },
+    {
+        "prompt": "box 'I' = 'bomb'. box 'G' = 'stone'. box 'D' = 'phone'. box 'J' = 'camera'.  The 'phone' is in box '",
+        "output": "D"
+    },
+    {
+        "prompt": "box 'I' = 'bomb'. box 'G' = 'stone'. box 'D' = 'phone'. box 'J' = 'camera'.  The 'camera' is in box '",
+        "output": "J"
+    }
+]

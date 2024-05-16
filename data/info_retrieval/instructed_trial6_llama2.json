@@ -1,0 +1,642 @@
+[
+    {
+        "prompt": "Variables:  'K' = gift.  'J' = seed.  'I' = map.  'H' = chemical.  The name of the variable that has gift is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'K' = gift.  'J' = seed.  'I' = map.  'H' = chemical.  The name of the variable that has seed is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'K' = gift.  'J' = seed.  'I' = map.  'H' = chemical.  The name of the variable that has map is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'K' = gift.  'J' = seed.  'I' = map.  'H' = chemical.  The name of the variable that has chemical is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'C' = note.  'D' = card.  'J' = picture.  'I' = map.  The name of the variable that has note is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'C' = note.  'D' = card.  'J' = picture.  'I' = map.  The name of the variable that has card is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'C' = note.  'D' = card.  'J' = picture.  'I' = map.  The name of the variable that has picture is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'C' = note.  'D' = card.  'J' = picture.  'I' = map.  The name of the variable that has map is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'A' = engine.  'G' = ball.  'J' = book.  'F' = key.  The name of the variable that has engine is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'A' = engine.  'G' = ball.  'J' = book.  'F' = key.  The name of the variable that has ball is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'A' = engine.  'G' = ball.  'J' = book.  'F' = key.  The name of the variable that has book is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'A' = engine.  'G' = ball.  'J' = book.  'F' = key.  The name of the variable that has key is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'I' = fish.  'D' = coat.  'K' = bomb.  'A' = bag.  The name of the variable that has fish is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'I' = fish.  'D' = coat.  'K' = bomb.  'A' = bag.  The name of the variable that has coat is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'I' = fish.  'D' = coat.  'K' = bomb.  'A' = bag.  The name of the variable that has bomb is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'I' = fish.  'D' = coat.  'K' = bomb.  'A' = bag.  The name of the variable that has bag is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'F' = key.  'K' = cup.  'A' = guitar.  'J' = magazine.  The name of the variable that has key is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'F' = key.  'K' = cup.  'A' = guitar.  'J' = magazine.  The name of the variable that has cup is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'F' = key.  'K' = cup.  'A' = guitar.  'J' = magazine.  The name of the variable that has guitar is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'F' = key.  'K' = cup.  'A' = guitar.  'J' = magazine.  The name of the variable that has magazine is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'E' = plant.  'F' = bill.  'G' = ball.  'C' = sheet.  The name of the variable that has plant is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'E' = plant.  'F' = bill.  'G' = ball.  'C' = sheet.  The name of the variable that has bill is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'E' = plant.  'F' = bill.  'G' = ball.  'C' = sheet.  The name of the variable that has ball is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'E' = plant.  'F' = bill.  'G' = ball.  'C' = sheet.  The name of the variable that has sheet is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'E' = plate.  'I' = dress.  'A' = shell.  'F' = television.  The name of the variable that has plate is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'E' = plate.  'I' = dress.  'A' = shell.  'F' = television.  The name of the variable that has dress is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'E' = plate.  'I' = dress.  'A' = shell.  'F' = television.  The name of the variable that has shell is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'E' = plate.  'I' = dress.  'A' = shell.  'F' = television.  The name of the variable that has television is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'A' = bill.  'G' = clock.  'H' = boot.  'J' = brick.  The name of the variable that has bill is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'A' = bill.  'G' = clock.  'H' = boot.  'J' = brick.  The name of the variable that has clock is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'A' = bill.  'G' = clock.  'H' = boot.  'J' = brick.  The name of the variable that has boot is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'A' = bill.  'G' = clock.  'H' = boot.  'J' = brick.  The name of the variable that has brick is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'E' = train.  'B' = fish.  'J' = bomb.  'I' = key.  The name of the variable that has train is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'E' = train.  'B' = fish.  'J' = bomb.  'I' = key.  The name of the variable that has fish is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'E' = train.  'B' = fish.  'J' = bomb.  'I' = key.  The name of the variable that has bomb is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'E' = train.  'B' = fish.  'J' = bomb.  'I' = key.  The name of the variable that has key is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'K' = coffee.  'C' = crown.  'J' = dress.  'H' = medicine.  The name of the variable that has coffee is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'K' = coffee.  'C' = crown.  'J' = dress.  'H' = medicine.  The name of the variable that has crown is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'K' = coffee.  'C' = crown.  'J' = dress.  'H' = medicine.  The name of the variable that has dress is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'K' = coffee.  'C' = crown.  'J' = dress.  'H' = medicine.  The name of the variable that has medicine is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'J' = note.  'B' = document.  'D' = clock.  'H' = rose.  The name of the variable that has note is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'J' = note.  'B' = document.  'D' = clock.  'H' = rose.  The name of the variable that has document is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'J' = note.  'B' = document.  'D' = clock.  'H' = rose.  The name of the variable that has clock is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'J' = note.  'B' = document.  'D' = clock.  'H' = rose.  The name of the variable that has rose is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'I' = engine.  'C' = television.  'G' = machine.  'K' = coat.  The name of the variable that has engine is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'I' = engine.  'C' = television.  'G' = machine.  'K' = coat.  The name of the variable that has television is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'I' = engine.  'C' = television.  'G' = machine.  'K' = coat.  The name of the variable that has machine is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'I' = engine.  'C' = television.  'G' = machine.  'K' = coat.  The name of the variable that has coat is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'D' = key.  'H' = seed.  'I' = crown.  'J' = camera.  The name of the variable that has key is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'D' = key.  'H' = seed.  'I' = crown.  'J' = camera.  The name of the variable that has seed is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'D' = key.  'H' = seed.  'I' = crown.  'J' = camera.  The name of the variable that has crown is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'D' = key.  'H' = seed.  'I' = crown.  'J' = camera.  The name of the variable that has camera is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'J' = watch.  'H' = boot.  'B' = boat.  'G' = magnet.  The name of the variable that has watch is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'J' = watch.  'H' = boot.  'B' = boat.  'G' = magnet.  The name of the variable that has boot is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'J' = watch.  'H' = boot.  'B' = boat.  'G' = magnet.  The name of the variable that has boat is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'J' = watch.  'H' = boot.  'B' = boat.  'G' = magnet.  The name of the variable that has magnet is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'C' = boot.  'E' = picture.  'K' = map.  'J' = bell.  The name of the variable that has boot is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'C' = boot.  'E' = picture.  'K' = map.  'J' = bell.  The name of the variable that has picture is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'C' = boot.  'E' = picture.  'K' = map.  'J' = bell.  The name of the variable that has map is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'C' = boot.  'E' = picture.  'K' = map.  'J' = bell.  The name of the variable that has bell is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'A' = bus.  'B' = plant.  'K' = car.  'H' = card.  The name of the variable that has bus is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'A' = bus.  'B' = plant.  'K' = car.  'H' = card.  The name of the variable that has plant is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'A' = bus.  'B' = plant.  'K' = car.  'H' = card.  The name of the variable that has car is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'A' = bus.  'B' = plant.  'K' = car.  'H' = card.  The name of the variable that has card is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'F' = chemical.  'J' = television.  'C' = meat.  'I' = brain.  The name of the variable that has chemical is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'F' = chemical.  'J' = television.  'C' = meat.  'I' = brain.  The name of the variable that has television is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'F' = chemical.  'J' = television.  'C' = meat.  'I' = brain.  The name of the variable that has meat is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'F' = chemical.  'J' = television.  'C' = meat.  'I' = brain.  The name of the variable that has brain is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'D' = plate.  'K' = plant.  'C' = coffee.  'B' = bus.  The name of the variable that has plate is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'D' = plate.  'K' = plant.  'C' = coffee.  'B' = bus.  The name of the variable that has plant is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'D' = plate.  'K' = plant.  'C' = coffee.  'B' = bus.  The name of the variable that has coffee is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'D' = plate.  'K' = plant.  'C' = coffee.  'B' = bus.  The name of the variable that has bus is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'I' = dress.  'D' = phone.  'K' = bell.  'G' = glass.  The name of the variable that has dress is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'I' = dress.  'D' = phone.  'K' = bell.  'G' = glass.  The name of the variable that has phone is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'I' = dress.  'D' = phone.  'K' = bell.  'G' = glass.  The name of the variable that has bell is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'I' = dress.  'D' = phone.  'K' = bell.  'G' = glass.  The name of the variable that has glass is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'H' = hat.  'C' = pipe.  'I' = string.  'D' = rose.  The name of the variable that has hat is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'H' = hat.  'C' = pipe.  'I' = string.  'D' = rose.  The name of the variable that has pipe is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'H' = hat.  'C' = pipe.  'I' = string.  'D' = rose.  The name of the variable that has string is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'H' = hat.  'C' = pipe.  'I' = string.  'D' = rose.  The name of the variable that has rose is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'A' = plate.  'B' = boot.  'H' = block.  'F' = brain.  The name of the variable that has plate is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'A' = plate.  'B' = boot.  'H' = block.  'F' = brain.  The name of the variable that has boot is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'A' = plate.  'B' = boot.  'H' = block.  'F' = brain.  The name of the variable that has block is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'A' = plate.  'B' = boot.  'H' = block.  'F' = brain.  The name of the variable that has brain is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'D' = coat.  'I' = glass.  'K' = tea.  'B' = machine.  The name of the variable that has coat is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'D' = coat.  'I' = glass.  'K' = tea.  'B' = machine.  The name of the variable that has glass is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'D' = coat.  'I' = glass.  'K' = tea.  'B' = machine.  The name of the variable that has tea is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'D' = coat.  'I' = glass.  'K' = tea.  'B' = machine.  The name of the variable that has machine is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'G' = leaf.  'H' = ticket.  'K' = fig.  'D' = disk.  The name of the variable that has leaf is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'G' = leaf.  'H' = ticket.  'K' = fig.  'D' = disk.  The name of the variable that has ticket is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'G' = leaf.  'H' = ticket.  'K' = fig.  'D' = disk.  The name of the variable that has fig is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'G' = leaf.  'H' = ticket.  'K' = fig.  'D' = disk.  The name of the variable that has disk is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'C' = bomb.  'F' = suit.  'G' = creature.  'I' = bell.  The name of the variable that has bomb is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'C' = bomb.  'F' = suit.  'G' = creature.  'I' = bell.  The name of the variable that has suit is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'C' = bomb.  'F' = suit.  'G' = creature.  'I' = bell.  The name of the variable that has creature is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'C' = bomb.  'F' = suit.  'G' = creature.  'I' = bell.  The name of the variable that has bell is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'B' = dress.  'K' = brick.  'I' = rose.  'E' = wire.  The name of the variable that has dress is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'B' = dress.  'K' = brick.  'I' = rose.  'E' = wire.  The name of the variable that has brick is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'B' = dress.  'K' = brick.  'I' = rose.  'E' = wire.  The name of the variable that has rose is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'B' = dress.  'K' = brick.  'I' = rose.  'E' = wire.  The name of the variable that has wire is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'H' = rose.  'E' = gift.  'A' = brain.  'B' = leaf.  The name of the variable that has rose is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'H' = rose.  'E' = gift.  'A' = brain.  'B' = leaf.  The name of the variable that has gift is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'H' = rose.  'E' = gift.  'A' = brain.  'B' = leaf.  The name of the variable that has brain is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'H' = rose.  'E' = gift.  'A' = brain.  'B' = leaf.  The name of the variable that has leaf is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'D' = plate.  'B' = pipe.  'H' = drink.  'J' = glass.  The name of the variable that has plate is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'D' = plate.  'B' = pipe.  'H' = drink.  'J' = glass.  The name of the variable that has pipe is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'D' = plate.  'B' = pipe.  'H' = drink.  'J' = glass.  The name of the variable that has drink is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'D' = plate.  'B' = pipe.  'H' = drink.  'J' = glass.  The name of the variable that has glass is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'E' = machine.  'J' = computer.  'I' = brick.  'K' = apple.  The name of the variable that has machine is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'E' = machine.  'J' = computer.  'I' = brick.  'K' = apple.  The name of the variable that has computer is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'E' = machine.  'J' = computer.  'I' = brick.  'K' = apple.  The name of the variable that has brick is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'E' = machine.  'J' = computer.  'I' = brick.  'K' = apple.  The name of the variable that has apple is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'H' = file.  'A' = milk.  'E' = letter.  'C' = pot.  The name of the variable that has file is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'H' = file.  'A' = milk.  'E' = letter.  'C' = pot.  The name of the variable that has milk is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'H' = file.  'A' = milk.  'E' = letter.  'C' = pot.  The name of the variable that has letter is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'H' = file.  'A' = milk.  'E' = letter.  'C' = pot.  The name of the variable that has pot is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'G' = brick.  'E' = car.  'C' = meat.  'F' = wire.  The name of the variable that has brick is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'G' = brick.  'E' = car.  'C' = meat.  'F' = wire.  The name of the variable that has car is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'G' = brick.  'E' = car.  'C' = meat.  'F' = wire.  The name of the variable that has meat is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'G' = brick.  'E' = car.  'C' = meat.  'F' = wire.  The name of the variable that has wire is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'G' = phone.  'E' = plate.  'J' = cup.  'A' = map.  The name of the variable that has phone is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'G' = phone.  'E' = plate.  'J' = cup.  'A' = map.  The name of the variable that has plate is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'G' = phone.  'E' = plate.  'J' = cup.  'A' = map.  The name of the variable that has cup is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'G' = phone.  'E' = plate.  'J' = cup.  'A' = map.  The name of the variable that has map is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'B' = seed.  'D' = book.  'I' = plant.  'A' = magazine.  The name of the variable that has seed is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'B' = seed.  'D' = book.  'I' = plant.  'A' = magazine.  The name of the variable that has book is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'B' = seed.  'D' = book.  'I' = plant.  'A' = magazine.  The name of the variable that has plant is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'B' = seed.  'D' = book.  'I' = plant.  'A' = magazine.  The name of the variable that has magazine is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'D' = sheet.  'F' = coffee.  'H' = pipe.  'I' = boot.  The name of the variable that has sheet is '",
+        "output": "D"
+    },
+    {
+        "prompt": "Variables:  'D' = sheet.  'F' = coffee.  'H' = pipe.  'I' = boot.  The name of the variable that has coffee is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'D' = sheet.  'F' = coffee.  'H' = pipe.  'I' = boot.  The name of the variable that has pipe is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'D' = sheet.  'F' = coffee.  'H' = pipe.  'I' = boot.  The name of the variable that has boot is '",
+        "output": "I"
+    },
+    {
+        "prompt": "Variables:  'F' = creature.  'A' = flower.  'H' = camera.  'E' = card.  The name of the variable that has creature is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'F' = creature.  'A' = flower.  'H' = camera.  'E' = card.  The name of the variable that has flower is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'F' = creature.  'A' = flower.  'H' = camera.  'E' = card.  The name of the variable that has camera is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'F' = creature.  'A' = flower.  'H' = camera.  'E' = card.  The name of the variable that has card is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'K' = bell.  'B' = mirror.  'J' = plate.  'H' = branch.  The name of the variable that has bell is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'K' = bell.  'B' = mirror.  'J' = plate.  'H' = branch.  The name of the variable that has mirror is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'K' = bell.  'B' = mirror.  'J' = plate.  'H' = branch.  The name of the variable that has plate is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'K' = bell.  'B' = mirror.  'J' = plate.  'H' = branch.  The name of the variable that has branch is '",
+        "output": "H"
+    },
+    {
+        "prompt": "Variables:  'G' = crown.  'J' = tie.  'C' = milk.  'B' = train.  The name of the variable that has crown is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'G' = crown.  'J' = tie.  'C' = milk.  'B' = train.  The name of the variable that has tie is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'G' = crown.  'J' = tie.  'C' = milk.  'B' = train.  The name of the variable that has milk is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'G' = crown.  'J' = tie.  'C' = milk.  'B' = train.  The name of the variable that has train is '",
+        "output": "B"
+    },
+    {
+        "prompt": "Variables:  'K' = crown.  'F' = ball.  'C' = clock.  'A' = chemical.  The name of the variable that has crown is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'K' = crown.  'F' = ball.  'C' = clock.  'A' = chemical.  The name of the variable that has ball is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'K' = crown.  'F' = ball.  'C' = clock.  'A' = chemical.  The name of the variable that has clock is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'K' = crown.  'F' = ball.  'C' = clock.  'A' = chemical.  The name of the variable that has chemical is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'C' = boat.  'G' = engine.  'J' = disk.  'A' = newspaper.  The name of the variable that has boat is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'C' = boat.  'G' = engine.  'J' = disk.  'A' = newspaper.  The name of the variable that has engine is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'C' = boat.  'G' = engine.  'J' = disk.  'A' = newspaper.  The name of the variable that has disk is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'C' = boat.  'G' = engine.  'J' = disk.  'A' = newspaper.  The name of the variable that has newspaper is '",
+        "output": "A"
+    },
+    {
+        "prompt": "Variables:  'J' = watch.  'F' = fish.  'C' = fan.  'E' = tie.  The name of the variable that has watch is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'J' = watch.  'F' = fish.  'C' = fan.  'E' = tie.  The name of the variable that has fish is '",
+        "output": "F"
+    },
+    {
+        "prompt": "Variables:  'J' = watch.  'F' = fish.  'C' = fan.  'E' = tie.  The name of the variable that has fan is '",
+        "output": "C"
+    },
+    {
+        "prompt": "Variables:  'J' = watch.  'F' = fish.  'C' = fan.  'E' = tie.  The name of the variable that has tie is '",
+        "output": "E"
+    },
+    {
+        "prompt": "Variables:  'J' = drink.  'G' = plane.  'K' = chemical.  'F' = dress.  The name of the variable that has drink is '",
+        "output": "J"
+    },
+    {
+        "prompt": "Variables:  'J' = drink.  'G' = plane.  'K' = chemical.  'F' = dress.  The name of the variable that has plane is '",
+        "output": "G"
+    },
+    {
+        "prompt": "Variables:  'J' = drink.  'G' = plane.  'K' = chemical.  'F' = dress.  The name of the variable that has chemical is '",
+        "output": "K"
+    },
+    {
+        "prompt": "Variables:  'J' = drink.  'G' = plane.  'K' = chemical.  'F' = dress.  The name of the variable that has dress is '",
+        "output": "F"
+    }
+]

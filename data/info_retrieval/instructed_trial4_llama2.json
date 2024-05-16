@@ -1,0 +1,642 @@
+[
+    {
+        "prompt": " 'C' = 'ball'.  'D' = 'brick'.  'A' = 'cup'.  'F' = 'tie'.  Now, 'ball' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'C' = 'ball'.  'D' = 'brick'.  'A' = 'cup'.  'F' = 'tie'.  Now, 'brick' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'C' = 'ball'.  'D' = 'brick'.  'A' = 'cup'.  'F' = 'tie'.  Now, 'cup' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'C' = 'ball'.  'D' = 'brick'.  'A' = 'cup'.  'F' = 'tie'.  Now, 'tie' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'K' = 'rock'.  'G' = 'hat'.  'J' = 'apple'.  'B' = 'wheel'.  Now, 'rock' is equal to '",
+        "output": "K"
+    },
+    {
+        "prompt": " 'K' = 'rock'.  'G' = 'hat'.  'J' = 'apple'.  'B' = 'wheel'.  Now, 'hat' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'K' = 'rock'.  'G' = 'hat'.  'J' = 'apple'.  'B' = 'wheel'.  Now, 'apple' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'K' = 'rock'.  'G' = 'hat'.  'J' = 'apple'.  'B' = 'wheel'.  Now, 'wheel' is equal to '",
+        "output": "B"
+    },
+    {
+        "prompt": " 'C' = 'newspaper'.  'K' = 'flower'.  'B' = 'picture'.  'E' = 'dress'.  Now, 'newspaper' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'C' = 'newspaper'.  'K' = 'flower'.  'B' = 'picture'.  'E' = 'dress'.  Now, 'flower' is equal to '",
+        "output": "K"
+    },
+    {
+        "prompt": " 'C' = 'newspaper'.  'K' = 'flower'.  'B' = 'picture'.  'E' = 'dress'.  Now, 'picture' is equal to '",
+        "output": "B"
+    },
+    {
+        "prompt": " 'C' = 'newspaper'.  'K' = 'flower'.  'B' = 'picture'.  'E' = 'dress'.  Now, 'dress' is equal to '",
+        "output": "E"
+    },
+    {
+        "prompt": " 'J' = 'brain'.  'K' = 'paper'.  'E' = 'rock'.  'B' = 'drink'.  Now, 'brain' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'J' = 'brain'.  'K' = 'paper'.  'E' = 'rock'.  'B' = 'drink'.  Now, 'paper' is equal to '",
+        "output": "K"
+    },
+    {
+        "prompt": " 'J' = 'brain'.  'K' = 'paper'.  'E' = 'rock'.  'B' = 'drink'.  Now, 'rock' is equal to '",
+        "output": "E"
+    },
+    {
+        "prompt": " 'J' = 'brain'.  'K' = 'paper'.  'E' = 'rock'.  'B' = 'drink'.  Now, 'drink' is equal to '",
+        "output": "B"
+    },
+    {
+        "prompt": " 'A' = 'game'.  'G' = 'fig'.  'F' = 'rock'.  'E' = 'hat'.  Now, 'game' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'A' = 'game'.  'G' = 'fig'.  'F' = 'rock'.  'E' = 'hat'.  Now, 'fig' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'A' = 'game'.  'G' = 'fig'.  'F' = 'rock'.  'E' = 'hat'.  Now, 'rock' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'A' = 'game'.  'G' = 'fig'.  'F' = 'rock'.  'E' = 'hat'.  Now, 'hat' is equal to '",
+        "output": "E"
+    },
+    {
+        "prompt": " 'H' = 'leaf'.  'G' = 'meat'.  'D' = 'stone'.  'A' = 'brick'.  Now, 'leaf' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'H' = 'leaf'.  'G' = 'meat'.  'D' = 'stone'.  'A' = 'brick'.  Now, 'meat' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'H' = 'leaf'.  'G' = 'meat'.  'D' = 'stone'.  'A' = 'brick'.  Now, 'stone' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'H' = 'leaf'.  'G' = 'meat'.  'D' = 'stone'.  'A' = 'brick'.  Now, 'brick' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'B' = 'ticket'.  'J' = 'disk'.  'A' = 'coat'.  'H' = 'boot'.  Now, 'ticket' is equal to '",
+        "output": "B"
+    },
+    {
+        "prompt": " 'B' = 'ticket'.  'J' = 'disk'.  'A' = 'coat'.  'H' = 'boot'.  Now, 'disk' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'B' = 'ticket'.  'J' = 'disk'.  'A' = 'coat'.  'H' = 'boot'.  Now, 'coat' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'B' = 'ticket'.  'J' = 'disk'.  'A' = 'coat'.  'H' = 'boot'.  Now, 'boot' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'G' = 'ball'.  'C' = 'mirror'.  'J' = 'car'.  'H' = 'pipe'.  Now, 'ball' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'G' = 'ball'.  'C' = 'mirror'.  'J' = 'car'.  'H' = 'pipe'.  Now, 'mirror' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'G' = 'ball'.  'C' = 'mirror'.  'J' = 'car'.  'H' = 'pipe'.  Now, 'car' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'G' = 'ball'.  'C' = 'mirror'.  'J' = 'car'.  'H' = 'pipe'.  Now, 'pipe' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'D' = 'rose'.  'B' = 'meat'.  'F' = 'apple'.  'H' = 'machine'.  Now, 'rose' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'D' = 'rose'.  'B' = 'meat'.  'F' = 'apple'.  'H' = 'machine'.  Now, 'meat' is equal to '",
+        "output": "B"
+    },
+    {
+        "prompt": " 'D' = 'rose'.  'B' = 'meat'.  'F' = 'apple'.  'H' = 'machine'.  Now, 'apple' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'D' = 'rose'.  'B' = 'meat'.  'F' = 'apple'.  'H' = 'machine'.  Now, 'machine' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'J' = 'magazine'.  'A' = 'fish'.  'K' = 'fig'.  'B' = 'plane'.  Now, 'magazine' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'J' = 'magazine'.  'A' = 'fish'.  'K' = 'fig'.  'B' = 'plane'.  Now, 'fish' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'J' = 'magazine'.  'A' = 'fish'.  'K' = 'fig'.  'B' = 'plane'.  Now, 'fig' is equal to '",
+        "output": "K"
+    },
+    {
+        "prompt": " 'J' = 'magazine'.  'A' = 'fish'.  'K' = 'fig'.  'B' = 'plane'.  Now, 'plane' is equal to '",
+        "output": "B"
+    },
+    {
+        "prompt": " 'A' = 'rose'.  'B' = 'newspaper'.  'G' = 'radio'.  'J' = 'medicine'.  Now, 'rose' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'A' = 'rose'.  'B' = 'newspaper'.  'G' = 'radio'.  'J' = 'medicine'.  Now, 'newspaper' is equal to '",
+        "output": "B"
+    },
+    {
+        "prompt": " 'A' = 'rose'.  'B' = 'newspaper'.  'G' = 'radio'.  'J' = 'medicine'.  Now, 'radio' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'A' = 'rose'.  'B' = 'newspaper'.  'G' = 'radio'.  'J' = 'medicine'.  Now, 'medicine' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'D' = 'milk'.  'G' = 'fish'.  'A' = 'wheel'.  'F' = 'string'.  Now, 'milk' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'D' = 'milk'.  'G' = 'fish'.  'A' = 'wheel'.  'F' = 'string'.  Now, 'fish' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'D' = 'milk'.  'G' = 'fish'.  'A' = 'wheel'.  'F' = 'string'.  Now, 'wheel' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'D' = 'milk'.  'G' = 'fish'.  'A' = 'wheel'.  'F' = 'string'.  Now, 'string' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'J' = 'guitar'.  'G' = 'phone'.  'C' = 'picture'.  'F' = 'key'.  Now, 'guitar' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'J' = 'guitar'.  'G' = 'phone'.  'C' = 'picture'.  'F' = 'key'.  Now, 'phone' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'J' = 'guitar'.  'G' = 'phone'.  'C' = 'picture'.  'F' = 'key'.  Now, 'picture' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'J' = 'guitar'.  'G' = 'phone'.  'C' = 'picture'.  'F' = 'key'.  Now, 'key' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'A' = 'engine'.  'C' = 'brain'.  'G' = 'milk'.  'I' = 'hat'.  Now, 'engine' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'A' = 'engine'.  'C' = 'brain'.  'G' = 'milk'.  'I' = 'hat'.  Now, 'brain' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'A' = 'engine'.  'C' = 'brain'.  'G' = 'milk'.  'I' = 'hat'.  Now, 'milk' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'A' = 'engine'.  'C' = 'brain'.  'G' = 'milk'.  'I' = 'hat'.  Now, 'hat' is equal to '",
+        "output": "I"
+    },
+    {
+        "prompt": " 'G' = 'apple'.  'I' = 'fish'.  'C' = 'rock'.  'J' = 'magnet'.  Now, 'apple' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'G' = 'apple'.  'I' = 'fish'.  'C' = 'rock'.  'J' = 'magnet'.  Now, 'fish' is equal to '",
+        "output": "I"
+    },
+    {
+        "prompt": " 'G' = 'apple'.  'I' = 'fish'.  'C' = 'rock'.  'J' = 'magnet'.  Now, 'rock' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'G' = 'apple'.  'I' = 'fish'.  'C' = 'rock'.  'J' = 'magnet'.  Now, 'magnet' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'G' = 'fig'.  'A' = 'watch'.  'B' = 'bus'.  'J' = 'game'.  Now, 'fig' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'G' = 'fig'.  'A' = 'watch'.  'B' = 'bus'.  'J' = 'game'.  Now, 'watch' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'G' = 'fig'.  'A' = 'watch'.  'B' = 'bus'.  'J' = 'game'.  Now, 'bus' is equal to '",
+        "output": "B"
+    },
+    {
+        "prompt": " 'G' = 'fig'.  'A' = 'watch'.  'B' = 'bus'.  'J' = 'game'.  Now, 'game' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'C' = 'fish'.  'B' = 'computer'.  'D' = 'milk'.  'G' = 'phone'.  Now, 'fish' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'C' = 'fish'.  'B' = 'computer'.  'D' = 'milk'.  'G' = 'phone'.  Now, 'computer' is equal to '",
+        "output": "B"
+    },
+    {
+        "prompt": " 'C' = 'fish'.  'B' = 'computer'.  'D' = 'milk'.  'G' = 'phone'.  Now, 'milk' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'C' = 'fish'.  'B' = 'computer'.  'D' = 'milk'.  'G' = 'phone'.  Now, 'phone' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'E' = 'gift'.  'A' = 'apple'.  'D' = 'pipe'.  'H' = 'bread'.  Now, 'gift' is equal to '",
+        "output": "E"
+    },
+    {
+        "prompt": " 'E' = 'gift'.  'A' = 'apple'.  'D' = 'pipe'.  'H' = 'bread'.  Now, 'apple' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'E' = 'gift'.  'A' = 'apple'.  'D' = 'pipe'.  'H' = 'bread'.  Now, 'pipe' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'E' = 'gift'.  'A' = 'apple'.  'D' = 'pipe'.  'H' = 'bread'.  Now, 'bread' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'B' = 'note'.  'A' = 'dress'.  'G' = 'glass'.  'D' = 'bus'.  Now, 'note' is equal to '",
+        "output": "B"
+    },
+    {
+        "prompt": " 'B' = 'note'.  'A' = 'dress'.  'G' = 'glass'.  'D' = 'bus'.  Now, 'dress' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'B' = 'note'.  'A' = 'dress'.  'G' = 'glass'.  'D' = 'bus'.  Now, 'glass' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'B' = 'note'.  'A' = 'dress'.  'G' = 'glass'.  'D' = 'bus'.  Now, 'bus' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'D' = 'apple'.  'F' = 'ball'.  'A' = 'block'.  'J' = 'brain'.  Now, 'apple' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'D' = 'apple'.  'F' = 'ball'.  'A' = 'block'.  'J' = 'brain'.  Now, 'ball' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'D' = 'apple'.  'F' = 'ball'.  'A' = 'block'.  'J' = 'brain'.  Now, 'block' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'D' = 'apple'.  'F' = 'ball'.  'A' = 'block'.  'J' = 'brain'.  Now, 'brain' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'I' = 'fish'.  'G' = 'television'.  'D' = 'apple'.  'E' = 'document'.  Now, 'fish' is equal to '",
+        "output": "I"
+    },
+    {
+        "prompt": " 'I' = 'fish'.  'G' = 'television'.  'D' = 'apple'.  'E' = 'document'.  Now, 'television' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'I' = 'fish'.  'G' = 'television'.  'D' = 'apple'.  'E' = 'document'.  Now, 'apple' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'I' = 'fish'.  'G' = 'television'.  'D' = 'apple'.  'E' = 'document'.  Now, 'document' is equal to '",
+        "output": "E"
+    },
+    {
+        "prompt": " 'D' = 'shell'.  'J' = 'machine'.  'A' = 'flower'.  'F' = 'guitar'.  Now, 'shell' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'D' = 'shell'.  'J' = 'machine'.  'A' = 'flower'.  'F' = 'guitar'.  Now, 'machine' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'D' = 'shell'.  'J' = 'machine'.  'A' = 'flower'.  'F' = 'guitar'.  Now, 'flower' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'D' = 'shell'.  'J' = 'machine'.  'A' = 'flower'.  'F' = 'guitar'.  Now, 'guitar' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'A' = 'car'.  'K' = 'drug'.  'B' = 'boat'.  'I' = 'block'.  Now, 'car' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'A' = 'car'.  'K' = 'drug'.  'B' = 'boat'.  'I' = 'block'.  Now, 'drug' is equal to '",
+        "output": "K"
+    },
+    {
+        "prompt": " 'A' = 'car'.  'K' = 'drug'.  'B' = 'boat'.  'I' = 'block'.  Now, 'boat' is equal to '",
+        "output": "B"
+    },
+    {
+        "prompt": " 'A' = 'car'.  'K' = 'drug'.  'B' = 'boat'.  'I' = 'block'.  Now, 'block' is equal to '",
+        "output": "I"
+    },
+    {
+        "prompt": " 'D' = 'watch'.  'F' = 'drink'.  'E' = 'cross'.  'G' = 'machine'.  Now, 'watch' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'D' = 'watch'.  'F' = 'drink'.  'E' = 'cross'.  'G' = 'machine'.  Now, 'drink' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'D' = 'watch'.  'F' = 'drink'.  'E' = 'cross'.  'G' = 'machine'.  Now, 'cross' is equal to '",
+        "output": "E"
+    },
+    {
+        "prompt": " 'D' = 'watch'.  'F' = 'drink'.  'E' = 'cross'.  'G' = 'machine'.  Now, 'machine' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'I' = 'magazine'.  'C' = 'bill'.  'E' = 'coat'.  'H' = 'file'.  Now, 'magazine' is equal to '",
+        "output": "I"
+    },
+    {
+        "prompt": " 'I' = 'magazine'.  'C' = 'bill'.  'E' = 'coat'.  'H' = 'file'.  Now, 'bill' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'I' = 'magazine'.  'C' = 'bill'.  'E' = 'coat'.  'H' = 'file'.  Now, 'coat' is equal to '",
+        "output": "E"
+    },
+    {
+        "prompt": " 'I' = 'magazine'.  'C' = 'bill'.  'E' = 'coat'.  'H' = 'file'.  Now, 'file' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'J' = 'newspaper'.  'I' = 'hat'.  'F' = 'computer'.  'D' = 'milk'.  Now, 'newspaper' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'J' = 'newspaper'.  'I' = 'hat'.  'F' = 'computer'.  'D' = 'milk'.  Now, 'hat' is equal to '",
+        "output": "I"
+    },
+    {
+        "prompt": " 'J' = 'newspaper'.  'I' = 'hat'.  'F' = 'computer'.  'D' = 'milk'.  Now, 'computer' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'J' = 'newspaper'.  'I' = 'hat'.  'F' = 'computer'.  'D' = 'milk'.  Now, 'milk' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'A' = 'game'.  'H' = 'file'.  'J' = 'plant'.  'E' = 'ball'.  Now, 'game' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'A' = 'game'.  'H' = 'file'.  'J' = 'plant'.  'E' = 'ball'.  Now, 'file' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'A' = 'game'.  'H' = 'file'.  'J' = 'plant'.  'E' = 'ball'.  Now, 'plant' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'A' = 'game'.  'H' = 'file'.  'J' = 'plant'.  'E' = 'ball'.  Now, 'ball' is equal to '",
+        "output": "E"
+    },
+    {
+        "prompt": " 'E' = 'wire'.  'H' = 'picture'.  'I' = 'tie'.  'K' = 'plant'.  Now, 'wire' is equal to '",
+        "output": "E"
+    },
+    {
+        "prompt": " 'E' = 'wire'.  'H' = 'picture'.  'I' = 'tie'.  'K' = 'plant'.  Now, 'picture' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'E' = 'wire'.  'H' = 'picture'.  'I' = 'tie'.  'K' = 'plant'.  Now, 'tie' is equal to '",
+        "output": "I"
+    },
+    {
+        "prompt": " 'E' = 'wire'.  'H' = 'picture'.  'I' = 'tie'.  'K' = 'plant'.  Now, 'plant' is equal to '",
+        "output": "K"
+    },
+    {
+        "prompt": " 'D' = 'rock'.  'H' = 'gift'.  'K' = 'newspaper'.  'I' = 'fish'.  Now, 'rock' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'D' = 'rock'.  'H' = 'gift'.  'K' = 'newspaper'.  'I' = 'fish'.  Now, 'gift' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'D' = 'rock'.  'H' = 'gift'.  'K' = 'newspaper'.  'I' = 'fish'.  Now, 'newspaper' is equal to '",
+        "output": "K"
+    },
+    {
+        "prompt": " 'D' = 'rock'.  'H' = 'gift'.  'K' = 'newspaper'.  'I' = 'fish'.  Now, 'fish' is equal to '",
+        "output": "I"
+    },
+    {
+        "prompt": " 'C' = 'branch'.  'J' = 'apple'.  'A' = 'pipe'.  'I' = 'card'.  Now, 'branch' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'C' = 'branch'.  'J' = 'apple'.  'A' = 'pipe'.  'I' = 'card'.  Now, 'apple' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'C' = 'branch'.  'J' = 'apple'.  'A' = 'pipe'.  'I' = 'card'.  Now, 'pipe' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'C' = 'branch'.  'J' = 'apple'.  'A' = 'pipe'.  'I' = 'card'.  Now, 'card' is equal to '",
+        "output": "I"
+    },
+    {
+        "prompt": " 'A' = 'disk'.  'G' = 'card'.  'C' = 'train'.  'F' = 'computer'.  Now, 'disk' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'A' = 'disk'.  'G' = 'card'.  'C' = 'train'.  'F' = 'computer'.  Now, 'card' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'A' = 'disk'.  'G' = 'card'.  'C' = 'train'.  'F' = 'computer'.  Now, 'train' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'A' = 'disk'.  'G' = 'card'.  'C' = 'train'.  'F' = 'computer'.  Now, 'computer' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'J' = 'ball'.  'G' = 'book'.  'K' = 'machine'.  'F' = 'letter'.  Now, 'ball' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'J' = 'ball'.  'G' = 'book'.  'K' = 'machine'.  'F' = 'letter'.  Now, 'book' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'J' = 'ball'.  'G' = 'book'.  'K' = 'machine'.  'F' = 'letter'.  Now, 'machine' is equal to '",
+        "output": "K"
+    },
+    {
+        "prompt": " 'J' = 'ball'.  'G' = 'book'.  'K' = 'machine'.  'F' = 'letter'.  Now, 'letter' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'H' = 'bag'.  'A' = 'ring'.  'G' = 'milk'.  'E' = 'note'.  Now, 'bag' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'H' = 'bag'.  'A' = 'ring'.  'G' = 'milk'.  'E' = 'note'.  Now, 'ring' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'H' = 'bag'.  'A' = 'ring'.  'G' = 'milk'.  'E' = 'note'.  Now, 'milk' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'H' = 'bag'.  'A' = 'ring'.  'G' = 'milk'.  'E' = 'note'.  Now, 'note' is equal to '",
+        "output": "E"
+    },
+    {
+        "prompt": " 'I' = 'engine'.  'K' = 'letter'.  'A' = 'meat'.  'F' = 'seed'.  Now, 'engine' is equal to '",
+        "output": "I"
+    },
+    {
+        "prompt": " 'I' = 'engine'.  'K' = 'letter'.  'A' = 'meat'.  'F' = 'seed'.  Now, 'letter' is equal to '",
+        "output": "K"
+    },
+    {
+        "prompt": " 'I' = 'engine'.  'K' = 'letter'.  'A' = 'meat'.  'F' = 'seed'.  Now, 'meat' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'I' = 'engine'.  'K' = 'letter'.  'A' = 'meat'.  'F' = 'seed'.  Now, 'seed' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'G' = 'branch'.  'D' = 'meat'.  'F' = 'cross'.  'H' = 'document'.  Now, 'branch' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'G' = 'branch'.  'D' = 'meat'.  'F' = 'cross'.  'H' = 'document'.  Now, 'meat' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'G' = 'branch'.  'D' = 'meat'.  'F' = 'cross'.  'H' = 'document'.  Now, 'cross' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'G' = 'branch'.  'D' = 'meat'.  'F' = 'cross'.  'H' = 'document'.  Now, 'document' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'G' = 'crown'.  'I' = 'leaf'.  'E' = 'ice'.  'A' = 'bus'.  Now, 'crown' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'G' = 'crown'.  'I' = 'leaf'.  'E' = 'ice'.  'A' = 'bus'.  Now, 'leaf' is equal to '",
+        "output": "I"
+    },
+    {
+        "prompt": " 'G' = 'crown'.  'I' = 'leaf'.  'E' = 'ice'.  'A' = 'bus'.  Now, 'ice' is equal to '",
+        "output": "E"
+    },
+    {
+        "prompt": " 'G' = 'crown'.  'I' = 'leaf'.  'E' = 'ice'.  'A' = 'bus'.  Now, 'bus' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'F' = 'guitar'.  'A' = 'camera'.  'C' = 'wire'.  'H' = 'stone'.  Now, 'guitar' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'F' = 'guitar'.  'A' = 'camera'.  'C' = 'wire'.  'H' = 'stone'.  Now, 'camera' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'F' = 'guitar'.  'A' = 'camera'.  'C' = 'wire'.  'H' = 'stone'.  Now, 'wire' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'F' = 'guitar'.  'A' = 'camera'.  'C' = 'wire'.  'H' = 'stone'.  Now, 'stone' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'F' = 'sheet'.  'K' = 'pot'.  'D' = 'coat'.  'C' = 'camera'.  Now, 'sheet' is equal to '",
+        "output": "F"
+    },
+    {
+        "prompt": " 'F' = 'sheet'.  'K' = 'pot'.  'D' = 'coat'.  'C' = 'camera'.  Now, 'pot' is equal to '",
+        "output": "K"
+    },
+    {
+        "prompt": " 'F' = 'sheet'.  'K' = 'pot'.  'D' = 'coat'.  'C' = 'camera'.  Now, 'coat' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'F' = 'sheet'.  'K' = 'pot'.  'D' = 'coat'.  'C' = 'camera'.  Now, 'camera' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'G' = 'flower'.  'D' = 'file'.  'C' = 'cross'.  'J' = 'tea'.  Now, 'flower' is equal to '",
+        "output": "G"
+    },
+    {
+        "prompt": " 'G' = 'flower'.  'D' = 'file'.  'C' = 'cross'.  'J' = 'tea'.  Now, 'file' is equal to '",
+        "output": "D"
+    },
+    {
+        "prompt": " 'G' = 'flower'.  'D' = 'file'.  'C' = 'cross'.  'J' = 'tea'.  Now, 'cross' is equal to '",
+        "output": "C"
+    },
+    {
+        "prompt": " 'G' = 'flower'.  'D' = 'file'.  'C' = 'cross'.  'J' = 'tea'.  Now, 'tea' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'H' = 'rock'.  'J' = 'stone'.  'A' = 'apple'.  'K' = 'gift'.  Now, 'rock' is equal to '",
+        "output": "H"
+    },
+    {
+        "prompt": " 'H' = 'rock'.  'J' = 'stone'.  'A' = 'apple'.  'K' = 'gift'.  Now, 'stone' is equal to '",
+        "output": "J"
+    },
+    {
+        "prompt": " 'H' = 'rock'.  'J' = 'stone'.  'A' = 'apple'.  'K' = 'gift'.  Now, 'apple' is equal to '",
+        "output": "A"
+    },
+    {
+        "prompt": " 'H' = 'rock'.  'J' = 'stone'.  'A' = 'apple'.  'K' = 'gift'.  Now, 'gift' is equal to '",
+        "output": "K"
+    }
+]
