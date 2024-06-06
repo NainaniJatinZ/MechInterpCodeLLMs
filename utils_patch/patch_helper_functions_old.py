@@ -1,8 +1,9 @@
+import transformer_lens
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
-from scipy.stats import linregress
+
 import numpy as np
 import einops
 from fancy_einsum import einsum
@@ -13,6 +14,7 @@ import time
 from pathlib import Path
 import plotly.express as px
 from torch.utils.data import DataLoader
+
 from torchtyping import TensorType as TT
 from typing import List, Union, Optional, Callable
 from typing_extensions import Literal
@@ -20,18 +22,11 @@ from functools import partial
 import copy
 import itertools
 import json
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import psutil
-import sys
-import gc
 
 from transformers import AutoModelForCausalLM, AutoConfig, AutoTokenizer
 import dataclasses
 import datasets
 
-# THIS IS A LOCAL (MODIFIED) VERSION OF TRANSFORMER_LENS - UNINSTALL PIP/CONDA VERSION BEFORE USE!
 import transformer_lens
 import transformer_lens.utils as utils
 import transformer_lens.patching as patching
@@ -46,43 +41,10 @@ from transformer_lens import (
     ActivationCache,
 )
 
-import os
-from config import HF_TOKEN, HF_PATH
-# Set environment variables
-os.environ["HF_TOKEN"] = HF_TOKEN
-os.environ["TRANSFORMERS_CACHE"] = HF_PATH
-os.environ["HF_DATASETS_CACHE"] = HF_PATH
-os.environ["HF_HOME"] = HF_PATH
 
-# When using multiple GPUs we use GPU 0 as the primary and switch to the next when it is 90% full
-num_gpus = torch.cuda.device_count()
-device_id = 0
-if num_gpus > 0:
-    device = "cuda:0"
-else:
-    device = "cpu"
-# Check GPU memory usage
-def check_gpu_memory(max_alloc=0.9):
-    if not torch.cuda.is_available():
-        return
-    global device_id, device
-    print("Primary device:", device)
-    torch.cuda.empty_cache()
-    max_alloc = 1 if max_alloc > 1 else max_alloc
-    for gpu in range(num_gpus):
-        memory_reserved = torch.cuda.memory_reserved(device=gpu)
-        memory_allocated = torch.cuda.memory_allocated(device=gpu)
-        total_memory = torch.cuda.get_device_properties(gpu).total_memory 
-        print(f"GPU {gpu}: {total_memory / (1024**2):.2f} MB  Allocated: {memory_allocated / (1024**2):.2f} MB  Reserved: {memory_reserved / (1024**2):.2f} MB")
-                
-        # Check if the current GPU is getting too full, and if so we switch the primary device to the next GPU
-        if memory_reserved > max_alloc * total_memory:
-            if device_id < num_gpus - 1:
-                device_id += 1
-                device = f"cuda:{device_id}"
-                print(f"Switching primary device to {device}")
-            else:
-                print("Cannot switch primary device, all GPUs are nearly full")
+# first prompt processing 
+Metric = Callable[[TT["batch_and_pos_dims", "d_model"]], float]
+filter_not_qkv_input = lambda name: "_input" not in name
 
 
 def timeit(func):
@@ -97,7 +59,7 @@ def timeit(func):
 
 
 # Logit difference metric
-def get_logit_diff(logits, answer_token_indices=answer_token_indices, device="cpu"):
+def get_logit_diff(logits, answer_token_indices, device="cpu"):
     if len(logits.shape) == 3:
         # Get final logits only
         logits = logits[:, -1, :]
@@ -107,7 +69,7 @@ def get_logit_diff(logits, answer_token_indices=answer_token_indices, device="cp
     return (correct_logits - incorrect_logits).mean()
 
 @timeit
-def get_cache_fwd_and_bwd(model, tokens, metric, answer_indices):
+def get_cache_fwd_and_bwd(model, tokens, metric, answer_indices, device):
     model.reset_hooks()
     cache = {}
 
@@ -143,13 +105,13 @@ def get_cache_fwd_and_bwd(model, tokens, metric, answer_indices):
 
 @timeit
 def create_attention_attr(
-    clean_cache, clean_grad_cache, device
+    clean_cache, clean_grad_cache, device, n_layers
 ) -> TT["batch", "layer", "head_index", "dest", "src"]:
     attention_stack = torch.stack(
-        [clean_cache["pattern", l] for l in range(model.cfg.n_layers)], dim=0
+        [clean_cache["pattern", l] for l in range(n_layers)], dim=0
     ).to(device)
     attention_grad_stack = torch.stack(
-        [clean_grad_cache["pattern", l] for l in range(model.cfg.n_layers)], dim=0
+        [clean_grad_cache["pattern", l] for l in range(n_layers)], dim=0
     ).to(device)
     attention_attr = attention_grad_stack * attention_stack
     attention_attr = einops.rearrange(
@@ -205,7 +167,8 @@ def attr_patch_head_out(
     clean_cache: ActivationCache,
     corrupted_cache: ActivationCache,
     corrupted_grad_cache: ActivationCache,
-    device
+    device,
+    HEAD_NAMES
 ) -> TT["component", "pos"]:
     labels = HEAD_NAMES
 
@@ -222,11 +185,11 @@ def attr_patch_head_out(
     return head_out_attr, labels
 
 def stack_head_vector_from_cache(
-    cache, activation_name: Literal["q", "k", "v", "z"], device
+    cache, activation_name: Literal["q", "k", "v", "z"], device, n_layers
 ) -> TT["layer_and_head_index", "batch", "pos", "d_head"]:
     """Stacks the head vectors from the cache from a specific activation (key, query, value or mixed_value (z)) into a single tensor."""
     stacked_head_vectors = torch.stack(
-        [cache[activation_name, l] for l in range(model.cfg.n_layers)], dim=0
+        [cache[activation_name, l] for l in range(n_layers)], dim=0
     ).to(device)
     stacked_head_vectors = einops.rearrange(
         stacked_head_vectors,
@@ -240,7 +203,8 @@ def attr_patch_head_vector(
     corrupted_cache: ActivationCache,
     corrupted_grad_cache: ActivationCache,
     activation_name: Literal["q", "k", "v", "z"],
-    device
+    device, 
+    HEAD_NAMES
 ) -> TT["component", "pos"]:
     labels = HEAD_NAMES
 
@@ -259,12 +223,13 @@ def attr_patch_head_vector(
     return head_vector_attr, labels
 
 def stack_head_pattern_from_cache(
+    n_layers,
     cache,
     device
 ) -> TT["layer_and_head_index", "batch", "dest_pos", "src_pos"]:
     """Stacks the head patterns from the cache into a single tensor."""
     stacked_head_pattern = torch.stack(
-        [cache["pattern", l] for l in range(model.cfg.n_layers)], dim=0
+        [cache["pattern", l] for l in range(n_layers)], dim=0 #model.cfg.n_layers
     ).to(device)
     stacked_head_pattern = einops.rearrange(
         stacked_head_pattern,
@@ -277,13 +242,15 @@ def attr_patch_head_pattern(
     clean_cache: ActivationCache,
     corrupted_cache: ActivationCache,
     corrupted_grad_cache: ActivationCache,
-    device
+    device, 
+    HEAD_NAMES, 
+    n_layers
 ) -> TT["component", "dest_pos", "src_pos"]:
     labels = HEAD_NAMES
 
-    clean_head_pattern = stack_head_pattern_from_cache(clean_cache, "cpu").to(device)
-    corrupted_head_pattern = stack_head_pattern_from_cache(corrupted_cache, "cpu").to(device)
-    corrupted_grad_head_pattern = stack_head_pattern_from_cache(corrupted_grad_cache, "cpu").to(device)
+    clean_head_pattern = stack_head_pattern_from_cache(n_layers, clean_cache, "cpu").to(device)
+    corrupted_head_pattern = stack_head_pattern_from_cache(n_layers, corrupted_cache, "cpu").to(device)
+    corrupted_grad_head_pattern = stack_head_pattern_from_cache(n_layers, corrupted_grad_cache, "cpu").to(device)
     head_pattern_attr = einops.reduce(
         corrupted_grad_head_pattern * (clean_head_pattern - corrupted_head_pattern),
         "component batch dest_pos src_pos -> component dest_pos src_pos",
@@ -292,7 +259,7 @@ def attr_patch_head_pattern(
     return head_pattern_attr, labels
 
 def get_head_vector_grad_input_from_grad_cache(
-    grad_cache: ActivationCache, activation_name: Literal["q", "k", "v"], layer: int, device
+    grad_cache: ActivationCache, activation_name: Literal["q", "k", "v"], layer: int, device, model
 ) -> TT["batch", "pos", "head_index", "d_model"]:
     vector_grad = grad_cache[activation_name, layer].to(device)
     ln_scales = grad_cache["scale", layer, "ln1"].to(device)
@@ -315,27 +282,32 @@ def get_head_vector_grad_input_from_grad_cache(
     )
 
 def get_stacked_head_vector_grad_input(
-    grad_cache, activation_name: Literal["q", "k", "v"], device
+    grad_cache, activation_name: Literal["q", "k", "v"], device, n_layers, model
 ) -> TT["layer", "batch", "pos", "head_index", "d_model"]:
     return torch.stack(
         [
-            get_head_vector_grad_input_from_grad_cache(grad_cache, activation_name, l, "cpu")
-            for l in range(model.cfg.n_layers)
+            get_head_vector_grad_input_from_grad_cache(grad_cache, activation_name, l, "cpu", model)
+            for l in range(n_layers)
         ],
         dim=0,
     ).to(device)
 
 def get_full_vector_grad_input(
-    grad_cache, device
+    grad_cache, device, n_layers, model
 ) -> TT["qkv", "layer", "batch", "pos", "head_index", "d_model"]:
-    return torch.stack([get_stacked_head_vector_grad_input(grad_cache, activation_name, "cpu").to(device) for activation_name in ["q", "k", "v"]], dim=0).to(device)
+    return torch.stack([get_stacked_head_vector_grad_input(grad_cache, activation_name, "cpu", n_layers, model).to(device) for activation_name in ["q", "k", "v"]], dim=0).to(device)
 
 @timeit
 def attr_patch_head_path(
     clean_cache: ActivationCache,
     corrupted_cache: ActivationCache,
     corrupted_grad_cache: ActivationCache,
-    device
+    device, 
+    HEAD_NAMES, 
+    HEAD_NAMES_QKV, 
+    n_heads,
+    n_layers, 
+    model
 ) -> TT["qkv", "dest_component", "src_component", "pos"]:
     """
     Computes the attribution patch along the path between each pair of heads.
@@ -345,14 +317,14 @@ def attr_patch_head_path(
     """
     start_labels = HEAD_NAMES
     end_labels = HEAD_NAMES_QKV
-    full_vector_grad_input = get_full_vector_grad_input(corrupted_grad_cache, "cpu")
+    full_vector_grad_input = get_full_vector_grad_input(corrupted_grad_cache, "cpu", n_layers, model)
     clean_head_result_stack = clean_cache.stack_head_results(-1)
     corrupted_head_result_stack = corrupted_cache.stack_head_results(-1)
     diff_head_result = einops.rearrange(
         clean_head_result_stack - corrupted_head_result_stack,
         "(layer head_index) batch pos d_model -> layer batch pos head_index d_model",
-        layer=model.cfg.n_layers,
-        head_index=model.cfg.n_heads,
+        layer=n_layers,
+        head_index=n_heads,
     )
     path_attr = einsum(
         "qkv layer_end batch pos head_end d_model, layer_start batch pos head_start d_model -> qkv layer_end head_end layer_start head_start pos",
@@ -360,8 +332,8 @@ def attr_patch_head_path(
         diff_head_result,
     )
     correct_layer_order_mask = (
-        torch.arange(model.cfg.n_layers)[None, :, None, None, None, None]
-        > torch.arange(model.cfg.n_layers)[None, None, None, :, None, None]
+        torch.arange(n_layers)[None, :, None, None, None, None]
+        > torch.arange(n_layers)[None, None, None, :, None, None]
     ).to(path_attr.device)
     zero = torch.zeros(1, device=path_attr.device)
     path_attr = torch.where(correct_layer_order_mask, path_attr, zero)
@@ -371,29 +343,3 @@ def attr_patch_head_path(
         "qkv layer_end head_end layer_start head_start pos -> (layer_end head_end qkv) (layer_start head_start) pos",
     )
     return path_attr, end_labels, start_labels
-
-def get_variable_sizes():
-    """Get sizes of all variables in the global scope."""
-    sizes = {name: sys.getsizeof(obj) for name, obj in globals().items()}
-    return sizes
-
-def print_largest_variables(n=5):
-    """Print the largest n variables by size."""
-    sizes = get_variable_sizes()
-    largest = sorted(sizes.items(), key=lambda x: x[1], reverse=True)[:n]
-    for name, size in largest:
-        print(f'{name}: {size / 1024:.2f} KB')
-
-def delete_largest_variables(n=5):
-    """Delete the largest n variables by size."""
-    sizes = get_variable_sizes()
-    largest = sorted(sizes.items(), key=lambda x: x[1], reverse=True)[:n]
-    for name, _ in largest:
-        if name not in ['psutil', 'sys', 'gc', 'get_variable_sizes', 'print_largest_variables', 'delete_largest_variables']:
-            print(f'Deleting {name}...')
-            del globals()[name]
-    # Perform garbage collection to free up memory
-    gc.collect()
-
-
-
